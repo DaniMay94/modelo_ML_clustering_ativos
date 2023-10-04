@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,36%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "5,80%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,07%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,06%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "17,38%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "6,32%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "8,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D.Y",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "17,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "9,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "10,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "24,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "36,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "42,32"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "9,96"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "11,22"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/L",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "6,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-0,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "0,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "0,66"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "2,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "2,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "1,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/VP",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "1,34"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "21,60"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "12,04"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "32,10"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "40,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "23,19"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "11,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "12,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "32,56"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "41,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1.406,27"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "10,25"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "14,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,70"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "8,02"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "22,47"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "11,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "14,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "36,07"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "46,42"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "24,12"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "12,38"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "14,99"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "36,59"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "47,16"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1.558,45"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "11,28"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "15,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "5,12"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "7,40"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "20,42"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "20,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "18,87"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "17,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "18,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "15,82"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "15,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "17,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "17,21"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "VPA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "16,45"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "0,83"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "2,06"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "2,43"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "1,15"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "0,73"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "0,95"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,19"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "1,47"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "1,89"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "1,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "0,59"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "2,17"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "1,40"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "2,83"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LPA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "3,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "4,27"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "2,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "4,85"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "10,40"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "12,90"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "10,56"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "3,64"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "2,46"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/SR",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "3,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "2,27"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "1,59"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,68"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "5,54"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "4,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "2,70"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "1,42"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "1,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "2,87"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "-1,49"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "-1,62"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "-3,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "-5,67"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-3,11"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "-2,57"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-2,06"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-2,27"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,36%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "5,80%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,07%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,06%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "17,38%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "6,32%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "8,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "17,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "9,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "10,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "24,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "36,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "42,32"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "9,96"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "11,22"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "6,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-0,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "0,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "0,66"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "2,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "2,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "1,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "1,34"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "21,60"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "12,04"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "32,10"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "40,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "23,19"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "11,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "12,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "32,56"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "41,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1.406,27"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "10,25"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "14,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,70"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "8,02"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,36%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "5,80%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,07%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,06%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "17,38%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "6,32%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "8,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "17,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "9,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "10,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "24,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "36,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "42,32"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "9,96"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "11,22"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "6,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-0,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "0,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "0,66"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "2,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "2,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "1,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "1,34"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,36%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "5,80%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,07%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,06%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "17,38%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "6,32%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "8,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROE",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "17,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "9,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "10,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "24,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "36,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "42,32"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "9,96"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "11,22"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROA",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "6,81"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "-0,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "0,18"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "ROIC",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "0,66"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "2,39"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "2,76"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "1,41"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "1,34"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "1,36%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "5,80%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "2,07%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "2,06%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "17,38%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "6,32%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "8,69%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "ATUAL",
+            "value": "17,65"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2022",
+            "value": "9,14"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2021",
+            "value": "10,79"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2020",
+            "value": "24,03"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2019",
+            "value": "36,93"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2018",
+            "value": "42,32"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2017",
+            "value": "9,96"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2016",
+            "value": "11,22"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "EZTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EZ TEC",
+            "year": "2014",
+            "value": "6,81"
+      }
+]

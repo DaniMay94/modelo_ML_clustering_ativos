@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D.Y",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "5,45%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D.Y",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D.Y",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D.Y",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/L",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "16,48"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/L",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "20,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/L",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "56,89"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/L",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/VP",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "3,22"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/VP",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/VP",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "3,11"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/VP",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "38,21"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "45,13"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "27,41"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "41,57"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "49,80"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "29,39"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "36,44"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "44,69"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "26,80"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "39,64"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "49,30"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "28,74"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "VPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "7,71"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "VPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "8,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "VPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "7,23"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "VPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "2,42"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "2,84"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "2,14"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "1,51"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "1,43"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "0,40"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LPA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/SR",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "24,82"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/SR",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "29,12"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/SR",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "20,75"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/SR",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "401,70"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "-56,12"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "234,44"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "-2,62"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "-3,00"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-2,36"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "5,45%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "16,48"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "20,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "56,89"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "3,22"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "3,11"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "38,21"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "45,13"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "27,41"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "41,57"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "49,80"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "29,39"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "5,45%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "16,48"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "20,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "56,89"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. EBIT",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "3,22"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "3,11"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "5,45%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROE",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "16,48"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "20,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "56,89"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROA",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROIC",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROIC",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROIC",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "ROIC",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "3,22"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "3,11"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "5,45%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "ATUAL",
+            "value": "16,48"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2022",
+            "value": "20,17"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2021",
+            "value": "56,89"
+      },
+      {
+            "ativo": "LAND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

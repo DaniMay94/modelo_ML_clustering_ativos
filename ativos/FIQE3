@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D.Y",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,09%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D.Y",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D.Y",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,26%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D.Y",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/L",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "12,01"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/L",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/L",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "29,67"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/L",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/VP",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/VP",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/VP",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "2,49"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/VP",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,74"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "3,64"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "9,02"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "7,10"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "6,74"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,30"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,19"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "10,86"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "7,82"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "7,77"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "18,43"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "VPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "2,83"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "VPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,75"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "VPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "2,65"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "VPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,78"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,48"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,34"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "0,22"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LPA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/SR",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/SR",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,08"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/SR",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "5,22"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/SR",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "5,44"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,36"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-1,16"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-1,16"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-3,00"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,09%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,26%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "12,01"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "29,67"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "2,49"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,74"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "3,64"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "9,02"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "7,10"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "6,74"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,30"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,09%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,26%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "12,01"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "29,67"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. EBIT",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "2,49"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,09%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,26%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROE",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "12,01"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "29,67"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROA",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROIC",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROIC",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROIC",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "ROIC",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "2,49"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,09%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,26%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "12,01"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "10,84"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "29,67"
+      },
+      {
+            "ativo": "FIQE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "UNIFIQUE TELECOMUNICA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

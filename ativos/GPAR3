@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "33,67%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D.Y",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,48"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "12,88"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/L",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,90"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "3,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "1,47"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/VP",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "2,42"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "8,76"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,14"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-4,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "3,39"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "3,07"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "8,94"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,15"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "9,09"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "15,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "20,36"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "18,67"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-50,65"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-52,68"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-54,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-57,99"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-102,09"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "VPA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-83,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "2,73"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "1,05"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,14"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "9,94"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "10,90"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "2,14"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "1,91"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "3,81"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "44,06"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-18,86"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LPA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-18,71"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "303,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "18,69"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "7,70"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,67"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "2,59"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/SR",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "14,43"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "38,86"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,30"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-7,03"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "-7,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "33,67%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,48"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "12,88"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,90"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "3,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "1,47"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "2,42"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "8,76"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,14"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-4,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "33,67%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,48"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "12,88"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,90"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "3,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "1,47"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "33,67%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROE",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,48"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "12,88"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROA",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "ROIC",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,90"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "3,00"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "1,47"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "33,67%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "ATUAL",
+            "value": "4,48"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2020",
+            "value": "12,88"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "GPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELGPAR",
+            "year": "2014",
+            "value": "-"
+      }
+]

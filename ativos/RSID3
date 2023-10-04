@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D.Y",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "7,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/L",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/VP",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-2,51"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-2,52"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-5,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-1,76"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-2,80"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-2,48"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-5,24"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-3,71"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-4,20"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-6,49"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-10,03"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-4,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-57,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-55,41"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-42,22"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-31,11"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-31,98"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-13,84"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "21,96"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "41,66"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "14,30"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "VPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "4,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "0,07"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,03"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-16,72"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-21,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-11,12"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "0,87"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-18,14"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-35,80"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-19,76"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-29,99"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-6,51"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LPA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-1,44"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "2,73"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "2,57"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/SR",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,90"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-244,20"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "7,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-2,51"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-2,52"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-5,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-1,76"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-2,80"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-2,48"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-5,24"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-3,71"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-4,20"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-6,49"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-10,03"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "7,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. EBIT",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROE",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "7,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROA",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "ROIC",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "0,33"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "0,82"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2021",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2020",
+            "value": "7,61"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2019",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2017",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "RSID3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ROSSI RESIDENCIAL",
+            "year": "2014",
+            "value": "-2,35"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,58%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D.Y",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-5,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "43,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "12,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "96,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-26,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-105,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/L",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "24,88"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "1,50"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "2,09"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "2,56"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "3,31"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/VP",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "3,55"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "15,33"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "15,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "7,72"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "7,43"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "12,02"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-21,69"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "30,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "28,20"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "11,08"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "14,12"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "145,76"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-175,59"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "11,92"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "11,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "14,41"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-167,72"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "66,26"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "28,20"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "17,35"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "7,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "5,64"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "3,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "4,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-11,17"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "20,84"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "21,60"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "9,33"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "12,96"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "72,81"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-65,76"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "6,08"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "9,69"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-86,35"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "44,84"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "21,60"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "11,43"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "15,91"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "6,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "10,41"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "10,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "10,57"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "9,72"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "13,79"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "14,57"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,49"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "VPA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "17,87"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "0,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "0,33"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "0,36"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "0,69"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "0,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "0,91"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "1,20"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,53"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,93"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "1,70"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-5,47"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "3,57"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LPA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "2,55"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "0,45"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "0,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "0,59"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "1,50"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/SR",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,91"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "3,69"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "2,13"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "3,65"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "2,40"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "16,61"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "6,95"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "6,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "6,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-0,67"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-1,63"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "-2,28"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "-2,97"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,58%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-5,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "43,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "12,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "96,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-26,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-105,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "24,88"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "1,50"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "2,09"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "2,56"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "3,31"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "3,55"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "15,33"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "15,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "7,72"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "7,43"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "12,02"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-21,69"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "30,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "28,20"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "11,08"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "14,12"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "145,76"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-175,59"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "11,92"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "11,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "14,41"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-167,72"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "66,26"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "28,20"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "17,35"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,58%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-5,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "43,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "12,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "96,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-26,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-105,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "24,88"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "1,50"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "2,09"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "2,56"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "3,31"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "3,55"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,58%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROE",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-5,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "43,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "12,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "96,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-26,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-105,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROA",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "24,88"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "ROIC",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "1,50"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "0,80"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "2,09"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "2,56"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "3,31"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "3,55"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "1,58%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "2,16%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "ATUAL",
+            "value": "-5,86"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2022",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2021",
+            "value": "43,62"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2020",
+            "value": "12,94"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2019",
+            "value": "96,10"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2018",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2017",
+            "value": "-26,42"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2016",
+            "value": "-105,27"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2015",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BRFS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRF",
+            "year": "2014",
+            "value": "24,88"
+      }
+]

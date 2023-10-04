@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D.Y",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D.Y",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,95%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D.Y",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D.Y",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/L",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "20,76"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/L",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "16,44"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/L",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "15,20"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/L",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/VP",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/VP",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/VP",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/VP",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "3,91"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "3,55"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,57"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "7,90"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "1,57"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "1,48"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "5,34"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "4,29"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "8,19"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "VPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "9,90"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "VPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "10,02"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "VPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "9,79"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "VPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,27"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "0,74"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,29"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,13"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LPA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/SR",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/SR",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/SR",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,03"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/SR",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "3,68"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,95%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "20,76"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "16,44"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "15,20"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "3,91"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "3,55"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,57"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "7,90"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,95%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "20,76"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "16,44"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "15,20"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. EBIT",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,95%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROE",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "20,76"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "16,44"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "15,20"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROA",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROIC",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROIC",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROIC",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "ROIC",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "2,95%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "ATUAL",
+            "value": "20,76"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2022",
+            "value": "16,44"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2021",
+            "value": "15,20"
+      },
+      {
+            "ativo": "LVTC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LIVETECH DA BAHIA INDUSTRIA E COMERCIO S.A",
+            "year": "2020",
+            "value": "-"
+      }
+]

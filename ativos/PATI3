@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "1,93%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,32%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "1,33%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "1,45%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "1,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D.Y",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,71%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "15,04"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,47"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,93"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "11,10"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "16,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/L",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "15,23"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "1,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,88"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,55"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/VP",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,77"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,05"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "8,67"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "4,38"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,14"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "10,73"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "4,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "9,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "10,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "7,32"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "5,57"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,12"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,24"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "10,03"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,58"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "5,00"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "8,41"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "9,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "35,31"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "35,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "35,70"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "33,09"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,34"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "23,46"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "20,03"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "20,14"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "19,43"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "VPA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "21,96"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,32"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "0,44"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "0,85"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,39"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,44"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,28"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,25"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,29"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,37"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "3,08"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "2,33"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "12,26"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "9,99"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,64"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,99"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "0,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,68"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LPA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,12"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "0,63"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,37"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,40"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,24"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,24"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,30"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/SR",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,32"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "0,82"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "1,41"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,77"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,87"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,60"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,65"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,96"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-1,82"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "-6,25"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "-2,06"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "-1,69"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-0,86"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-1,32"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "1,93%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,32%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "1,33%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "1,45%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "1,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,71%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "15,04"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,47"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,93"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "11,10"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "16,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "15,23"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "1,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,88"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,55"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,77"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,05"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "8,67"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "4,38"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,14"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "10,73"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "4,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "9,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "10,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "1,93%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,32%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "1,33%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "1,45%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "1,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,71%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "15,04"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,47"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,93"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "11,10"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "16,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "15,23"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. EBIT",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "1,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,88"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,55"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,77"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "1,93%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,32%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "1,33%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "1,45%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "1,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROE",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,71%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "15,04"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,47"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,93"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "11,10"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "16,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROA",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "15,23"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "ROIC",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "1,97"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,88"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "0,55"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "0,59"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "0,77"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "1,93%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "8,32%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "1,33%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "1,45%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "1,62%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "1,71%"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2022",
+            "value": "15,04"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2020",
+            "value": "2,90"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2019",
+            "value": "23,47"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2018",
+            "value": "3,93"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2017",
+            "value": "11,10"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2015",
+            "value": "16,95"
+      },
+      {
+            "ativo": "PATI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PANATLANTICA",
+            "year": "2014",
+            "value": "15,23"
+      }
+]

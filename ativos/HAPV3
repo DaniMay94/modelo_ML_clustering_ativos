@@ -1,0 +1,1892 @@
+[
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,60%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "0,43%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D.Y",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-36,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-46,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "81,15"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "72,36"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "50,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/L",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "3,82"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "7,24"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "5,91"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/VP",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "19,72"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "23,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "32,48"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "29,02"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "37,09"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-1.403,50"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-278,51"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "80,85"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "44,42"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "42,23"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "16,27"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "19,88"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "29,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "29,23"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "36,49"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-1.157,43"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-232,84"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "74,35"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "44,74"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "41,55"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "6,43"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "6,82"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "2,72"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,11"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "10,80"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "VPA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "1,92"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "4,19"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "3,45"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,13"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "0,21"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "1,26"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LPA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "1,35"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "1,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "6,63"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "7,62"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/SR",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-62,58"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "79,35"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "302,04"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "41,04"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "103,25"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "-2,28"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "-5,66"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "-4,17"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,60%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "0,43%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-36,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-46,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "81,15"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "72,36"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "50,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "3,82"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "7,24"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "5,91"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "19,72"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "23,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "32,48"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "29,02"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "37,09"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-1.403,50"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-278,51"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "80,85"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "44,42"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "42,23"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,60%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "0,43%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-36,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-46,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "81,15"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "72,36"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "50,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "3,82"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "7,24"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "5,91"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,60%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "0,43%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROE",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-36,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-46,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "81,15"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "72,36"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "50,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROA",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "ROIC",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "0,71"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "3,82"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "7,24"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "5,91"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "0,60%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "0,43%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "ATUAL",
+            "value": "-36,87"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2022",
+            "value": "-46,78"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2021",
+            "value": "81,15"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2020",
+            "value": "72,36"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2019",
+            "value": "50,53"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAPV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAPVIDA",
+            "year": "2015",
+            "value": "-"
+      }
+]

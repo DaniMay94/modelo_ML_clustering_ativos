@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D.Y",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "66,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "50,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "80,99"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-25,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-14,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/L",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "4,52"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "2,64"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/VP",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "5,86"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "11,06"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "9,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "9,43"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "6,73"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "14,93"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "8,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "2,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "2,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "2,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "2,19"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "2,81"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "5,17"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "5,17"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "5,17"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "4,15"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "5,10"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "3,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "5,81"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,41"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "5,41"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "5,41"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "5,41"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "5,41"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "5,13"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "4,95"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "1.420,97"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "1,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "2,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "VPA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "0,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "0,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "0,16"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-51,10"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LPA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "1,53"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "1,53"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "1,53"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "1,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "1,52"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "0,92"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/SR",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "1,49"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "1,49"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "1,49"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "1,19"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "5,62"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "3,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-4,84"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "66,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "50,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "80,99"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-25,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-14,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "4,52"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "2,64"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "6,40"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "5,86"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "11,06"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "9,74"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "9,43"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "6,73"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "14,93"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "8,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "66,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "50,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "80,99"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-25,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-14,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "4,52"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "2,64"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROE",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "66,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "50,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "80,99"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-25,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-14,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROA",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "ROIC",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "4,26"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "4,52"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "2,64"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "3,42"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "ATUAL",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2022",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2021",
+            "value": "82,76"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2020",
+            "value": "66,37"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2019",
+            "value": "50,23"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2018",
+            "value": "80,99"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2016",
+            "value": "-25,46"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2015",
+            "value": "-14,33"
+      },
+      {
+            "ativo": "RLOG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSAN",
+            "year": "2014",
+            "value": "-"
+      }
+]

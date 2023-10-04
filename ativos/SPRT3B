@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D.Y",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-78.669,16"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/L",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "788,93"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-1.731.456,77"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/VP",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "2.744,54"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "2.744,62"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/EBIT",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "VPA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "33.255,41"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LPA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/SR",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-1.731.456,77"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-78.669,16"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "788,93"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-1.731.456,77"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "2.744,54"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-78.669,16"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "788,93"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. EBIT",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-1.731.456,77"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROE",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-78.669,16"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROA",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "788,93"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "ROIC",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-1.731.456,77"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "ATUAL",
+            "value": "-78.669,16"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SPRT3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LONGDIS",
+            "year": "2014",
+            "value": "-"
+      }
+]

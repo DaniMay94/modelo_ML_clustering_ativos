@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "5,53%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,21%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D.Y",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "12,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/L",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "2,30"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "2,56"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/VP",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "6,88"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "8,56"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "9,05"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/EBIT",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "22,00"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "18,26"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "18,73"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "VPA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "1,00"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "1,07"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "4,27"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "4,68"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LPA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "1,65"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "2,11"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/SR",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "17,05"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "4,57"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "4,57"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "5,53%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,21%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "12,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "2,30"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "2,56"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "5,53%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,21%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "12,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. EBIT",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "2,30"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "2,56"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "5,53%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,21%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROE",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "12,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROA",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "ROIC",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "2,30"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "2,56"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "5,53%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,21%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "ATUAL",
+            "value": "12,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2019",
+            "value": "10,25"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ENMA3B",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEMAR",
+            "year": "2014",
+            "value": "-"
+      }
+]

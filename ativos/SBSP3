@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "2,25%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "3,10%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,91%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D.Y",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "13,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "12,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "31,21"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "10,84"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/L",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "3,45"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,43"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/VP",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "7,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "7,68"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "6,62"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "6,71"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "11,09"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "11,73"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "10,26"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "9,76"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "8,09"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "4,32"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "4,65"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "7,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "8,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "6,70"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "6,76"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "6,47"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/EBIT",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "41,08"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "39,99"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "36,48"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "33,35"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "31,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "VPA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "0,68"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "0,68"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "0,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "4,23"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "4,57"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "3,37"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,42"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "5,59"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LPA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "1,70"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,77"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "1,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,71"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "2,28"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/SR",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "161,68"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "62,28"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "19,48"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "56,18"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "54,05"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "-0,78"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "-0,69"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "54,05"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "2,25%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "3,10%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,91%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "13,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "12,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "31,21"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "10,84"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "3,45"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,43"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "7,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "7,68"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "6,62"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "6,71"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "11,09"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "11,73"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "10,26"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "9,76"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "8,09"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "2,25%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "3,10%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,91%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "13,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "12,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "31,21"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "10,84"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "3,45"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. EBIT",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,43"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "2,25%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "3,10%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,91%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROE",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "13,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "12,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "31,21"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "10,84"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROA",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "3,45"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "ROIC",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,43"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "1,33"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,90"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "2,25%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "3,10%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "1,91%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "ATUAL",
+            "value": "13,41"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2022",
+            "value": "12,52"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2020",
+            "value": "31,21"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2019",
+            "value": "10,84"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SBSP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SABESP",
+            "year": "2014",
+            "value": "-"
+      }
+]

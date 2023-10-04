@@ -1,0 +1,632 @@
+[
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D.Y",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D.Y",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D.Y",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/L",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7.904,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/L",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-542,68"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/L",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/VP",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/VP",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,16"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/VP",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "13,77"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "12,99"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "22,78"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "21,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "6,59"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,97"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,91"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "10,11"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "VPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "8,14"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "VPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "8,27"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "VPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,41"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LPA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/SR",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "2,79"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/SR",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "2,45"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/SR",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-20,02"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-43,95"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7.904,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-542,68"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,16"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "13,77"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "12,99"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "22,78"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "21,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7.904,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-542,68"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,16"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROE",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7.904,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-542,68"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROA",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROIC",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROIC",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "ROIC",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,16"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7.904,98"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2022",
+            "value": "-542,68"
+      },
+      {
+            "ativo": "MEGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OMEGA ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      }
+]

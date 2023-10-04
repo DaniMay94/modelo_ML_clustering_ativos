@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "4,45%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,80%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "3,97%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D.Y",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "6,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "14,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-39,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "13,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "10,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,15"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "12,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/L",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "28,85"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "1,32"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "1,33"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,86"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/VP",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "5,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "5,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "5,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "6,74"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "6,29"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "5,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "7,57"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "21,87"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "6,13"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "6,70"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,58"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "9,68"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "17,64"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "12,04"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "9,73"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,81"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-13,10"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "11,39"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "16,44"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "3,36"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "3,48"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "3,58"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "5,33"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "5,34"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,47"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "5,88"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "15,65"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "4,51"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "5,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,79"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "5,02"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "6,61"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "13,94"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "10,23"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "7,85"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "13,84"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,38"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "8,37"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/EBIT",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "12,56"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "21,57"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "21,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "19,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "17,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "16,56"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "15,26"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "13,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "13,92"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "16,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "VPA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "14,10"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,38"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "0,38"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "0,49"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "0,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,36"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,47"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "0,52"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "3,99"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "3,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "1,93"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "1,06"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LPA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "0,62"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "0,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "0,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "0,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,79"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/SR",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "0,83"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "2,48"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "2,47"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "1,40"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,81"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "-1,03"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "-1,44"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-0,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "-0,90"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "-1,02"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "4,45%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,80%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "3,97%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "6,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "14,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-39,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "13,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "10,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,15"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "12,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "28,85"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "1,32"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "1,33"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,86"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "5,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "5,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "5,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "6,74"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "6,29"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "5,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "7,57"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "21,87"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "6,13"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "6,70"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,58"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "9,68"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "17,64"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "12,04"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "9,73"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,81"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-13,10"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "11,39"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "16,44"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "4,45%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,80%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "3,97%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "6,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "14,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-39,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "13,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "10,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,15"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "12,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "28,85"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. EBIT",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "1,32"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "1,33"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,86"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "4,45%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,80%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "3,97%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROE",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "6,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "14,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-39,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "13,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "10,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,15"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "12,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROA",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "28,85"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "ROIC",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "1,32"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "1,33"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "0,86"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "1,12"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "1,65%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "4,45%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "3,80%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "3,97%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "ATUAL",
+            "value": "6,71"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2022",
+            "value": "7,76"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2021",
+            "value": "14,09"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2020",
+            "value": "-39,67"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2019",
+            "value": "13,08"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2018",
+            "value": "10,69"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2017",
+            "value": "17,15"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2016",
+            "value": "-9,54"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2015",
+            "value": "12,25"
+      },
+      {
+            "ativo": "TUPY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TUPY",
+            "year": "2014",
+            "value": "28,85"
+      }
+]

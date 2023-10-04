@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,51%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D.Y",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-59,11"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "34,08"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "50,01"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/L",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/VP",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "40,93"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "28,17"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-32,02"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "41,61"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "26,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "54,65"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "36,67"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-40,78"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "55,55"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "34,38"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "13,99"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "13,95"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "14,28"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "13,75"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "13,48"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "12,77"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "11,76"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "10,53"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "10,72"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "VPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "11,64"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "0,95"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "1,50"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "0,73"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,49"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "1,00"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "1,40"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "1,74"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "0,04"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LPA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "0,10"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "5,39"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "9,30"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/SR",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "40,23"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "50,49"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "4,74"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-1,55"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "-2,38"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,51%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-59,11"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "34,08"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "50,01"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "40,93"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "28,17"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-32,02"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "41,61"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "26,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,51%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-59,11"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "34,08"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "50,01"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. EBIT",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,51%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROE",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-59,11"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "34,08"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "50,01"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROA",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "ROIC",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "0,51%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "ATUAL",
+            "value": "-59,11"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2021",
+            "value": "34,08"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2020",
+            "value": "50,01"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MERC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MERCANTIL DO BRASIL FINANCEIRA",
+            "year": "2014",
+            "value": "-"
+      }
+]

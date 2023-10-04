@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "4,07%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,75%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "4,09%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "4,32%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "4,62%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D.Y",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "13,18"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "9,21"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "15,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,33"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "81,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "11,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/L",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "12,06"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,87"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,97"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,07"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/VP",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "6,23"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "10,46"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "8,19"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "12,56"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "12,31"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "6,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "11,80"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "12,05"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,41"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "29,60"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "13,43"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "11,31"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "3,93"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "5,43"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "6,66"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "12,23"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "13,41"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "4,06"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "5,63"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "7,00"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "11,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "13,12"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "6,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "5,62"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "16,29"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "6,07"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "5,30"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "6,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,76"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "6,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "6,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "7,15"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "3,84"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "7,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "6,90"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "6,25"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "VPA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "6,27"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,43"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,25"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,55"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,32"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,24"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,46"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,65"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,04"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LPA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,25"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "1,34"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "1,43"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "2,60"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,80"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,10"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,70"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/SR",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,66"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,81"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,87"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,29"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,15"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,69"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "-1,61"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "-1,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "-4,61"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "-6,04"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "-2,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-1,02"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "4,07%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,75%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "4,09%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "4,32%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "4,62%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "13,18"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "9,21"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "15,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,33"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "81,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "11,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "12,06"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,87"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,97"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,07"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "6,23"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "10,46"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "8,19"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "12,56"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "12,31"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "6,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "8,61"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "11,80"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "12,05"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,41"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "29,60"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "13,43"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "11,31"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "4,07%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,75%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "4,09%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "4,32%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "4,62%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "13,18"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "9,21"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "15,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,33"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "81,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "11,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "12,06"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,87"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,97"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,07"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "4,07%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,75%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "4,09%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "4,32%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "4,62%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROE",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "13,18"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "9,21"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "15,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,33"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "81,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "11,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROA",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "12,06"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "ROIC",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "0,87"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,97"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "1,07"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "0,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "4,07%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "1,75%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "4,09%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "4,32%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "4,62%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "ATUAL",
+            "value": "13,18"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2021",
+            "value": "9,21"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2019",
+            "value": "15,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2018",
+            "value": "8,33"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2017",
+            "value": "8,54"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2016",
+            "value": "81,68"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2015",
+            "value": "11,96"
+      },
+      {
+            "ativo": "TRIS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRISUL",
+            "year": "2014",
+            "value": "12,06"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "2,80%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D.Y",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/L",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/VP",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "260,26"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-17,09"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-17,09"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-10,99"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "250,52"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-17,12"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-17,12"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-10,58"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "74,46"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "74,46"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "74,46"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "83,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "98,76"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "104,38"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "89,05"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "VPA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "124,85"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "0,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "0,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "0,45"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-9,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-29,13"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-9,31"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "15,46"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-31,76"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LPA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-26,20"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/SR",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "174,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "174,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "66,95"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "2,80%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "260,26"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-17,09"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-17,09"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-10,99"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "2,80%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "2,80%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROE",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROA",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "ROIC",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "2,80%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "ATUAL",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2022",
+            "value": "-9,87"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2019",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ECPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ENCORPAR",
+            "year": "2014",
+            "value": "-"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D.Y",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "9,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/L",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "0,15"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-40,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/VP",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "1,25"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "3,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "161,90"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-5,91"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-6,50"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-2,57"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-5,20"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "42,17"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "1,35"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "3,50"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-580,68"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-5,74"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-6,37"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-2,53"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-4,53"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "10,72"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "129,36"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "0,86"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "20,98"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-3,92"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-5,92"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-1,10"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,49"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "0,86"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-75,25"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-3,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-5,80"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/EBIT",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "3,60"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "3,73"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-5,99"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-26,55"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,61"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "2,16"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "6,13"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "8,24"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "VPA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "10,85"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,14"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "0,92"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "1,18"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "0,29"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "3,18"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,43"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-2,05"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-3,16"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-3,46"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "0,37"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LPA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "1,56"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "2,40"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "2,88"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "2,96"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "21,84"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "4,36"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "1,16"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/SR",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-1,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "29,65"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-6,76"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,48"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "9,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "0,15"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-40,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "1,25"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "3,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "161,90"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-5,91"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-6,50"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-2,57"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-5,20"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "42,17"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "1,35"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "3,50"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-580,68"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-5,74"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-6,37"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-2,53"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-4,53"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "10,72"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "129,36"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "9,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "0,15"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. EBIT",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-40,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROE",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "9,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROA",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "0,15"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "ROIC",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-40,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2020",
+            "value": "9,30"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2019",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2018",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2017",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RNEW3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RENOVA",
+            "year": "2014",
+            "value": "-"
+      }
+]

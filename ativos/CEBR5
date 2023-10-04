@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "31,62%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "600,49%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "6,02%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "11,06%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D.Y",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "5,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "7,90"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/L",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-1,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "3,29"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "1,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/VP",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "1,09"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "3,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "5,19"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "2,04"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "3,35"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "2,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,61"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "17,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "3,71"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "2,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "1,82"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,25"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/EBIT",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-2,73"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "14,28"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "13,56"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "11,50"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "47,08"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "54,38"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "40,73"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "43,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "43,03"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "63,88"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "VPA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "19,28"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,75"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "0,58"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,12"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,14"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "2,72"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "17,35"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "30,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "8,26"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "6,24"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "9,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "7,80"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "2,77"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LPA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "2,94"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "2,51"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "3,32"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "8,76"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "0,34"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,15"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/SR",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "1,47"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "1,26"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "2,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "4,72"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "5,45"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-5,92"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "5,97"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-4,97"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "-1,50"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-1,30"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-2,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-4,33"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "31,62%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "600,49%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "6,02%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "11,06%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "5,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "7,90"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-1,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "3,29"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "1,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "1,09"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "3,22"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "5,19"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "2,04"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "31,62%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "600,49%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "6,02%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "11,06%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "5,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "7,90"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-1,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. EBIT",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "3,29"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "1,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "1,09"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "31,62%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "600,49%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "6,02%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "11,06%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROE",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "5,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "7,90"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROA",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-1,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "ROIC",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "3,29"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "1,20"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "1,09"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "31,62%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "600,49%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "6,02%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "11,06%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "ATUAL",
+            "value": "4,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2022",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2020",
+            "value": "5,17"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2019",
+            "value": "7,90"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2017",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2016",
+            "value": "3,84"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEBR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEB",
+            "year": "2014",
+            "value": "-1,21"
+      }
+]

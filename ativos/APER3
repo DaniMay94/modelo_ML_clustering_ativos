@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,10%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D.Y",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "15,78"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "89,03"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/L",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,48"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/VP",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "4,96"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "18,37"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "13,33"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-546,54"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "7,21"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "28,57"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "19,36"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-849,90"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "40,76"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "22,92"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "12,13"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "33,64"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "3,31"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "3,73"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "VPA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "4,72"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,45"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "0,85"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,00"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,87"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "0,33"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-21,32"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-10,77"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LPA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,32"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "2,44"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/SR",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "10,08"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "3,58"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "4,54"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-1,40"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,10%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "15,78"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "89,03"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,48"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "4,96"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "18,37"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "13,33"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-546,54"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,10%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "15,78"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "89,03"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,48"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,10%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROE",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "15,78"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "89,03"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROA",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "ROIC",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "1,48"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "1,10%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "ATUAL",
+            "value": "15,78"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2019",
+            "value": "89,03"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "APER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPER",
+            "year": "2014",
+            "value": "-"
+      }
+]

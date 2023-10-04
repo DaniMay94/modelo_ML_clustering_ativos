@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,50%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D.Y",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "23,28"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/L",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/VP",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "10,60"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "10,60"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "10,13"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "17,55"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "17,55"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "17,08"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "11,02"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "11,02"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "11,02"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "VPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,38"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,38"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,37"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,46"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,46"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LPA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,62"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,62"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,60"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/SR",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "6,57"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "6,57"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "6,39"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,50%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "23,28"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "10,60"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "10,60"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "10,13"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,50%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "23,28"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. EBIT",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,50%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROE",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "23,28"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROA",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "ROIC",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "0,50%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "23,92"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "23,28"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POWE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FOCUS ENERGIA HOLDING PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2017",
+            "value": "-"
+      }
+]

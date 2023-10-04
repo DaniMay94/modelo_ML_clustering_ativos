@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D.Y",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,23"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/L",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PEG RATIO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,33"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/VP",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,32"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,17"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "EV/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "7,48"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "7,75"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "11,35"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "VPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,25"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-2,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-2,09"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "4,47"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LPA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,15"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/SR",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-6,96"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-14,44"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "113,86"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,23"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,33"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,32"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,17"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. BRUTA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,23"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBITDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. EBIT",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,33"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROE",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,23"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROA",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "ROIC",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "0,33"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "ATUAL",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2022",
+            "value": "-1,23"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2021",
+            "value": "1,31"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "G2DI33",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "G2D INVESTMENTS LTD",
+            "year": "2018",
+            "value": "-"
+      }
+]

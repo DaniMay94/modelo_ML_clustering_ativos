@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D.Y",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "15,99"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,71"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "25,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "17,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "8,36"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/L",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "-3,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PEG RATIO",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,17"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "3,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "1,12"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/VP",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "14,64"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "10,34"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,01"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "47,45"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "54,03"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "13,87"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "13,68"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "9,48"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "83,41"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "13,76"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "42,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "10,96"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "EV/EBIT",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "14,65"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "10,34"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,01"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "47,45"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "54,03"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "13,87"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBITDA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "13,69"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "9,48"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "83,41"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "13,76"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "42,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "10,96"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/EBIT",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "11,53"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,05"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,75"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "29,51"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "24,25"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "21,02"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "20,29"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "19,66"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "21,72"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "VPA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "16,22"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "0,25"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "0,25"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "0,34"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "0,13"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,09"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,04"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "3,63"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "4,27"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "1,43"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "2,27"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "5,27"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "0,81"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LPA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "2,34"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,58"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "1,85"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "6,44"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "6,01"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,82"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "2,31"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/SR",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "11,42"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "8,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "5,60"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "9,01"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,96"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "-3,90"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "-2,87"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "-3,45"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "-1,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "-1,53"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "15,99"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,71"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "25,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "17,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "8,36"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "-3,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,17"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "3,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "1,12"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "14,64"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "10,34"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,01"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "47,45"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "54,03"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "13,87"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "13,68"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "9,48"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "83,41"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "13,76"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "42,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "10,96"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. BRUTA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "15,99"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,71"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "25,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "17,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "8,36"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBITDA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "-3,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. EBIT",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,17"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "3,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "1,12"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROE",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "15,99"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,71"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "25,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "17,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "8,36"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROA",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "-3,80"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "ROIC",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,17"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "3,19"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "1,12"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "1,96%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "ATUAL",
+            "value": "15,99"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2022",
+            "value": "11,71"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2020",
+            "value": "25,91"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2019",
+            "value": "17,84"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2017",
+            "value": "8,36"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAC11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BTG",
+            "year": "2014",
+            "value": "-"
+      }
+]

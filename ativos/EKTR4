@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "12,03%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "22,50%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "12,32%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,34%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "8,16%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "9,46%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "15,20%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D.Y",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "8,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,83"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "9,07"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,01"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "11,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/L",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "5,87"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "3,13"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,85"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "1,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "2,44"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "2,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "1,89"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "1,64"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "2,18"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "1,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "2,22"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/VP",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "1,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "5,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "5,23"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,14"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "6,69"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "6,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "6,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "7,45"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "8,59"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "3,56"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "3,23"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "3,28"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "4,40"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,39"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "4,21"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "3,79"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "3,98"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "5,50"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "5,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "5,12"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "6,14"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "6,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "6,51"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "3,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "16,27"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "14,79"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "16,69"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "13,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "11,84"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "10,48"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "10,31"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "10,13"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "VPA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "11,46"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "0,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,68"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "0,56"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "0,64"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,48"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "0,68"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "0,58"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "0,59"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,44"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "4,93"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "5,09"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "4,24"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "3,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "2,55"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "2,14"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "1,93"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "1,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "1,92"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LPA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "2,27"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,81"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "0,66"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "0,77"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "0,74"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,60"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "0,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "0,81"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "0,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/SR",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,54"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "14,26"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "13,05"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "4,86"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "51,27"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "5,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "2,52"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-35,03"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,79"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "6,35"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "2,60"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-0,69"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "12,03%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "22,50%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "12,32%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,34%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "8,16%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "9,46%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "15,20%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "8,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,83"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "9,07"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,01"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "11,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "5,87"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "3,13"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,85"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "1,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "2,44"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "2,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "1,89"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "1,64"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "2,18"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "1,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "2,22"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "1,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "5,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "5,23"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,14"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "6,69"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "6,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "6,43"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "7,45"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "8,59"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "12,03%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "22,50%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "12,32%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,34%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "8,16%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "9,46%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "15,20%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "8,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,83"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "9,07"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,01"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "11,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "5,87"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "3,13"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,85"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "1,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "2,44"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "2,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "1,89"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "1,64"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "2,18"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "1,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "2,22"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "1,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "12,03%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "22,50%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "12,32%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,34%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "8,16%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "9,46%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "15,20%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROE",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "8,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,83"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "9,07"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,01"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "11,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROA",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "5,87"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "3,13"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "0,85"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "1,82"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "ROIC",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "2,44"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "2,37"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "1,89"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "1,64"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "2,18"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "1,94"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "2,22"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "1,16"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "12,03%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "22,50%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "12,32%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "1,34%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "8,16%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "9,46%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "15,20%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "10,93%"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "ATUAL",
+            "value": "8,06"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2021",
+            "value": "6,78"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2020",
+            "value": "8,83"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2018",
+            "value": "9,07"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2016",
+            "value": "11,01"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2015",
+            "value": "11,75"
+      },
+      {
+            "ativo": "EKTR4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELEKTRO",
+            "year": "2014",
+            "value": "5,87"
+      }
+]

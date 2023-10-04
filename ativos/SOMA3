@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,92%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "25,30"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "23,74"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "33,32"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-91,64"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "5,88"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "2,01"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "1,16"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "4,10"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "20,21"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "19,75"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "54,21"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-72,02"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "18,21"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "17,81"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "50,02"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-75,37"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "9,51"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "9,44"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "9,11"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "1,00"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "2,77"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,43"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "0,38"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "1,71"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "1,63"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "3,58"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "5,14"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "4,86"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "4,94"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "6,51"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "6,28"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "-1,18"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-8,16"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,92%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "25,30"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "23,74"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "33,32"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-91,64"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "5,88"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "2,01"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "1,16"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "4,10"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "20,21"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "19,75"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "54,21"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-72,02"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,92%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "25,30"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "23,74"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "33,32"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-91,64"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "5,88"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "2,01"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "1,16"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "4,10"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,92%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "25,30"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "23,74"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "33,32"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-91,64"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "5,88"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "2,01"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "1,16"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "4,10"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "0,92%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "0,89%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "ATUAL",
+            "value": "25,30"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2022",
+            "value": "23,74"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2021",
+            "value": "33,32"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2020",
+            "value": "-91,64"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOMA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO DE MODA SOMA S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

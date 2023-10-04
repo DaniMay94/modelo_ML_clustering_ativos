@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D.Y",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/L",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "47,86"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/VP",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-7,80"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-5,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-5,83"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-4,06"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-7,63"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-5,53"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-5,62"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-3,85"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-1,40"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,89"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,85"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-1,37"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,86"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-2,45"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-15,82"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-17,65"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "0,59"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "17,51"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "VPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "0,34"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-13,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-18,33"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-16,82"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-13,68"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LPA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,60"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "2,94"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/SR",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-26,78"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "47,86"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-7,80"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-5,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-5,83"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-4,06"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-7,63"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-5,53"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-5,62"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-3,85"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "47,86"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROE",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROA",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "ROIC",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "47,86"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "ATUAL",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2021",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2020",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AVLL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALPHAVILLE S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

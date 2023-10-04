@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "7,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "9,31%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "4,65%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "4,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "5,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "7,49%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "38,15%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "9,84"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "7,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "13,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "10,36"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "6,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/L",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "426,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "0,30"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-261,27"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "1,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,90"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "30,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "7,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "11,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "5,40"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "4,54"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "17,39"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "8,34"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "10,06"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "8,31"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "6,82"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-22,67"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "416,80"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "7,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "11,96"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "5,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "4,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "18,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "7,92"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "9,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "6,89"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,64"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-20,44"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "372,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "14,94"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "14,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "11,32"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "9,29"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,14"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "11,12"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "8,73"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "VPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "0,12"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "0,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "0,21"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "0,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,12"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "4,62"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,55"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "1,91"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "1,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,97"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "1,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LPA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "1,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "2,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,42"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "2,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,99"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,94"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "40,77"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-5,17"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "7,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "9,31%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "4,65%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "4,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "5,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "7,49%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "38,15%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "9,84"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "7,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "13,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "10,36"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "6,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "426,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "0,30"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-261,27"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "1,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,90"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "30,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "7,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "11,18"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "5,40"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "4,54"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "17,39"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "8,34"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "10,06"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "8,31"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "6,82"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "-22,67"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "416,80"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "7,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "9,31%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "4,65%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "4,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "5,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "7,49%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "38,15%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "9,84"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "7,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "13,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "10,36"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "6,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "426,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "0,30"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-261,27"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "1,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,90"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "30,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "7,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "9,31%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "4,65%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "4,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "5,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "7,49%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROE",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "38,15%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "9,84"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "7,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "13,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "10,36"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "6,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROA",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "426,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "0,30"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "-261,27"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "2,53"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "1,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "1,15"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "0,90"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "30,68"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "7,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "9,31%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "4,65%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "4,50%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "5,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "4,86%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "7,49%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "38,15%"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "ATUAL",
+            "value": "9,84"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2021",
+            "value": "7,69"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2020",
+            "value": "13,13"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2018",
+            "value": "12,23"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2017",
+            "value": "11,20"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2016",
+            "value": "10,36"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2015",
+            "value": "6,72"
+      },
+      {
+            "ativo": "SANB4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO SANTANDER",
+            "year": "2014",
+            "value": "426,68"
+      }
+]

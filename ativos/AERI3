@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D.Y",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-7,85"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-9,34"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "72,53"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "67,69"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/L",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "5,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "7,93"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/VP",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "6,13"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "6,07"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "23,18"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "35,45"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "7,45"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "7,59"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "39,52"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "2,94"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "3,25"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "20,83"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "33,45"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "3,58"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "4,06"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "24,14"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "37,29"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "1,13"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,15"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "1,26"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "VPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "1,63"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "3,23"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "0,09"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LPA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,33"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "2,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "3,47"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/SR",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,68"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "3,93"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "10,56"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-0,76"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-4,55"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-10,90"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-7,85"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-9,34"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "72,53"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "67,69"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "5,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "7,93"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "6,13"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "6,07"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "23,18"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "35,45"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "7,45"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "7,59"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "39,52"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-7,85"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-9,34"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "72,53"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "67,69"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. EBIT",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "5,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "7,93"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROE",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-7,85"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-9,34"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "72,53"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "67,69"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROA",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "ROIC",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "5,02"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "7,93"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "ATUAL",
+            "value": "-7,85"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2022",
+            "value": "-9,34"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2021",
+            "value": "72,53"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2020",
+            "value": "67,69"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AERI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AERIS IND. E COM. DE EQUIP. GERACAO DE ENERGIA S.A",
+            "year": "2018",
+            "value": "-"
+      }
+]

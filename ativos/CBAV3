@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D.Y",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,92%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D.Y",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,32%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D.Y",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D.Y",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/L",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-8,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/L",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,93"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/L",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "10,96"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/L",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/VP",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/VP",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/VP",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/VP",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "36,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "5,15"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "5,14"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-18,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "7,02"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "20,37"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "4,08"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "4,40"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-10,03"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "6,08"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "6,02"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "VPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,69"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "VPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "8,55"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "VPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "7,55"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "VPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "1,46"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LPA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/SR",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/SR",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,78"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/SR",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/SR",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "1,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,18"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "3,55"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,92%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,32%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-8,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,93"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "10,96"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "36,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "5,15"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "5,14"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-18,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "7,02"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,92%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,32%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-8,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,93"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "10,96"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. EBIT",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,92%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,32%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROE",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-8,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,93"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "10,96"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROA",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROIC",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROIC",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROIC",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "ROIC",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "8,92%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "3,32%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "ATUAL",
+            "value": "-8,68"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2022",
+            "value": "7,93"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2021",
+            "value": "10,96"
+      },
+      {
+            "ativo": "CBAV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COMPANHIA BRASILEIRA DE ALUM\u00cdNIO",
+            "year": "2020",
+            "value": "-"
+      }
+]

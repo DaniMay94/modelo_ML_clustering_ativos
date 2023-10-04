@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "4,74%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D.Y",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "6,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-19,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "4,33"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/L",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "2,37"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,93"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,61"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-13,40"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-28,63"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/VP",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,14"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "3,35"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "3,84"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "6,07"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "1,60"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "2,11"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,78"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "1,19"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "3,53"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "4,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "6,57"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "1,74"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "2,48"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "1,01"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "25,91"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "24,09"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "13,73"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-14,03"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-4,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-34,16"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-54,45"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-117,47"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-90,55"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "VPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "12,86"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "1,10"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "1,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "1,58"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "0,46"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "0,40"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,10"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "11,21"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "11,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "15,23"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-9,79"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "29,68"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "20,64"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "63,02"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-26,91"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-103,42"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LPA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "12,09"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "0,96"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "1,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "1,39"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "0,56"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "0,45"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,16"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/SR",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "3,74"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "4,61"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "8,73"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-1,16"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "-2,31"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-2,90"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-0,69"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "4,74%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "6,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-19,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "4,33"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "2,37"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,93"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,61"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-13,40"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-28,63"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,14"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "4,74%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "6,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-19,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "4,33"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "2,37"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,93"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,61"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-13,40"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-28,63"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,14"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "4,74%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROE",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "6,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-19,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "4,33"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROA",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "ROIC",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "2,37"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,93"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,61"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-13,40"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-28,63"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,14"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "4,74%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "ATUAL",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2022",
+            "value": "6,26"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2021",
+            "value": "5,06"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2020",
+            "value": "-19,20"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2019",
+            "value": "4,33"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RSUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "METALURGICA RIOSULENSE",
+            "year": "2014",
+            "value": "2,27"
+      }
+]

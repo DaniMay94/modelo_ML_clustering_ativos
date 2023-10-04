@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,39%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "10,90%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "4,73%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,78%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "7,71%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D.Y",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "27,90"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "13,07"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "74,24"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/L",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PEG RATIO",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "2,01"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "1,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,80"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/VP",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "11,29"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "16,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "15,58"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "25,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "EV/EBIT",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "2,33"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "3,42"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBITDA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "3,21"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "2,36"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "5,31"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "2,29"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "6,57"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/EBIT",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "21,39"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "20,68"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "24,55"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "22,81"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "21,83"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "21,36"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "20,60"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "21,10"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "VPA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "21,29"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "0,17"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,29"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,54"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "2,10"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,04"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "2,91"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "2,43"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "1,50"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "0,76"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,26"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LPA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "0,26"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,21"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/SR",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "9,99"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "25,55"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,65"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-7,73"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,39%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "10,90%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "4,73%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,78%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "7,71%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "27,90"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "13,07"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "74,24"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "2,01"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "1,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,80"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "11,29"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "16,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "15,58"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "25,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,39%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "10,90%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "4,73%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,78%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "7,71%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. BRUTA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "27,90"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "13,07"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "74,24"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBITDA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. EBIT",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "2,01"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "1,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,80"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,39%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "10,90%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "4,73%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,78%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "7,71%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROE",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "27,90"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "13,07"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "74,24"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROA",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "ROIC",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "2,01"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "1,22"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "0,80"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "1,39%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "10,90%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "4,73%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,78%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "7,71%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "ATUAL",
+            "value": "27,90"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2020",
+            "value": "13,07"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2019",
+            "value": "7,18"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2015",
+            "value": "74,24"
+      },
+      {
+            "ativo": "CEPE6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CELPE",
+            "year": "2014",
+            "value": "-"
+      }
+]

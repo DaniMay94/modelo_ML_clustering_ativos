@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "5,69%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "178,47"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "178,47"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "172,10"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "143,41"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "127,84"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "107,64"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "87,24"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "72,65"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "59,79"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "25,00"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "25,00"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "25,34"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "25,33"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "34,03"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "32,38"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "27,20"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "24,31"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "21,43"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "15,55"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,61"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "1,27"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "1,27"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "5,69%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "5,69%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "5,69%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "3,37%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "5,69%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "ATUAL",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2022",
+            "value": "7,28"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANPARA",
+            "year": "2014",
+            "value": "-"
+      }
+]

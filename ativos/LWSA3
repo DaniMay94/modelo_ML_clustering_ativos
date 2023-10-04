@@ -1,0 +1,1682 @@
+[
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D.Y",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "127,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "137,36"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-492,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "513,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/L",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "1,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "2,64"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "15,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/VP",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "16,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "18,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "65,50"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "97,83"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "43,80"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "57,42"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "736,16"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "223,12"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "24,49"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "27,45"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "80,94"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "100,52"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "65,10"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "85,65"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "909,71"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "229,27"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "5,01"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "5,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "4,98"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "5,35"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "VPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "1,70"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "6,98"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LPA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "3,54"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "3,65"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "9,70"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "20,75"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/SR",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "3,85"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "3,85"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "5,30"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "28,39"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-1,64"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-3,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "127,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "137,36"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-492,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "513,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "1,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "2,64"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "15,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "16,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "18,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "65,50"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "97,83"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "43,80"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "57,42"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "736,16"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "223,12"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "127,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "137,36"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-492,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "513,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "1,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "2,64"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "15,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROE",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "127,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "137,36"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-492,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "513,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROA",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "ROIC",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "1,40"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "2,64"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "15,03"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "ATUAL",
+            "value": "127,88"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2022",
+            "value": "137,36"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2021",
+            "value": "-492,66"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2020",
+            "value": "513,19"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LWSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+            "year": "2016",
+            "value": "-"
+      }
+]

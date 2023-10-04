@@ -1,0 +1,632 @@
+[
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D.Y",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,93%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D.Y",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,11%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D.Y",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,09%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/L",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "55,17"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/L",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "38,84"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/L",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "14,55"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/VP",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,59"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/VP",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,32"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/VP",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "19,40"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "18,52"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "24.348,09"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "9,09"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "8,33"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "29,41"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "VPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7,31"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "VPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "7,30"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "VPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "8,20"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "0,46"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,21"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,25"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LPA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "0,76"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/SR",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/SR",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "2,04"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/SR",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,79"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "2,16"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,98"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "10,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,93%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,11%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,09%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "55,17"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "38,84"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "14,55"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,59"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,32"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "19,40"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "18,52"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "24.348,09"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,93%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,11%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,09%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "55,17"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "38,84"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "14,55"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. EBIT",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,59"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,32"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,93%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,11%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROE",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,09%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "55,17"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "38,84"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROA",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "14,55"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROIC",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROIC",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "ROIC",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "1,59"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,32"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "1,35"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,93%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "1,11%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "2,09%"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "55,17"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2022",
+            "value": "38,84"
+      },
+      {
+            "ativo": "AESB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AES BRASIL ENERGIA S.A.",
+            "year": "2021",
+            "value": "14,55"
+      }
+]

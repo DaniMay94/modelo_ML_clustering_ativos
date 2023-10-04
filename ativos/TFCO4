@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,77%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D.Y",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "125,51"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "103,33"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "159,46"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "473,69"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/L",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "9,67"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "36,61"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "30,36"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "45,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "60,68"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/VP",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "14,48"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "11,82"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "20,42"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "39,16"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "16,91"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "13,64"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "23,04"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "49,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "84,77"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "68,97"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "120,65"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "237,14"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "98,97"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "79,60"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "136,13"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "302,38"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "0,21"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "VPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "21,71"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "17,19"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "25,90"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "34,29"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "0,03"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LPA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "21,37"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "17,57"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "28,31"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "45,77"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/SR",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "46,48"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "38,14"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "51,48"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "67,54"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "-80,96"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "-65,54"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "-114,04"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-161,55"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,77%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "125,51"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "103,33"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "159,46"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "473,69"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "9,67"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "36,61"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "30,36"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "45,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "60,68"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "14,48"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "11,82"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "20,42"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "39,16"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "16,91"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "13,64"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "23,04"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "49,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,77%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "125,51"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "103,33"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "159,46"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "473,69"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "9,67"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. EBIT",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "36,61"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "30,36"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "45,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "60,68"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,77%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROE",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "125,51"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "103,33"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "159,46"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "473,69"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROA",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "9,67"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "4,13"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "ROIC",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "36,61"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "30,36"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "45,94"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "60,68"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "0,77%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "ATUAL",
+            "value": "125,51"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2022",
+            "value": "103,33"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2021",
+            "value": "159,46"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2020",
+            "value": "473,69"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TFCO4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TRACK & FIELD CO S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

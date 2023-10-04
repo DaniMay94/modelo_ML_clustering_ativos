@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D.Y",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-12,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-8,78"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/L",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,95"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/VP",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "2,80"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,41"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "2,05"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "2,74"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,40"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-2,92"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-5,26"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-3,89"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-2,86"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-5,23"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "5,47"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "5,55"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "5,71"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "VPA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,59"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,89"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LPA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "3,09"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "2,44"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "4,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/SR",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,67"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,97"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-11,10"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-6,93"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-49,58"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-12,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-8,78"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,95"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "2,80"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,41"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "2,05"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "2,74"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,40"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-12,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-8,78"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. EBIT",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,95"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROE",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-12,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-8,78"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROA",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "ROIC",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "0,95"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "ATUAL",
+            "value": "-12,36"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2022",
+            "value": "-8,78"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "NINJ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GETNINJAS",
+            "year": "2018",
+            "value": "-"
+      }
+]

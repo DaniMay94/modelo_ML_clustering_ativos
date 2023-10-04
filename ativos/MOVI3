@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "18,96%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D.Y",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "12,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "4,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,98"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "56,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "22,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "11,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "22,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/L",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "2,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "1,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "1,17"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/VP",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "4,31"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "3,85"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,10"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "12,39"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "9,56"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "6,82"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "5,65"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "7,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "29,21"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "15,24"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "8,66"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "10,24"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,12"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "0,78"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "2,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "8,61"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "6,75"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,78"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,15"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,43"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "20,28"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "10,76"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,84"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "5,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/EBIT",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "7,81"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "9,07"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "7,89"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "8,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "7,77"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "6,02"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "VPA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "0,18"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "0,26"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,73"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "0,70"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,35"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,38"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "2,26"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,36"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "0,86"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,75"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,31"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LPA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,07"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "1,51"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,72"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,61"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/SR",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "0,78"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-90,73"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-17,36"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "-8,87"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-3,31"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "18,96%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "12,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "4,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,98"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "56,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "22,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "11,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "22,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "2,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "1,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "1,17"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "4,31"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "3,85"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,10"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "12,39"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "9,56"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "6,82"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "5,65"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "7,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "29,21"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "15,24"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "8,66"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "10,24"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "18,96%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "12,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "4,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,98"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "56,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "22,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "11,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "22,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. EBIT",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "2,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "1,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "1,17"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "18,96%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROE",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "12,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "4,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,98"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "56,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "22,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "11,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "22,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROA",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "ROIC",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "1,00"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "1,74"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "2,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "2,19"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "1,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "1,17"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "18,96%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "3,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "4,30%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "ATUAL",
+            "value": "12,54"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2022",
+            "value": "4,97"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2021",
+            "value": "6,98"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2020",
+            "value": "56,62"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2019",
+            "value": "22,11"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2018",
+            "value": "11,49"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2017",
+            "value": "22,64"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "MOVI3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MOVIDA",
+            "year": "2014",
+            "value": "-"
+      }
+]

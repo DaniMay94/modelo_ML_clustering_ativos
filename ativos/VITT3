@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D.Y",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,71%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D.Y",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D.Y",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D.Y",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/L",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,84"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/L",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "12,40"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/L",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "19,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/L",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/VP",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,96"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/VP",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "3,22"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/VP",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "4,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/VP",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "10,17"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "10,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "14,49"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,19"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "11,18"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "15,56"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "8,88"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "9,44"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "13,45"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "9,77"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "10,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "14,44"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "VPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "4,11"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "VPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "4,04"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "VPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "3,36"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "VPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "1,81"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "1,94"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "2,44"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "1,03"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "1,05"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,75"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LPA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/SR",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,06"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/SR",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,18"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/SR",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "2,65"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/SR",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "4,61"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "5,24"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "7,02"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "-5,43"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "-6,00"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "-8,46"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,71%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,84"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "12,40"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "19,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,96"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "3,22"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "4,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "10,17"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "10,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "14,49"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,19"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "11,18"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "15,56"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,71%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,84"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "12,40"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "19,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. EBIT",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,96"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "3,22"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "4,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,71%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROE",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,84"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "12,40"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "19,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROA",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROIC",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROIC",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROIC",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "ROIC",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,96"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "3,22"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "4,29"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "2,71%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,84"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2022",
+            "value": "12,40"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2021",
+            "value": "19,26"
+      },
+      {
+            "ativo": "VITT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

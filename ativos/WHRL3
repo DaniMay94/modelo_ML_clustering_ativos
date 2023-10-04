@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,76%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,91%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,75%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "16,57%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "5,24%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "10,88%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "4,84%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D.Y",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "17,95%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "20,64"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "17,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "15,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "8,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "35,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "16,03"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "14,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "13,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/L",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "8,48"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "0,40"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,27"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "5,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "4,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "2,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "3,12"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/VP",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "3,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "7,43"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "7,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,08"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "8,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "7,39"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "15,86"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "13,20"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "9,57"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "6,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "4,63"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "9,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "9,13"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "9,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "10,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "19,93"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "26,52"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "22,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "23,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "8,97"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "5,33"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "8,32"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "7,55"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "7,99"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "9,68"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "7,86"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "16,17"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "12,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "8,54"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "6,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "4,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "10,33"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "9,52"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "9,19"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "11,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "21,21"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "27,05"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "22,39"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "21,32"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "9,48"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "5,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "1,52"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "1,45"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "1,40"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "1,28"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "2,01"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "1,46"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "1,49"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,60"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "1,56"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "VPA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "1,33"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "0,87"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "0,85"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "1,10"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "1,55"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "1,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "0,83"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "1,02"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "0,69"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "0,60"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "0,97"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "0,65"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "0,47"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "1,18"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "0,12"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "0,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "0,21"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "0,19"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LPA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "0,47"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "0,67"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "0,89"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "1,19"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "1,94"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "1,04"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "1,16"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "0,42"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/SR",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "0,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "22,15"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "30,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "25,79"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "14,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "9,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "5,65"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "8,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "6,68"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "6,87"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "7,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "-2,92"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "-2,92"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "-4,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "-6,55"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "-8,63"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "-4,18"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "-3,32"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-1,97"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "-3,37"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,76%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,91%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,75%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "16,57%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "5,24%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "10,88%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "4,84%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "17,95%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "20,64"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "17,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "15,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "8,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "35,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "16,03"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "14,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "13,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "8,48"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "0,40"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,27"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "5,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "4,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "2,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "3,12"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "3,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "7,43"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "7,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,08"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "8,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "7,39"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "15,86"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "13,20"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "9,57"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "6,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "4,63"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "9,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "9,13"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "9,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "10,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "19,93"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "26,52"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "22,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "23,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "8,97"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "5,33"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,76%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,91%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,75%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "16,57%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "5,24%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "10,88%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "4,84%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "17,95%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "20,64"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "17,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "15,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "8,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "35,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "16,03"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "14,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "13,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "8,48"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "0,40"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. EBIT",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,27"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "5,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "4,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "2,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "3,12"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "3,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,76%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,91%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,75%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "16,57%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "5,24%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "10,88%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "4,84%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROE",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "17,95%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "20,64"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "17,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "15,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "8,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "35,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "16,03"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "14,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "13,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROA",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "8,48"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "0,40"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "ROIC",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,27"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "5,71"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "4,96"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "2,95"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "3,12"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "1,88"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "3,00"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "3,76%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "3,91%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "8,75%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "16,57%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "5,24%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "10,88%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "4,84%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "17,95%"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "ATUAL",
+            "value": "20,64"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2022",
+            "value": "17,24"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2020",
+            "value": "15,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2019",
+            "value": "8,44"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2018",
+            "value": "35,78"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2017",
+            "value": "16,03"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2016",
+            "value": "14,51"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2015",
+            "value": "13,62"
+      },
+      {
+            "ativo": "WHRL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "WHIRLPOOL",
+            "year": "2014",
+            "value": "8,48"
+      }
+]

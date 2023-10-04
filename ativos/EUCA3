@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,02%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "5,29%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,06%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,70%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D.Y",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "14,90"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "90,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "15,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/L",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "4,46"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/VP",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,31"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,92"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,00"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "5,74"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "10,96"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "5,60"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "3,68"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,35"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "8,14"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "22,02"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "9,60"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "3,85"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,27"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "1,70"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "7,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "22,20"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "5,00"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,86"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,00"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "11,06"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "44,61"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "7,85"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/EBIT",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "22,53"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "21,73"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "20,39"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "15,99"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "14,32"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "13,64"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "13,36"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "12,97"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "12,67"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "VPA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "12,55"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,43"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,32"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "0,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,32"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "2,69"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,78"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "4,62"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,56"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,71"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "0,31"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "0,36"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LPA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "0,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,20"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "3,88"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/SR",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "3,28"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,39"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,52"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "12,92"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "68,31"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "-8,18"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "-3,67"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,02%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "5,29%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,06%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,70%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "14,90"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "90,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "15,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "4,46"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,31"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "2,92"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,00"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "5,74"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "10,96"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "5,60"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "3,68"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,35"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "8,14"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "22,02"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "9,60"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,02%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "5,29%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,06%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,70%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "14,90"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "90,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "15,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. EBIT",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "4,46"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,02%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "5,29%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,06%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,70%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROE",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "14,90"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "90,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "15,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROA",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "ROIC",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "0,79"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "4,46"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "4,02%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "5,29%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "0,06%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "0,70%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2022",
+            "value": "4,30"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2021",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2020",
+            "value": "14,90"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2019",
+            "value": "90,11"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2017",
+            "value": "15,44"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "EUCA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "EUCATEX",
+            "year": "2014",
+            "value": "-"
+      }
+]

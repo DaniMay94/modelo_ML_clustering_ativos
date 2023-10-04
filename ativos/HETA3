@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D.Y",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/L",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/VP",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "119,46"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "119,46"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "17,03"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "17,03"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-687,82"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-688,08"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-1.087,41"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-1.088,28"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-750,93"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-757,66"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-760,30"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-21,91"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-22,11"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "VPA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-21,83"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "3,54"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "402,11"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "399,33"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "0,87"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-337,35"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "6,74"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "2,64"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-102,96"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "0,20"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LPA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "5,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "15,21"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/SR",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-170,59"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-4,93"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "119,46"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "119,46"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROE",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROA",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "ROIC",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HETA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HERCULES",
+            "year": "2014",
+            "value": "-"
+      }
+]

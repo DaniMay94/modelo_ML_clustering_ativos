@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,92%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "4,28%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "3,42%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "3,40%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,09%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "4,85%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D.Y",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "6,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "6,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "24,80"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "20,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "16,15"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "41,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "8,79"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "17,54"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/L",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "13,69"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,81"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "1,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,82"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "1,43"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "1,57"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/VP",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "8,23"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "8,73"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "11,63"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "12,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "15,61"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "10,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "14,03"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "16,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "21,18"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "19,35"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "14,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "56,91"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "10,25"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "16,66"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "15,96"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "5,75"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,32"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "7,45"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "8,53"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "13,47"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,61"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "8,55"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "10,38"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "14,93"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "16,71"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "10,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "40,12"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,34"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "9,18"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "11,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "3,31"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "3,34"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "3,07"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "2,70"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "2,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "2,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "2,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "2,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "2,04"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "VPA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,84"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,52"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,36"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "0,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "0,81"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,59"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,63"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,30"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "0,69"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,39"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "0,11"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "0,21"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,20"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LPA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "0,25"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,42"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "0,97"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "1,04"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,75"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,56"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/SR",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "0,89"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "1,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "1,77"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "3,18"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "2,45"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "2,48"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "1,38"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "1,09"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,86"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "-0,96"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "-1,78"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "-1,45"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,92%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "4,28%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "3,42%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "3,40%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,09%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "4,85%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "6,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "6,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "24,80"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "20,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "16,15"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "41,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "8,79"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "17,54"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "13,69"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,81"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "1,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,82"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "1,43"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "1,57"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "8,23"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "8,73"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "11,63"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "12,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "15,61"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "10,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "14,03"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "16,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "21,18"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "19,35"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "14,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "56,91"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "10,25"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "16,66"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "15,96"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,92%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "4,28%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "3,42%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "3,40%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,09%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "4,85%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "6,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "6,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "24,80"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "20,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "16,15"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "41,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "8,79"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "17,54"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "13,69"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. EBIT",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,81"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "1,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,82"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "1,43"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "1,57"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,92%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "4,28%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "3,42%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "3,40%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,09%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "4,85%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROE",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "6,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "6,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "24,80"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "20,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "16,15"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "41,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "8,79"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "17,54"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROA",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "13,69"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "0,10"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "ROIC",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "1,21"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "0,72"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "0,81"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "1,01"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,82"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "1,43"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "1,57"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "0,83"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "1,85"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,92%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "4,28%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "3,42%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "3,40%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "6,09%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "4,85%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "4,46%"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "ATUAL",
+            "value": "6,44"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2022",
+            "value": "5,06"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2021",
+            "value": "6,46"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2020",
+            "value": "24,80"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2019",
+            "value": "20,88"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2018",
+            "value": "16,15"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2017",
+            "value": "41,28"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2016",
+            "value": "8,79"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2015",
+            "value": "17,54"
+      },
+      {
+            "ativo": "POMO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MARCOPOLO",
+            "year": "2014",
+            "value": "13,69"
+      }
+]

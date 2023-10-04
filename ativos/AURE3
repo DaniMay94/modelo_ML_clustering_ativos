@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D.Y",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,65%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D.Y",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D.Y",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D.Y",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/L",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,84"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/L",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/L",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/L",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/VP",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/VP",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/VP",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/VP",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "8,81"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "11,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "12,49"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "6,63"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "7,47"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "9,21"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "10,59"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "VPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "15,48"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "VPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "15,25"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "VPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "VPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "2,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "2,67"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LPA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/SR",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "2,43"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/SR",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "2,67"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/SR",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/SR",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,93"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "7,12"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,65%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,84"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "7,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "8,81"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "11,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "12,49"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,65%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,84"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. EBIT",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,65%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROE",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,84"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROA",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROIC",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROIC",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROIC",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "ROIC",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "10,65%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "0,68%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "ATUAL",
+            "value": "4,84"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2022",
+            "value": "5,51"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AURE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AUREN ENERGIA S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

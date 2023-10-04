@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D.Y",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D.Y",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D.Y",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D.Y",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/L",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "66,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/L",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "64,52"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/L",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-118,82"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/L",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/VP",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "3,00"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/VP",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "1,41"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/VP",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,01"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/VP",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,30"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "8,30"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "19,68"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "15,05"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "11,40"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "33,78"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "7,51"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "4,62"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "18,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "10,00"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "6,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "31,45"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "VPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "3,83"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "VPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "4,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "VPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,74"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "VPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "0,17"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LPA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/SR",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "1,33"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/SR",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/SR",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "2,06"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/SR",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "5,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "3,16"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-0,55"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-1,76"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "66,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "64,52"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-118,82"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "3,00"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "1,41"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,01"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "11,30"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "8,30"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "19,68"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "15,05"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "11,40"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "33,78"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "66,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "64,52"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-118,82"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. EBIT",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "3,00"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "1,41"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,01"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROE",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "66,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "64,52"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-118,82"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROA",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROIC",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROIC",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROIC",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "ROIC",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "3,00"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "1,41"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "3,01"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "ATUAL",
+            "value": "66,34"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2022",
+            "value": "64,52"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2021",
+            "value": "-118,82"
+      },
+      {
+            "ativo": "ONCO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ONCOCLINICAS DO BRASIL SERVICOS MEDICOS S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,10%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,72%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,13%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,12%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "19,82"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "11,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "17,69"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "11,23"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "17,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-9,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/L",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "1,64"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "2,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,41"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,35"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "14,73"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "8,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "11,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "11,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,74"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "17,85"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "9,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "12,57"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "12,96"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "21,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "5,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "26,72"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-4,87"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "30,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,37"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "14,73"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "8,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "11,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "11,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,74"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "17,85"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "9,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "12,57"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "12,96"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "21,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "5,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "26,72"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-4,87"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "30,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,37"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "5,66"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "5,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "4,96"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "4,41"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "3,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "3,32"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "VPA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "6,79"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "0,27"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,36"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LPA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "0,93"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "0,65"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "1,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "1,26"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "1,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,32"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-1,48"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-2,44"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,55"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,10%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,72%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,13%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,12%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "19,82"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "11,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "17,69"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "11,23"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "17,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-9,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "1,64"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "2,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,41"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,35"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "14,73"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "8,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "11,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "11,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,74"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "17,85"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "9,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "12,57"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "12,96"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "21,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "5,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "26,72"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-4,87"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "30,61"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,37"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,10%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,72%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,13%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,12%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "19,82"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "11,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "17,69"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "11,23"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "17,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-9,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "1,64"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "2,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,41"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,35"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,10%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,72%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,13%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,12%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROE",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "19,82"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "11,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "17,69"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "11,23"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "17,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-9,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROA",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,24"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,14"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "1,64"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "2,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,41"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "0,35"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "2,10%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "0,72%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "3,13%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "0,12%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "ATUAL",
+            "value": "19,82"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2022",
+            "value": "11,56"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2021",
+            "value": "17,69"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2019",
+            "value": "19,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2018",
+            "value": "11,23"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2017",
+            "value": "17,47"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2016",
+            "value": "-9,08"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BPAN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO PAN",
+            "year": "2014",
+            "value": "15,24"
+      }
+]

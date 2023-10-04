@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D.Y",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/L",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/VP",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "4.284,55"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-20,39"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-3,13"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-4,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-3,54"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-4,24"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-3,21"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "22,74"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-2.956,94"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-20,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-4,25"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-3,51"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-3,77"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,81"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "30,69"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "59,51"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-1,46"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "5,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-41,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-1,18"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "6,93"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-1.559,67"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-14,98"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-91,75"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-659,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-602,92"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-80,57"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-65,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-68,55"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "VPA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "3,16"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "0,06"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,04"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-103,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-2,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-56,36"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-111,57"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-17,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "3,52"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-107,90"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-1,80"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LPA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,32"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "0,18"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "0,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "0,20"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,26"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,24"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,37"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/SR",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-1,46"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,41"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "4.284,55"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-20,39"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-3,13"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-4,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-3,54"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-4,24"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-3,21"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "22,74"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-2.956,94"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-20,14"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-4,25"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-3,51"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-3,77"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,81"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "30,69"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROE",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROA",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "ROIC",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "1,29"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "0,27"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2022",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2020",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2018",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2017",
+            "value": "0,64"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2016",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2015",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "PDGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PDG REALTY",
+            "year": "2014",
+            "value": "-2,15"
+      }
+]

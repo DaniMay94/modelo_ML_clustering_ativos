@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "6,20%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,66%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "5,48%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "3,08%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "3,05%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,44%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "13,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "13,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "13,72"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "9,04"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "5,71"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/L",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "9,43"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-4,64"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-2,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "15,66"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,29"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,30"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,24"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "55,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "21,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "12,53"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "8,48"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "5,06"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "7,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "15,19"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "7,82"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "5,93"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "52,67"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "20,53"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "11,70"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "8,25"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "5,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "10,78"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "7,47"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "15,27"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "14,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "15,41"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "16,20"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "16,58"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "18,02"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "18,08"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "18,09"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "17,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "VPA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "19,37"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "0,24"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "0,20"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "0,19"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "1,83"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "1,99"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "2,41"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,81"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "2,47"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "2,80"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "3,59"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LPA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,74"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,18"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,21"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "2,02"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "1,42"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "0,99"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "1,45"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "1,27"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,24"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-2,95"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-2,89"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "-2,37"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "6,20%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,66%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "5,48%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "3,08%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "3,05%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,44%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "13,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "13,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "13,72"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "9,04"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "5,71"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "9,43"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-4,64"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-2,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "15,66"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,29"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,30"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,24"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "55,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "21,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "12,53"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "8,48"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "5,06"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "10,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "7,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "6,20%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,66%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "5,48%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "3,08%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "3,05%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,44%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "13,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "13,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "13,72"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "9,04"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "5,71"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "9,43"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-4,64"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-2,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "6,20%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,66%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "5,48%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "3,08%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "3,05%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROE",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,44%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "13,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "13,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "13,72"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "9,04"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "5,71"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROA",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "9,43"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "-4,64"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "-2,55"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "2,05"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,61"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "6,20%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "2,86%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "5,76%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "2,66%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "5,48%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "3,08%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "3,05%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "3,44%"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2022",
+            "value": "6,77"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2020",
+            "value": "13,39"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2019",
+            "value": "13,07"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2018",
+            "value": "13,72"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2017",
+            "value": "11,46"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2016",
+            "value": "9,04"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2015",
+            "value": "5,71"
+      },
+      {
+            "ativo": "BBDC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESCO",
+            "year": "2014",
+            "value": "9,43"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "19,31%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "5,07%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "10,01%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,00%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,61%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "10,84%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "5,93%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D.Y",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "5,14%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "11,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "9,58"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "12,98"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "18,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "22,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "12,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "12,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/L",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "-2,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "0,55"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "0,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "1,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "3,01"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "2,14"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "1,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/VP",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "13,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "12,23"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "13,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "15,82"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "23,03"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "13,51"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,97"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "10,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,41"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "22,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "18,44"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "16,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "20,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "28,06"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "13,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "15,27"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "10,27"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "11,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "10,56"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "18,18"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "15,08"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "16,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "19,42"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "25,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "14,15"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "11,56"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "11,15"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "10,53"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "29,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "22,75"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "19,83"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "25,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "31,34"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "16,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "18,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "13,23"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "12,64"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "11,82"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "3,76"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "4,84"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "4,54"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "4,69"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "4,08"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "3,84"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "10,70"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "9,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "8,70"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "VPA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "7,70"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "1,35"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "1,13"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "1,71"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "1,62"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,73"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "1,92"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "1,62"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "0,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "0,67"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "0,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "0,55"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "0,65"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,20"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "2,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,83"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LPA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "2,68"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "2,17"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "3,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "3,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "5,35"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "3,17"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,80"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "2,59"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "2,30"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/SR",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "2,06"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "3,56"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "2,12"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "2,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,65"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "4,70"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "2,89"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "2,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "3,26"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "2,83"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "-4,37"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "-2,93"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "-5,22"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "-5,13"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "-7,86"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "-7,95"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "-11,73"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "-6,95"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "-4,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "-5,93"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "19,31%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "5,07%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "10,01%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,00%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,61%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "10,84%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "5,93%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "5,14%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "11,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "9,58"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "12,98"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "18,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "22,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "12,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "12,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "-2,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "0,55"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "0,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "1,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "3,01"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "2,14"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "1,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "13,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "12,23"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "13,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "15,82"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "23,03"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "13,51"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,97"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "10,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,41"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "22,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "18,44"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "16,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "20,45"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "28,06"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "13,10"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "15,27"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "10,27"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "11,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "10,56"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "19,31%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "5,07%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "10,01%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,00%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,61%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "10,84%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "5,93%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "5,14%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "11,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "9,58"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "12,98"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "18,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "22,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "12,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "12,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "-2,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "0,55"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "0,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "1,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "3,01"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "2,14"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "1,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "19,31%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "5,07%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "10,01%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,00%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,61%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "10,84%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "5,93%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROE",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "5,14%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "11,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "9,58"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "12,98"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "18,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "22,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "12,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "12,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROA",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,39"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "-2,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "3,11"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "0,55"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "0,74"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "ROIC",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "0,72"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "1,25"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "1,79"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "3,01"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "2,14"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "2,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "1,81"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "1,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "1,99"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "19,31%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "5,07%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "10,01%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "2,00%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "2,61%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "10,84%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "4,40%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "5,93%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "4,10%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "5,14%"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "ATUAL",
+            "value": "11,91"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2022",
+            "value": "9,58"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2021",
+            "value": "12,98"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2020",
+            "value": "18,66"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2019",
+            "value": "22,38"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2018",
+            "value": "12,63"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2017",
+            "value": "12,94"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2016",
+            "value": "8,33"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "GRND3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRENDENE",
+            "year": "2014",
+            "value": "9,39"
+      }
+]

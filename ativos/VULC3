@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "2,96%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D.Y",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,19"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "62,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "11,47"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "35,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "49,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/L",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-3,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "0,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "2,56"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "2,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "34,44"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "9,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/VP",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "3,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "8,41"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,25"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "6,25"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "18,14"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "10,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "7,96"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "22,71"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "12,30"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "8,24"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "10,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,96"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "7,41"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,65"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "56,09"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,81"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "10,87"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "27,98"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "19,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "25,88"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "145,38"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "8,21"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "5,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "5,63"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "17,49"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "10,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "8,00"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "22,74"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "9,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "2,86"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "2,50"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,72"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,91"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "6,90"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "54,10"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,95"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "10,92"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "28,01"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "14,95"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "8,98"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "35,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "7,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,96"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "5,52"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "4,58"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "4,42"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "3,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "1,06"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "VPA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "1,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,17"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "1,67"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,32"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "6,02"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "1,65"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,28"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,17"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,91"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,28"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "0,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "0,58"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "0,62"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "0,26"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "0,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LPA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "1,75"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,20"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,67"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "1,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,40"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "5,34"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "1,57"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,35"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/SR",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "4,00"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "3,00"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "2,79"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "2,44"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "3,51"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "3,32"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "16,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "10,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-5,84"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "1,67"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "-4,81"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "-3,31"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "-3,23"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-3,45"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-4,03"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-3,31"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-14,90"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-3,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "2,96%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,19"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "62,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "11,47"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "35,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "49,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-3,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "0,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "2,56"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "2,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "34,44"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "9,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "3,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "8,41"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,25"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "6,25"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "18,14"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "10,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "7,96"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "22,71"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "12,30"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "8,24"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "10,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,96"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "7,41"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,65"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "56,09"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,81"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "10,87"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "27,98"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "19,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "25,88"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "145,38"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "2,96%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,19"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "62,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "11,47"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "35,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "49,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-3,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "0,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. EBIT",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "2,56"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "2,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "34,44"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "9,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "3,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "2,96%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROE",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,19"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "62,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "11,47"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "35,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "49,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROA",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-3,05"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "0,13"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-0,59"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "ROIC",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "2,56"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "1,75"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "2,08"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "1,85"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "34,44"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "9,60"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "3,66"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "2,96%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "ATUAL",
+            "value": "9,19"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2020",
+            "value": "62,16"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2019",
+            "value": "15,80"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2018",
+            "value": "11,47"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2017",
+            "value": "35,69"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2016",
+            "value": "49,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2015",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "VULC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VULCABRAS",
+            "year": "2014",
+            "value": "-3,05"
+      }
+]

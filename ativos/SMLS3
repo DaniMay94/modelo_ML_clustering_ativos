@@ -1,0 +1,1892 @@
+[
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "17,98%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,41%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,42%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,88%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D.Y",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "14,86"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "7,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,40"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/L",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,05"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/VP",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "9,11"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,67"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "10,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,83"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "6,41"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "12,19"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "6,15"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,17"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,17"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,17"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "13,85"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "6,37"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "7,32"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/EBIT",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "5,47"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "5,47"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "5,47"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "10,88"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,71"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,18"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "VPA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "1,02"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "0,87"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "1,69"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "2,06"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "1,58"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "5,05"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,21"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LPA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "4,21"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "4,21"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "4,21"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,08"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,64"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,50"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/SR",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "18,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "18,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "18,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "3,06"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "3,38"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "-3,21"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "-40,25"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-20,15"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "17,98%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,41%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,42%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,88%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "14,86"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "7,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,40"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,05"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "9,11"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,67"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "9,93"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "10,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,83"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "6,41"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "17,98%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,41%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,42%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,88%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "14,86"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "7,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,40"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. EBIT",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,05"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "17,98%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,41%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,42%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,88%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROE",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "14,86"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "7,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,40"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROA",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "ROIC",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "2,16"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "4,05"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "5,35"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "17,98%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "5,41%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "9,42%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,88%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2022",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2021",
+            "value": "10,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2020",
+            "value": "14,86"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2019",
+            "value": "7,78"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2018",
+            "value": "8,40"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SMLS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SMILES",
+            "year": "2015",
+            "value": "-"
+      }
+]

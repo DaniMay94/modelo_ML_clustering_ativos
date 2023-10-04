@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,48%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D.Y",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "5,85%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "10,98"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/L",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "15,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "16,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "1,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PEG RATIO",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "22,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "16,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "23,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "21,41"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "23,23"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/VP",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "23,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "6,72"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "6,69"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "7,14"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "8,57"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "7,12"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "7,09"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "7,47"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "7,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "EV/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "11,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "9,78"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "9,78"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "9,78"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "9,78"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "9,78"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "9,18"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,38"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "11,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "13,84"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "10,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "10,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "10,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "10,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "10,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "9,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,75"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,80"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "14,52"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "1,18"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "1,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "1,48"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "1,58"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "1,61"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "VPA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "1,36"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "2,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "2,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "2,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "2,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "2,22"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "2,51"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "3,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "3,13"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "3,38"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "3,09"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "2,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "3,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "3,17"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "2,96"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LPA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "2,01"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "6,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "7,38"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "2,49"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "2,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/SR",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "2,85"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "50,65"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "50,65"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "50,65"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "50,65"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "125,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "47,53"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "37,91"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "32,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "43,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "52,54"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-23,58"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-23,58"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-23,58"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-23,58"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "125,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "-22,13"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "-54,80"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "-53,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "-49,40"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "-42,53"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,48%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "5,85%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "10,98"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "15,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "16,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "1,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "22,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "16,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "23,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "21,41"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "23,23"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "23,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "7,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "6,72"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "6,69"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "7,14"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "6,88"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "8,57"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "7,73"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "7,12"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "7,09"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "7,47"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "7,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "9,19"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "11,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,48%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. BRUTA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "5,85%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "10,98"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBITDA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "15,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "16,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "1,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. EBIT",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "22,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "16,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "23,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "21,41"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "23,23"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "23,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,48%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROE",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "5,85%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "10,98"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROA",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "15,95"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "16,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "1,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "ROIC",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "0,40"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "17,37"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "22,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "16,30"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "23,68"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "21,41"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "23,23"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "23,50"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "9,48%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "5,85%"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "ATUAL",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2022",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2021",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2020",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2019",
+            "value": "12,20"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2018",
+            "value": "11,45"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2017",
+            "value": "10,98"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2016",
+            "value": "10,67"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2015",
+            "value": "12,63"
+      },
+      {
+            "ativo": "MPLU3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MULTIPLUS",
+            "year": "2014",
+            "value": "15,95"
+      }
+]

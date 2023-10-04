@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D.Y",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-45,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-10,88"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,71"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-56,28"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-21,09"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-18,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-11,81"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/L",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-2,21"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-15,46"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "1,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "2,10"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "3,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "7,66"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-6,39"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/VP",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "140,51"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "1,23"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "8,12"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "28,83"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "53,16"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-28,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-21,24"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "8,69"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,48"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-58,97"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-30,02"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-19,99"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-15,83"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "6,59"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "15,52"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "40,76"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "72,19"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-29,97"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-22,13"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "35,91"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-36,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-44,92"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-83,35"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-40,77"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-21,36"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-16,50"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,80"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-5,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "19,46"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "19,26"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "21,08"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "22,89"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "33,20"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "7,47"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "4,98"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-4,22"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "VPA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,02"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "0,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "1,32"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "1,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "0,12"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,14"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-1,48"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-1,87"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-1,57"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-4,79"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-4,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-2,06"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-2,29"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,99"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LPA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-0,99"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "4,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "4,00"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "10,52"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "22,41"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "24,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "61,65"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "57,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "6,54"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/SR",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "1,77"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "1,15"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "2,65"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "5,89"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "5,30"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "33,33"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "9,26"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "2,91"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-3,21"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-0,55"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-2,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-1,61"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-1,48"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-1,22"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-45,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-10,88"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,71"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-56,28"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-21,09"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-18,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-11,81"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-2,21"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-15,46"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "1,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "2,10"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "3,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "7,66"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-6,39"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "140,51"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "1,23"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "8,12"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "28,83"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "53,16"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-28,05"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-21,24"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "8,69"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-6,87"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,48"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-58,97"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-30,02"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-19,99"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-15,83"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-45,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-10,88"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,71"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-56,28"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-21,09"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-18,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-11,81"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-2,21"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-15,46"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "1,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. EBIT",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "2,10"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "3,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "7,66"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-6,39"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "140,51"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROE",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-45,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-10,88"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,71"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-56,28"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-21,09"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-18,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-11,81"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROA",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-2,21"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-15,46"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "1,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "ROIC",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "2,10"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "3,85"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "3,04"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "7,66"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-6,39"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "140,51"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "ATUAL",
+            "value": "-45,73"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2022",
+            "value": "-10,88"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2021",
+            "value": "-23,71"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2020",
+            "value": "-56,28"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2019",
+            "value": "-21,09"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2017",
+            "value": "-18,53"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2016",
+            "value": "-11,81"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2015",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "TELB3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TELEBRAS",
+            "year": "2014",
+            "value": "-2,21"
+      }
+]

@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D.Y",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,14%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D.Y",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D.Y",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D.Y",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/L",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "28,08"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/L",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "14,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/L",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "61,85"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/L",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,26"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/VP",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/VP",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/VP",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/VP",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "6,56"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "14,90"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "8,97"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "6,05"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "4,76"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "12,87"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "6,51"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "3,18"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "23,20"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "VPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "10,43"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "VPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "10,70"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "VPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "10,13"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "VPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "0,74"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "0,30"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LPA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/SR",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,12"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/SR",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/SR",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "4,57"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/SR",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "-3.360,87"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "-11,50"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,67"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-0,99"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,14%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "28,08"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "14,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "61,85"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,26"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "6,56"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "14,90"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "8,97"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "6,05"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,14%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "28,08"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "14,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "61,85"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,26"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. EBIT",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,14%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROE",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "28,08"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "14,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "61,85"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROA",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROIC",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,26"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROIC",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROIC",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "ROIC",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "1,37"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,14%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "ATUAL",
+            "value": "28,08"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2022",
+            "value": "14,55"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2021",
+            "value": "61,85"
+      },
+      {
+            "ativo": "DESK3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DESKTOP - SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

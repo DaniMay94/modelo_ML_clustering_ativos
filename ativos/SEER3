@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,94%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,73%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "0,88%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,61%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D.Y",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "25,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "12,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "26,19"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "19,85"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "10,14"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "5,99"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/L",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "17,32"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "5,57"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "2,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,47"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "2,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "2,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/VP",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,91"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "5,66"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "5,79"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "4,13"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "3,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,81"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "4,95"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "10,35"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "6,40"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "3,88"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "14,48"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-150,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-45,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "8,43"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "6,13"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "13,25"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "6,55"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "12,98"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "7,70"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "4,88"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "16,03"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "3,03"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "4,11"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "9,13"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "6,92"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "12,20"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "6,54"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "3,52"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "14,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-89,04"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-23,75"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "7,61"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "6,42"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "13,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "9,16"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "15,31"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "7,87"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "4,42"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "16,15"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "9,39"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "9,61"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "11,37"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "11,08"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "10,17"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "12,05"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "7,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "6,05"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "VPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,22"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,44"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "0,65"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "1,40"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "0,89"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "1,56"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "1,16"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,52"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "2,97"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-1,80"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-1,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,28"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "1,06"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,45"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "1,58"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "1,84"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "1,29"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LPA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "1,71"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,42"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,61"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "2,80"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,71"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "3,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "2,08"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,95"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/SR",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,25"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "4,16"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "2,87"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "6,80"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "3,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "15,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "4,04"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "6,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "22,78"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "-1,87"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "-1,68"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "-3,15"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "-1,78"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "-4,16"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,94%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,73%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "0,88%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,61%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "25,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "12,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "26,19"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "19,85"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "10,14"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "5,99"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "17,32"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "5,57"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "2,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,47"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "2,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "2,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,91"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "5,66"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "5,79"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "4,13"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "3,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,81"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "4,95"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "10,35"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "6,40"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "3,88"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "14,48"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-150,93"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-45,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "8,43"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "6,13"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "13,25"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "6,55"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "12,98"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "7,70"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "4,88"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "16,03"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,94%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,73%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "0,88%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,61%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "25,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "12,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "26,19"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "19,85"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "10,14"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "5,99"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "17,32"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "5,57"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. EBIT",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "2,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,47"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "2,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "2,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,91"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,94%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,73%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "0,88%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,61%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROE",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "25,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "12,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "26,19"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "19,85"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "10,14"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "5,99"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROA",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "17,32"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "5,57"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "-1,39"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "ROIC",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "0,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "2,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "1,47"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "2,60"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "2,46"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "5,91"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "3,15%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "8,94%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "2,73%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "0,88%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "0,61%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "0,99%"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "ATUAL",
+            "value": "-3,12"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2022",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2021",
+            "value": "25,73"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2020",
+            "value": "12,18"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2019",
+            "value": "26,19"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2018",
+            "value": "10,72"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2017",
+            "value": "19,85"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2016",
+            "value": "10,14"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2015",
+            "value": "5,99"
+      },
+      {
+            "ativo": "SEER3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SER EDUCACIONAL",
+            "year": "2014",
+            "value": "17,32"
+      }
+]

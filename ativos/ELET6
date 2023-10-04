@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,49%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "7,99%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "7,47%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,97%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D.Y",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "60,58%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "69,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "27,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "9,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,16"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,84"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/L",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,89"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,69"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/VP",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "12,19"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "14,52"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "6,38"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "6,96"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "4,48"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "18,15"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "4,03"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-4,52"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-241,04"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "14,47"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "16,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "10,18"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "4,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "10,40"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "4,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-3,86"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-22,09"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "9,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "11,02"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "4,19"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "6,58"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,10"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "8,62"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "2,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-1,32"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-61,71"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "11,49"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "12,88"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "4,14"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "6,12"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "4,94"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "2,19"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-1,13"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-5,66"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "48,06"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "48,02"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "48,52"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "46,83"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "52,42"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "41,06"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "31,30"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "32,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "31,12"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "VPA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "41,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "0,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "0,29"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,18"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,21"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,61"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "1,58"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "3,60"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,04"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "7,91"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "9,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-1,30"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "2,53"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-10,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LPA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-2,24"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "2,90"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "2,92"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "1,50"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "2,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "1,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "1,53"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "1,04"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,58"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/SR",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,97"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "4,29"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "3,27"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "3,09"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "3,69"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "9,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-18,77"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "10,56"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,49%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "7,99%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "7,47%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,97%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "60,58%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "69,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "27,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "9,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,16"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,84"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,89"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,69"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "12,19"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "14,52"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "6,38"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "6,96"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "4,48"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "18,15"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "4,03"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-4,52"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-241,04"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "14,47"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "16,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "10,18"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "4,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "10,40"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "4,43"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-3,86"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-22,09"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,49%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "7,99%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "7,47%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,97%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "60,58%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "69,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "27,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "9,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,16"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,84"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,89"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,69"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,49%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "7,99%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "7,47%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,97%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROE",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "60,58%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "69,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "27,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "9,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,16"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,84"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROA",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,11"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "ROIC",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "0,89"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "0,90"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "0,69"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "0,73"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "3,49%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "7,99%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "3,63%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "7,47%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "0,97%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "60,58%"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "ATUAL",
+            "value": "69,80"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2022",
+            "value": "27,37"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2021",
+            "value": "9,17"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2020",
+            "value": "9,16"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2019",
+            "value": "4,84"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2017",
+            "value": "-17,41"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2016",
+            "value": "10,22"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ELET6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROBRAS",
+            "year": "2014",
+            "value": "-3,65"
+      }
+]

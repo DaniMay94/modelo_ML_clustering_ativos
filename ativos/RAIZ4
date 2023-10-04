@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D.Y",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,11%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D.Y",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D.Y",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,25%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D.Y",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/L",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "17,39"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/L",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "15,86"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/L",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "21,20"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/L",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PEG RATIO",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PEG RATIO",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PEG RATIO",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PEG RATIO",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/VP",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "1,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/VP",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/VP",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/VP",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "2,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "3,75"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "5,73"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "9,14"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "11,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "EV/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "1,64"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "2,30"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "5,30"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,25"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,79"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "10,82"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "VPA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "2,21"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "VPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "2,05"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "VPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "1,98"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "VPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "0,38"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "0,37"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,64"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LPA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "0,24"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "0,24"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,30"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LPA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/SR",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "0,17"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/SR",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "0,16"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/SR",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,35"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/SR",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "16,01"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,93"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "8,27"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,11%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,25%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "17,39"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "15,86"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "21,20"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "1,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "2,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "3,75"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "5,73"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "9,14"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "7,81"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "11,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. BRUTA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,11%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. BRUTA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. BRUTA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,25%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. BRUTA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "17,39"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "15,86"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "21,20"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBITDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. EBIT",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "1,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROE",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,11%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROE",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROE",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,25%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROE",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROA",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "17,39"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROA",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "15,86"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROA",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "21,20"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROA",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROIC",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "-0,77"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROIC",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROIC",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "ROIC",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "1,85"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "5,11%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "0,25%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "ATUAL",
+            "value": "17,39"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2022",
+            "value": "15,86"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2021",
+            "value": "21,20"
+      },
+      {
+            "ativo": "RAIZ4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RAIZEN S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

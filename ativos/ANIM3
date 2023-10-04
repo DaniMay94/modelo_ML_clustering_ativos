@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,38%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D.Y",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "0,31%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-21,11"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-38,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-117,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-243,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "611,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "54,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "17,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/L",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "17,76"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "-6,28"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "3,39"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "2,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "3,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/VP",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "4,91"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "6,63"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "6,06"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "11,27"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "23,66"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "18,27"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "17,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "17,83"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "13,50"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "13,47"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "20,48"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "17,46"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "28,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "41,34"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "28,37"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "41,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "28,44"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "23,63"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "18,85"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "24,04"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "2,05"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "1,64"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "4,82"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "23,47"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "12,56"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "14,80"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "16,66"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "11,50"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "11,72"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "20,53"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "5,39"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "4,12"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "12,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "41,01"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "19,51"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "35,60"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,58"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "20,14"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "16,41"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/EBIT",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "24,10"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "6,63"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "6,84"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "5,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "18,61"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "8,79"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "8,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "8,60"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "7,67"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "7,75"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "VPA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "7,20"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,15"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "1,06"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "0,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "1,71"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "0,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "0,97"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "3,10"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "0,03"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "1,05"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "0,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "0,77"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LPA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "1,99"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,52"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,44"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "1,28"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "3,41"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "1,98"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "2,19"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "1,37"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/SR",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "4,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-42,54"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "2,79"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "44,17"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "2,91"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "20,17"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "7,79"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "12,15"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "6,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "7,33"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "18,05"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-1,96"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-1,20"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "-2,47"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "-1,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "-1,46"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "-4,82"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,38%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "0,31%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-21,11"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-38,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-117,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-243,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "611,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "54,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "17,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "17,76"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "-6,28"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "3,39"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "2,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "3,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "4,91"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "6,63"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "6,06"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "11,27"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "23,66"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "18,27"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "17,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "17,83"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "13,50"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "13,47"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "20,48"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "17,46"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "28,22"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "41,34"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "28,37"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "41,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "28,44"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "23,63"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "18,85"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "24,04"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,38%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "0,31%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-21,11"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-38,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-117,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-243,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "611,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "54,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "17,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "17,76"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "-6,28"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. EBIT",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "3,39"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "2,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "3,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "4,91"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,38%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROE",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "0,31%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-21,11"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-38,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-117,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-243,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "611,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "54,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "17,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROA",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "17,76"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "-6,28"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,09"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "ROIC",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "3,39"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "2,07"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "3,29"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "1,78"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "4,91"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "0,22%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "1,38%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "3,43%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "0,31%"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "ATUAL",
+            "value": "-21,11"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2022",
+            "value": "-15,25"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2021",
+            "value": "-38,70"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2020",
+            "value": "-117,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2019",
+            "value": "-243,95"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2018",
+            "value": "611,31"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2017",
+            "value": "26,90"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2016",
+            "value": "54,18"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2015",
+            "value": "17,81"
+      },
+      {
+            "ativo": "ANIM3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ANIMA",
+            "year": "2014",
+            "value": "17,76"
+      }
+]

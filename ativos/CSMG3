@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,32%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,45%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,43%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "50,99%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "6,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D.Y",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,49%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,99"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "13,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "9,81"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "10,06"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-160,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/L",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "4,14"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "1,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "1,28"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,74"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,33"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/VP",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "4,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "4,53"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "4,78"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "6,49"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,20"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,17"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,19"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "9,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "11,95"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "8,59"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "8,96"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "15,45"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "3,49"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "3,01"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "3,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "3,24"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "4,90"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "5,22"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "4,76"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "5,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "4,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "7,46"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "8,45"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "5,75"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "5,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "5,89"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/EBIT",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,86"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "19,62"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "19,08"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "17,78"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "16,98"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "53,20"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "49,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "49,26"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "49,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "47,18"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "VPA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "46,26"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,45"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,38"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "0,53"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "0,75"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,40"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,17"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,30"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "2,67"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,22"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "1,41"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "2,15"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "5,95"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "4,57"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "3,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LPA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "2,66"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "1,19"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "1,17"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "1,67"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "1,65"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "1,27"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,08"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/SR",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,73"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "12,67"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "11,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,41"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "10,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,89"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "15,08"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "12,30"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "7,36"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "4,35"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "18,09"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "-0,89"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,32%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,45%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,43%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "50,99%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "6,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,49%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,99"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "13,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "9,81"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "10,06"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-160,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "4,14"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "1,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "1,28"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,74"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,33"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "4,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "4,53"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "4,78"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "6,49"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,20"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,17"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,19"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "9,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "11,95"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "8,59"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "8,96"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "15,45"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,87"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,32%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,45%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,43%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "50,99%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "6,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,49%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,99"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "13,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "9,81"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "10,06"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-160,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "4,14"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "1,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. EBIT",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "1,28"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,74"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,33"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,32%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,45%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,43%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "50,99%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "6,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROE",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,49%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,99"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "13,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "9,81"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "10,06"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-160,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROA",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,47"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,12"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "4,14"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,34"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "1,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "ROIC",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "1,04"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "0,82"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "1,28"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "0,74"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,33"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "0,54"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,32%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "2,45%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "7,43%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "50,99%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "6,54%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "4,83%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "4,49%"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "ATUAL",
+            "value": "7,63"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2022",
+            "value": "7,07"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2021",
+            "value": "8,99"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2020",
+            "value": "7,64"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2019",
+            "value": "11,42"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2018",
+            "value": "13,48"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2017",
+            "value": "9,81"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2016",
+            "value": "10,06"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2015",
+            "value": "-160,03"
+      },
+      {
+            "ativo": "CSMG3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPASA",
+            "year": "2014",
+            "value": "9,47"
+      }
+]

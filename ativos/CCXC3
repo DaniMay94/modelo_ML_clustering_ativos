@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D.Y",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-3,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-40,45"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/L",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/VP",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,37"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-1,40"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,94"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "1,69"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,37"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,37"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,41"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-2,62"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-2,62"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-2,27"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-3,39"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "2,21"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,40"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/EBIT",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-45,41"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-45,41"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-45,41"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-31,35"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-27,24"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,22"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,65"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "VPA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "1,21"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "0,36"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "0,43"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "0,55"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-11,85"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-11,85"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-0,71"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "3,32"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-17,79"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LPA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/SR",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,97"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-6.166,96"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-357,51"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-22,62"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-3,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-40,45"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,37"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-2,58"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-1,40"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-2,94"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "1,69"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-21,37"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-3,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-40,45"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. EBIT",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROE",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-3,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-40,45"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROA",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,06"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "0,73"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "ROIC",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2022",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2019",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2018",
+            "value": "-3,75"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2017",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2016",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2015",
+            "value": "-40,45"
+      },
+      {
+            "ativo": "CCXC3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CCX",
+            "year": "2014",
+            "value": "-1,06"
+      }
+]

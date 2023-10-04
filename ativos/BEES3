@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,76%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "10,63%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "7,05%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,81%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "2,39%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "1,17%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "9,11"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "5,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "7,77"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "9,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "8,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "6,81"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "4,42"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "1,00"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,82"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "3,59"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "4,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "5,33"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "8,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "4,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "3,79"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "3,30"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "3,43"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "4,47"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "5,19"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "7,89"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "4,41"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "3,78"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,24"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "3,28"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "5,80"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "5,43"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "5,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "4,72"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "4,41"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "4,00"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,67"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "1,01"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "0,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "0,68"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,53"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,50"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,36"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "1,12"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "0,95"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,36"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,95"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "0,83"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,76%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "10,63%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "7,05%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,81%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "2,39%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "1,17%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "9,11"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "5,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "7,77"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "9,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "8,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "6,81"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "4,42"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "1,00"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,82"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "3,59"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "4,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "5,33"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "8,05"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "4,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "3,79"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "3,30"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,76%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "10,63%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "7,05%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,81%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "2,39%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "1,17%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "9,11"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "5,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "7,77"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "9,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "8,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "6,81"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "4,42"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "1,00"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,82"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,76%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "10,63%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "7,05%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,81%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "2,39%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "1,17%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "9,11"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "5,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "7,77"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "9,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "8,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "6,81"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "4,42"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "-1,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "-0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,38"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "1,45"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "1,00"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "0,82"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "0,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,60"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "6,76%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "10,63%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "7,05%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "4,79%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "5,81%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "2,39%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "1,17%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "4,59%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "0,71%"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "ATUAL",
+            "value": "9,11"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2022",
+            "value": "5,04"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2021",
+            "value": "6,65"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2020",
+            "value": "7,77"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2019",
+            "value": "9,25"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2018",
+            "value": "8,49"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2017",
+            "value": "6,81"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2016",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2015",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BEES3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANESTES",
+            "year": "2014",
+            "value": "4,42"
+      }
+]

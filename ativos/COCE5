@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,61%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,23%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,54%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "3,00%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "3,64%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D.Y",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "5,48"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "17,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "12,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "10,25"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "9,78"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "9,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "7,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/L",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "12,24"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,17"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "1,31"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "1,65"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/VP",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "1,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "4,55"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,16"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "2,39"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "2,15"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "3,59"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "6,61"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "5,82"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "3,24"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "2,86"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "4,92"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "11,88"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "8,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "7,22"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "6,89"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "6,96"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "5,15"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "6,02"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "51,70"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "50,82"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "44,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "41,49"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "40,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "36,77"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "33,18"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "29,71"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "25,75"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "VPA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "22,04"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,33"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "0,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "0,50"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "0,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "0,58"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,75"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "0,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,76"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "7,82"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "8,23"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,28"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,41"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "5,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "4,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "5,60"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "5,05"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "4,66"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LPA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "3,23"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,47"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,41"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "0,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "0,80"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "0,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "0,73"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,93"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "0,95"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/SR",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,85"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "-3,91"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-2,67"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-29,85"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-10,41"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "44,16"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-21,10"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-39,08"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "38,33"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "13,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "7,75"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-0,67"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-0,81"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-1,10"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-1,17"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-1,10"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,61%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,23%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,54%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "3,00%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "3,64%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "5,48"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "17,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "12,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "10,25"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "9,78"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "9,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "7,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "12,24"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,17"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "1,31"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "1,65"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "1,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "4,55"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,16"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,61%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,23%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,54%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "3,00%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "3,64%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "5,48"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "17,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "12,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "10,25"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "9,78"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "9,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "7,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "12,24"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,17"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "1,31"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "1,65"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "1,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,61%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,23%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,54%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "3,00%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "3,64%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROE",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "5,48"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "17,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "12,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "10,25"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "9,78"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "9,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "7,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROA",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "12,24"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "0,36"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,18"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "0,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "0,17"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "ROIC",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "0,20"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "1,30"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "1,45"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "1,31"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "1,65"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,68"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,40"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "1,79"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "1,61%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "4,31%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "6,23%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "3,54%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "3,00%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "2,27%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "3,64%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "1,85%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "1,49%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "ATUAL",
+            "value": "6,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2022",
+            "value": "5,48"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2021",
+            "value": "9,26"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2020",
+            "value": "17,62"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2019",
+            "value": "12,00"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2018",
+            "value": "10,25"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2017",
+            "value": "9,78"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2016",
+            "value": "9,90"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2015",
+            "value": "7,72"
+      },
+      {
+            "ativo": "COCE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COELCE",
+            "year": "2014",
+            "value": "12,24"
+      }
+]

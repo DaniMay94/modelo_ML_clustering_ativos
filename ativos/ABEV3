@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,10%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "2,64%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,63%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "4,01%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D.Y",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "4,67%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "15,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "15,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "19,16"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "21,64"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "24,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "21,99"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "46,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/L",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "21,24"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "1,67"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "1,12"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "0,43"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "7,61"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "2,77"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "2,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "2,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "3,34"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "4,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "4,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "5,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/VP",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "6,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "9,25"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "9,19"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "10,17"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "11,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "13,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "10,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "15,87"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "12,37"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "12,37"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "13,62"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "12,35"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "12,29"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "13,40"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "14,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "17,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "13,57"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "19,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "14,91"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "14,39"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "15,68"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "9,60"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "9,68"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "10,86"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "11,67"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "14,17"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "11,19"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "16,25"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "12,51"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "12,84"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "14,05"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "12,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "12,95"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "14,31"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "15,46"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "18,29"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "14,10"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "20,21"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "15,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "14,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/EBIT",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "16,17"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,40"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,20"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "5,25"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "4,69"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "3,90"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "2,85"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "3,08"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "VPA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "2,69"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "1,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "1,66"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "1,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "1,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,89"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "2,53"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "3,85"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "3,11"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "3,55"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "0,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "0,92"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "0,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "0,72"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "0,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "0,46"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "0,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "0,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LPA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "0,77"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "2,88"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "2,87"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "3,33"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "4,22"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "5,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "4,81"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "6,98"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "5,65"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "6,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/SR",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "-928,38"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "-83,96"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-1.014,69"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "132,06"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "112,50"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "2.004,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-84,24"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "-52,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "-153,53"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-233,70"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "-2,28"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-2,43"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "-2,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "-3,96"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "-3,44"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-5,38"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "-4,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "-4,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-4,98"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,10%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "2,64%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,63%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "4,01%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "4,67%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "15,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "15,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "19,16"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "21,64"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "24,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "21,99"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "46,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "21,24"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "1,67"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "1,12"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "0,43"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "7,61"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "2,77"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "2,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "2,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "3,34"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "4,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "4,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "5,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "6,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "9,25"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "9,19"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "10,17"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "11,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "13,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "10,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "15,87"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "12,37"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "12,37"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "13,62"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "12,35"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "12,29"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "13,40"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "14,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "17,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "13,57"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "19,74"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "14,91"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "14,39"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "15,68"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,10%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "2,64%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,63%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "4,01%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "4,67%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "15,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "15,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "19,16"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "21,64"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "24,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "21,99"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "46,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "21,24"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "1,67"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "1,12"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "0,43"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "7,61"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. EBIT",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "2,77"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "2,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "2,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "3,34"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "4,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "4,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "5,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "6,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,10%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "2,64%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,63%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "4,01%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROE",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "4,67%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "15,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "15,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "19,16"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "21,64"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "24,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "21,99"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "46,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROA",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "21,24"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "1,67"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "1,12"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "0,43"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "-1,09"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,78"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "7,61"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "ROIC",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "2,77"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "2,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "2,94"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "3,34"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "4,79"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "4,30"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "5,80"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "6,07"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "5,10%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "2,64%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "2,63%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "2,54%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "3,90%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "4,01%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "4,67%"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "ATUAL",
+            "value": "15,97"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2022",
+            "value": "15,82"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2021",
+            "value": "19,16"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2020",
+            "value": "21,64"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2019",
+            "value": "24,93"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2018",
+            "value": "21,99"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2017",
+            "value": "46,01"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2016",
+            "value": "20,54"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2015",
+            "value": "22,58"
+      },
+      {
+            "ativo": "ABEV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AMBEV",
+            "year": "2014",
+            "value": "21,24"
+      }
+]

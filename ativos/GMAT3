@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D.Y",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "13,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "17,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "25,45"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/L",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PEG RATIO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "2,31"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "1,87"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/VP",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "10,67"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "9,05"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "12,22"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "13,29"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "11,23"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "15,76"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "20,17"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "EV/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "9,85"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "8,24"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "11,28"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "12,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "10,23"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "21,24"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "3,48"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "3,37"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,90"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "2,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "VPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "1,29"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "1,05"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "1,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "2,25"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,49"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,48"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "0,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "0,33"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LPA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,64"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "1,49"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/SR",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "2,92"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "2,31"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,88"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "3,93"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-3,78"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-3,13"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-8,66"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "13,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "17,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "25,45"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "2,31"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "1,87"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "10,67"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "9,05"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "12,22"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "13,29"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "11,23"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "15,76"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "20,17"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. BRUTA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "13,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "17,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "25,45"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBITDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. EBIT",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "2,31"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "1,87"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROE",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "13,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "17,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "25,45"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROA",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "0,34"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "ROIC",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "2,31"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "1,87"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "2,08"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "ATUAL",
+            "value": "16,26"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2022",
+            "value": "13,27"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2021",
+            "value": "17,55"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2020",
+            "value": "25,45"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "GMAT3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "GRUPO MATEUS S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

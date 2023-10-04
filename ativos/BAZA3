@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "7,92%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "13,75%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,49%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,27%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,11%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "15,19%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "8,10%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,17"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "2,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "4,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "11,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "637,46"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/L",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "4,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-13,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "9,20"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "42,51"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "1,81"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "3,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "2,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,59"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "1,95"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "195,55"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "2,57"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "3,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "2,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,59"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "1,95"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "195,55"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "2,57"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "91,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "86,36"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "99,34"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "81,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "74,18"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "65,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "63,59"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,65"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "VPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,10"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "5,88"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "21,27"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "20,02"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "24,89"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,96"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "9,29"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "3,68"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,18"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LPA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "1,32"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,79"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "51,69"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,51"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,67"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,07"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "3,15"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "2,48"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-38,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "-0,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-9,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "7,92%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "13,75%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,49%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,27%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,11%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "15,19%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "8,10%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,17"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "2,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "4,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "11,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "637,46"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "4,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-13,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "9,20"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "42,51"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "3,14"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "1,81"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "3,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "2,90"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,59"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "1,95"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "195,55"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "1,67"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "2,57"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "7,92%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "13,75%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,49%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,27%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,11%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "15,19%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "8,10%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,17"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "2,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "4,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "11,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "637,46"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "4,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-13,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "9,20"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "42,51"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "7,92%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "13,75%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,49%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,27%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,11%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "15,19%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROE",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "8,10%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,17"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "2,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "4,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "11,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "637,46"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROA",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "4,04"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "-13,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "9,20"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "0,58"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "0,42"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "42,51"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "7,92%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "13,75%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "6,29%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "8,49%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,27%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "0,11%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "15,19%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "8,10%"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "ATUAL",
+            "value": "3,17"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2022",
+            "value": "2,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2020",
+            "value": "4,71"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2019",
+            "value": "4,31"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2018",
+            "value": "6,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2017",
+            "value": "11,49"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2016",
+            "value": "637,46"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2015",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BAZA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO AMAZONIA",
+            "year": "2014",
+            "value": "4,04"
+      }
+]

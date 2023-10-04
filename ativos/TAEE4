@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "10,85%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "13,89%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "12,33%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "9,57%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,00%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "12,22%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "8,66%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D.Y",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "8,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "8,31"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,69"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,33"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/L",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "1,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "1,92"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "1,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "1,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/VP",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "11,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "10,05"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "7,10"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "7,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "14,48"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "10,05"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "13,52"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "9,08"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "7,04"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "8,16"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "9,14"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "7,79"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,52"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,27"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "11,39"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "11,12"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "7,54"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "6,06"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "6,75"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "7,18"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "6,36"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "4,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "4,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "9,82"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "6,92"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "9,23"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "5,50"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "4,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "3,66"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "7,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "5,49"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "7,59"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/EBIT",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "6,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "6,36"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "6,47"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "4,77"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "4,42"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "4,21"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "4,17"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "4,24"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "VPA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "4,09"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "0,68"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "0,79"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "0,87"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "1,46"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "1,40"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "2,14"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "2,19"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "1,04"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "0,63"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "0,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LPA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "4,98"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "4,60"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "3,63"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "3,25"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,05"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "4,80"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "6,53"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/SR",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "6,06"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "5,82"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "17,53"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "7,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "4,22"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "6,13"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "5,40"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "-0,85"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "-1,17"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "-1,15"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "10,85%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "13,89%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "12,33%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "9,57%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,00%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "12,22%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "8,66%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "8,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "8,31"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,69"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,33"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "1,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "1,92"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "1,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "1,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "11,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "10,05"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "7,10"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "7,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "14,48"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "10,05"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "13,52"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "9,08"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "7,04"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "8,16"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "9,14"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "7,79"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,52"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,27"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "11,39"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "11,12"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "7,54"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "6,06"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "6,75"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "10,85%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "13,89%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "12,33%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "9,57%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,00%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "12,22%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "8,66%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "8,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "8,31"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,69"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,33"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. EBIT",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "1,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "1,92"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "1,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "1,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "10,85%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "13,89%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "12,33%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "9,57%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,00%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "12,22%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "8,66%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROE",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "8,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "8,31"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,69"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,33"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROA",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "ROIC",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "1,93"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "1,92"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "1,72"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "1,62"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "10,85%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "13,89%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "12,33%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "9,57%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "6,00%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "12,22%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "8,66%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "ATUAL",
+            "value": "8,28"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2022",
+            "value": "8,31"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2021",
+            "value": "5,69"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2020",
+            "value": "5,11"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2019",
+            "value": "10,83"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2018",
+            "value": "7,33"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TAEE4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TAESA",
+            "year": "2014",
+            "value": "-"
+      }
+]

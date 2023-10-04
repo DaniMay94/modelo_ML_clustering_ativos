@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,48%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,34%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D.Y",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "20,89"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "13,80"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "6,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "10,33"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "8,84"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "6,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,16"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,15"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/L",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "10,45"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "3,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "1,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,36"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/VP",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "19,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "10,53"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "4,27"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "8,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,79"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "4,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "5,88"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "5,59"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "8,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,05"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "18,81"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "10,56"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "3,92"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "7,46"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,31"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "4,19"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "4,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "5,88"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "4,90"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "8,35"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "10,27"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "10,26"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "10,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "9,24"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "8,72"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "8,25"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "7,77"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "VPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "7,24"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,05"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,06"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,06"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,38"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,75"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,53"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,70"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,66"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,63"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,37"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LPA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,35"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,31"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,61"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,91"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "1,01"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,72"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,43"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,31"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/SR",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,09"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,13"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,44"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "3,24"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,45"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,14"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "1,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,78"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,48%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,34%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "20,89"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "13,80"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "6,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "10,33"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "8,84"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "6,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,16"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,15"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "10,45"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "3,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "1,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,36"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "19,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "10,53"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "4,27"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "8,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "6,79"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "4,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "5,88"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "5,59"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "8,07"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,48%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,34%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "20,89"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "13,80"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "6,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "10,33"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "8,84"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "6,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,16"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,15"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "10,45"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "3,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "1,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. EBIT",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,36"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,48%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,34%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROE",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "20,89"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "13,80"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "6,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "10,33"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "8,84"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "6,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,16"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,15"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROA",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "10,45"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,37"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,08"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "3,76"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "1,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "ROIC",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,50"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "0,49"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "0,36"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "0,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "0,48%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "0,34%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "ATUAL",
+            "value": "20,89"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2022",
+            "value": "13,80"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2021",
+            "value": "6,29"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2020",
+            "value": "10,33"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2019",
+            "value": "8,84"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2018",
+            "value": "6,51"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2017",
+            "value": "5,16"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2016",
+            "value": "9,54"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2015",
+            "value": "7,15"
+      },
+      {
+            "ativo": "CRIV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "FINANCEIRA ALFA",
+            "year": "2014",
+            "value": "10,45"
+      }
+]

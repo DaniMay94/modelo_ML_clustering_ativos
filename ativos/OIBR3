@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D.Y",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/L",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-3,73"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,29"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,19"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/VP",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,92"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-2,31"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-2,23"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "30,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "13,89"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "5,42"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "18,41"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "11,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "13,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "8,46"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-1,20"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-8,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-19,46"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-7,10"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-2,45"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-21,43"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-32,54"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2015",
+            "value": "19,14"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "OI",
+            "year": "2014",
+            "value": "8,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "4,30"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "5,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "1,09"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,53"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,60"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "2,84"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-7,23"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,88"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/EBIT",
+            "nome": "OI",
+            "year": "2014",
+            "value": "2,90"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-35,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-3,31"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,30"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "2,96"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "27,43"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-16,72"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "14,13"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "22,38"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "VPA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "9,91"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2021",
+            "value": "0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2020",
+            "value": "0,18"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,07"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-33,80"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-2,92"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-1,58"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-1,51"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "29,78"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-7,71"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-9,72"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-6,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LPA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-2,45"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2021",
+            "value": "0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,25"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,13"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,08"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,08"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/SR",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,58"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2021",
+            "value": "0,25"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2020",
+            "value": "0,83"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,83"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,10"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "OI",
+            "year": "2014",
+            "value": "2,44"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-0,33"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-3,73"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,29"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,19"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,92"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-2,31"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-2,23"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2021",
+            "value": "30,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2020",
+            "value": "13,89"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2019",
+            "value": "5,42"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2017",
+            "value": "18,41"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2016",
+            "value": "11,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2015",
+            "value": "13,16"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "OI",
+            "year": "2014",
+            "value": "8,46"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-1,20"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-8,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-19,46"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-7,10"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-2,45"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-21,43"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-32,54"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2015",
+            "value": "19,14"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "OI",
+            "year": "2014",
+            "value": "8,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-3,73"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. EBIT",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,29"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,19"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,92"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROE",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROA",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-3,73"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2017",
+            "value": "0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,00"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "ROIC",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-6,64"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2020",
+            "value": "1,69"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2019",
+            "value": "0,29"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,05"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2016",
+            "value": "0,19"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "OI",
+            "year": "2014",
+            "value": "0,92"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "ATUAL",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2022",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2021",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2020",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2019",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2018",
+            "value": "0,04"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2017",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2016",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2015",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "OIBR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "OI",
+            "year": "2014",
+            "value": "-3,73"
+      }
+]

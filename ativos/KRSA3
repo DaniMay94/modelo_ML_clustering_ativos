@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D.Y",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D.Y",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D.Y",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D.Y",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/L",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-6,27"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/L",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-5,60"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/L",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-62,48"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/L",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/VP",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/VP",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/VP",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "3,18"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/VP",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "9,98"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "29,71"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "13,20"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "8,28"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "39,69"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "3,25"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "1,75"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "22,44"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "4,30"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "2,23"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "29,98"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "VPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "1,42"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "VPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "1,47"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "VPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "1,63"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "VPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,23"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,13"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "1,01"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LPA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/SR",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/SR",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/SR",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "3,16"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/SR",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "1,52"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,85"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "13,47"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-6,27"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-5,60"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-62,48"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "3,18"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "9,98"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "29,71"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "13,20"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "8,28"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "39,69"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-6,27"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-5,60"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-62,48"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "3,18"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROE",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-6,27"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-5,60"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-62,48"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROA",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROIC",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROIC",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROIC",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "ROIC",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "0,99"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "3,18"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "ATUAL",
+            "value": "-6,27"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2022",
+            "value": "-5,60"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2021",
+            "value": "-62,48"
+      },
+      {
+            "ativo": "KRSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "KORA SA\u00daDE PARTICIPA\u00c7\u00d5ES S.A",
+            "year": "2020",
+            "value": "-"
+      }
+]

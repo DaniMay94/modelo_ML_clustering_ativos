@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D.Y",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/L",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/VP",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-1,57"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-129,02"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-12,65"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-1,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-3,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-1,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-23,86"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-2,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/EBIT",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-13,18"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-11,23"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "5,79"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "6,78"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "12,18"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-593,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "0,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "0,49"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "VPA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "1,14"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,02"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "18,02"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "17,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-5,10"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-8,70"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-32,61"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-530,81"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LPA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,05"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,06"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/SR",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,16"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-1,57"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-129,02"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-12,65"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-1,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-3,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-1,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. EBIT",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROE",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROA",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,00"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "ROIC",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "0,45"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "0,34"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "0,07"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2022",
+            "value": "0,08"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2020",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2018",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ATMP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ATMA SA",
+            "year": "2014",
+            "value": "-"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,36%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,55%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "3,27%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D.Y",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "8,63%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "80,09"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "31,71"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "44,25"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "32,65"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "49,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "18.260,97"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/L",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "17.800,10"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-1.604,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-2.988,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "18,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "14,75"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "13,34"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "6,62"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "4.835,86"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/VP",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "6.052,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "20,72"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "26,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "18,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "27,57"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "20,78"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "26,88"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "22,00"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "22,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "10.034,61"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "10.749,14"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "19,43"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "25,27"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "16,67"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "26,59"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "19,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "25,46"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "20,37"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "20,83"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "10.033,00"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/EBIT",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "10.747,85"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "4,73"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "4,44"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "3,93"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "4,60"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,52"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "4,98"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "5,18"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "4,84"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "VPA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,03"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "4,57"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,75"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,63"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "1.952,52"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "2.270,52"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,10"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "1,06"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "1,83"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "1,36"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "1,44"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "1,31"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "1,12"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LPA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "3,64"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "3,41"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "4,89"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "2,63"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,06"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "1.393,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/SR",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "1.620,99"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-112,87"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-27,41"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-74,48"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-35,76"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-58,55"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-16.313,45"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-32.436,84"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-7,26"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-5,31"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-6,00"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-4,66"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-3,36"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-2.454,42"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-2.888,04"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,36%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,55%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "3,27%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "8,63%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "80,09"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "31,71"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "44,25"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "32,65"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "49,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "18.260,97"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "17.800,10"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-1.604,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-2.988,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "18,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "14,75"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "13,34"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "6,62"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "4.835,86"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "6.052,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "20,72"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "26,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "18,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "27,57"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "20,78"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "26,88"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "22,00"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "22,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "10.034,61"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "10.749,14"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,36%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,55%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "3,27%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "8,63%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "80,09"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "31,71"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "44,25"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "32,65"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "49,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "18.260,97"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "17.800,10"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-1.604,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. EBIT",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-2.988,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "18,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "14,75"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "13,34"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "6,62"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "4.835,86"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "6.052,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,36%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,55%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "3,27%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROE",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "8,63%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "80,09"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "31,71"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "44,25"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "32,65"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "49,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "18.260,97"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROA",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "17.800,10"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "-2,11"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "-1.604,02"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "ROIC",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "-2.988,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "18,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "14,75"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "13,34"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "6,62"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "4.835,86"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "6.052,68"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "1,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "4,36%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "0,16%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "3,55%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "2,68%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "3,27%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "8,63%"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "ATUAL",
+            "value": "80,09"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2021",
+            "value": "31,71"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2020",
+            "value": "44,25"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2019",
+            "value": "32,65"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2018",
+            "value": "49,49"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2015",
+            "value": "18.260,97"
+      },
+      {
+            "ativo": "CEGR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CEG",
+            "year": "2014",
+            "value": "17.800,10"
+      }
+]

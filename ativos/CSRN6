@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "13,58%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "13,95%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D.Y",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,42"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "13,76"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/L",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,25"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PEG RATIO",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "6,27"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "2,53"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "2,79"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/VP",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "1,86"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "5,40"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,41"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "7,75"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,98"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "6,41"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "9,51"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "12,68"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "EV/EBIT",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,21"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "3,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "3,39"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "5,04"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBITDA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "4,03"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "4,01"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "6,18"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "9,26"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/EBIT",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "5,38"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "9,17"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "8,36"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "9,00"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "7,91"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "6,26"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "5,75"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "5,07"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "5,03"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "5,08"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "VPA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,89"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "0,56"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "0,63"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "0,98"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "0,81"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "3,56"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "3,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "3,17"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "2,03"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "1,63"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "1,44"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "1,12"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "1,02"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "1,11"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LPA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "1,26"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "1,07"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "0,80"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,04"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "1,31"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/SR",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "0,95"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "-31,74"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-25,78"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,29"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-32,08"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "24,94"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-0,78"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "13,58%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "13,95%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,42"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "13,76"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,25"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "6,27"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "2,53"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "2,79"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "1,86"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "5,40"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,41"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "7,75"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,98"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "6,41"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "9,51"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "12,68"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,21"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "13,58%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "13,95%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. BRUTA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,42"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "13,76"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBITDA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,25"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. EBIT",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "6,27"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "2,53"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "2,79"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "1,86"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "13,58%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "13,95%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROE",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,42"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "13,76"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROA",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,25"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "1,02"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "-1,72"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "ROIC",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "6,27"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "2,53"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "2,79"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "1,86"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "13,58%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "13,95%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "8,36%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "4,56%"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "ATUAL",
+            "value": "6,52"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2021",
+            "value": "5,42"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2020",
+            "value": "8,46"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2016",
+            "value": "13,76"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CSRN6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COSERN",
+            "year": "2014",
+            "value": "7,25"
+      }
+]

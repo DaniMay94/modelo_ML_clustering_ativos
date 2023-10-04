@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,78%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,79%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D.Y",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-3,93"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-60,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,94"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-87,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/L",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "3,45"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-6,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "13,10"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "6,31"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/VP",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "4,49"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "2,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "11,06"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "12,67"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "42,24"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "9,47"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "2,63"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-611,46"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-800,91"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "6,53"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "5,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "6,86"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "5,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "7,81"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "2,66"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "2,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "3,63"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "5,35"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "15,89"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "4,76"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,04"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-200,49"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-338,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "6,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "1,85"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/EBIT",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "9,82"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "9,18"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "9,87"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,76"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "6,13"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "8,51"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "8,18"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "3,44"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "2,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "VPA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "7,57"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "0,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "0,28"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,69"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-5,06"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "17,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-8,39"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-3,51"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "3,60"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "5,12"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,77"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LPA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "0,90"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "0,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "0,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "0,37"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,75"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,27"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/SR",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "1,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "1,98"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,92"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "2,48"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,67"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-5,29"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "22,07"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,78%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,79%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-3,93"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-60,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,94"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-87,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "3,45"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-6,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "13,10"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "6,31"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "4,49"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "2,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "11,06"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "12,67"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "42,24"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "9,47"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "2,63"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-611,46"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-800,91"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "6,53"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "5,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "6,86"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "5,26"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "7,81"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,78%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,79%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-3,93"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-60,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,94"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-87,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. EBIT",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "3,45"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-6,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "13,10"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "6,31"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,78%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,79%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROE",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-3,93"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-60,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,94"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-87,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROA",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "0,59"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "ROIC",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "2,03"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "3,45"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-6,54"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "3,92"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "13,10"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "6,31"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,78%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "2,53%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "3,79%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "ATUAL",
+            "value": "-3,93"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2022",
+            "value": "-60,56"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2021",
+            "value": "1,94"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2020",
+            "value": "-2,15"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2019",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2016",
+            "value": "-87,17"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2015",
+            "value": "4,25"
+      },
+      {
+            "ativo": "BRKM6",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRASKEM",
+            "year": "2014",
+            "value": "-"
+      }
+]

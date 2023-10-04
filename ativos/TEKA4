@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D.Y",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/L",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PEG RATIO",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/VP",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-5,04"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "226,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "44,79"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "36,95"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-13,13"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-4,83"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-256,92"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "72,70"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "122,56"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "EV/EBIT",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-10,27"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,17"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "3,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "21,69"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBITDA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,51"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,11"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,20"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-3,46"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "35,20"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "2,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/EBIT",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-3.881,95"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-3.811,86"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-3.493,53"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-3.335,42"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-2.972,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-26,03"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-23,35"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "VPA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-20,79"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "0,40"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-311,65"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-317,38"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-159,23"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-230,11"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-334,61"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,66"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-2,59"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LPA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-2,76"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,03"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "2,38"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/SR",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,11"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-5,04"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "226,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "44,79"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "36,95"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-13,13"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-4,83"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-256,92"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "72,70"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "122,56"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-10,27"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. BRUTA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBITDA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. EBIT",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROE",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROA",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "ROIC",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "ATUAL",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2021",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2020",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2017",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2016",
+            "value": "-2,82"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2015",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "TEKA4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TEKA",
+            "year": "2014",
+            "value": "-0,09"
+      }
+]

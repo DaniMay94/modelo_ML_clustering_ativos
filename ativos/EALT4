@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,77%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "18,75%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "22,07%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "3,81%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "10,20%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D.Y",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "13,40%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "7,88"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "244,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/L",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "2,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,42"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/VP",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "4,11"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "3,78"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,65"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "6,05"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "5,68"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "4,26"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "3,45"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,53"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "7,29"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "8,09"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "11,03"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "8,48"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "9,22"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,06"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,66"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "1,99"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "2,98"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "2,68"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "3,96"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "3,21"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "1,61"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "1,78"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "3,58"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "2,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "3,84"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "3,58"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "5,44"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "4,79"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "3,48"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "3,12"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "9,44"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "9,56"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "8,34"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "8,16"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "7,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "6,87"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "31,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "VPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "32,67"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,37"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,35"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,28"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,40"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,28"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,11"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "1,54"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "1,64"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "1,61"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,12"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,54"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,05"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LPA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "3,01"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,40"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,31"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,44"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,46"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,49"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,39"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/SR",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,24"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-18,92"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "-112,58"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,24"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,04"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "14,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-26,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,56"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "1,05"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,77%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "18,75%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "22,07%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "3,81%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "10,20%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "13,40%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "7,88"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "244,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "2,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,42"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "4,11"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "3,78"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,65"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "6,05"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "5,68"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "4,26"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "3,45"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,53"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "7,29"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "8,09"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "11,03"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "8,48"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "9,22"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,06"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,77%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "18,75%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "22,07%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "3,81%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "10,20%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "13,40%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "7,88"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "244,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "2,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. EBIT",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,42"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,77%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "18,75%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "22,07%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "3,81%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "10,20%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROE",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "13,40%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "7,88"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "244,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROA",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "2,15"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "ROIC",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "0,90"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "0,91"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "0,62"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "0,42"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "0,57"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "2,77%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "18,75%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "5,25%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "22,07%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "3,81%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "10,20%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "13,40%"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2021",
+            "value": "4,71"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2020",
+            "value": "4,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2019",
+            "value": "8,75"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2018",
+            "value": "7,88"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2015",
+            "value": "244,55"
+      },
+      {
+            "ativo": "EALT4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELECTRO ACO ALTONA",
+            "year": "2014",
+            "value": "6,15"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "12,59%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "14,95%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D.Y",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "8,92"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,67"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "10,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "25,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "24,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "35,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "53,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/L",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "2,96"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "3,71"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "5,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "5,01"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "4,38"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "2,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,34"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/VP",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,18"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "6,43"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "4,91"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "6,27"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "11,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "10,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "11,12"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "13,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "5,31"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "6,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "5,89"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "7,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "15,70"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "14,68"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "16,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "13,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "5,31"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "1,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,56"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "2,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "3,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "9,53"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "7,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "7,97"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "8,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "1,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,85"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "4,73"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "12,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "10,52"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "12,08"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "8,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "1,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,85"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,36"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "1,82"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "1,76"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "1,99"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "1,70"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "1,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "1,45"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,82"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "5,49"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "VPA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "4,59"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "0,46"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,45"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "0,56"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "1,09"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "0,93"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,40"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,07"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,04"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,03"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "0,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,43"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "0,35"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,19"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,05"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,37"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,96"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LPA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "3,99"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "0,79"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "0,90"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "2,08"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "1,56"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "1,42"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,13"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,06"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/SR",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,07"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "7,57"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "7,14"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "9,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "11,05"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "9,12"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "9,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,05"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,64"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "-0,62"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "-1,70"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "-0,55"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "12,59%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "14,95%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "8,92"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,67"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "10,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "25,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "24,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "35,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "53,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "2,96"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "3,71"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "5,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "5,01"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "4,38"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "2,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,34"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,18"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "6,43"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "4,91"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "6,27"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "11,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "10,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "11,12"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "13,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "5,31"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "6,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "5,89"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "7,63"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "15,70"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "14,68"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "16,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "13,47"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "5,75"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "5,31"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "1,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "12,59%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "14,95%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "8,92"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,67"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "10,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "25,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "24,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "35,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "53,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "2,96"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "3,71"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "5,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "5,01"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "4,38"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "2,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,34"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,18"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "12,59%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "14,95%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROE",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "8,92"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,67"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "10,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "25,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "24,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "35,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "53,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROA",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,21"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "0,88"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "ROIC",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "3,20"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "2,96"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "3,71"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "5,61"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "5,01"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "4,38"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "2,00"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "0,34"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "0,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,18"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "12,59%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "14,95%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "0,18%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "2,50%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "ATUAL",
+            "value": "8,92"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2022",
+            "value": "7,67"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2021",
+            "value": "10,10"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2020",
+            "value": "25,86"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2019",
+            "value": "24,58"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2018",
+            "value": "35,74"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2017",
+            "value": "53,65"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2016",
+            "value": "6,22"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2015",
+            "value": "1,26"
+      },
+      {
+            "ativo": "REDE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE ENERGIA",
+            "year": "2014",
+            "value": "0,21"
+      }
+]

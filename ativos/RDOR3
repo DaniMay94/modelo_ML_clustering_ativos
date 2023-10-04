@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,54%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "1,37%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "3,26%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D.Y",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "65,27"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "56,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "57,21"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "316,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/L",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "-6,51"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "3,77"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "3,10"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "6,63"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/VP",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "15,53"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "13,25"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "21,48"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "57,95"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "21,54"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "18,02"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "28,68"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "87,84"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "15,07"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "12,77"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "18,40"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "54,64"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "20,90"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "17,37"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "24,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "82,82"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "9,62"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "9,53"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "6,76"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "6,86"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "VPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,89"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "0,73"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "1,72"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "2,97"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,56"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "0,78"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LPA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "2,87"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "2,95"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "4,42"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "9,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/SR",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "2,72"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "5,38"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "7,30"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "-1,63"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "-2,95"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-5,84"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,54%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "1,37%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "3,26%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "65,27"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "56,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "57,21"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "316,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "-6,51"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "3,77"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "3,10"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "6,63"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "15,53"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "13,25"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "21,48"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "57,95"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "21,54"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "18,02"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "28,68"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "87,84"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,54%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "1,37%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "3,26%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "65,27"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "56,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "57,21"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "316,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "-6,51"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. EBIT",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "3,77"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "3,10"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "6,63"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,54%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "1,37%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "3,26%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROE",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "65,27"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "56,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "57,21"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "316,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROA",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "-6,51"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "ROIC",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "3,77"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "3,10"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "6,63"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "9,96"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "0,54%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "1,37%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "3,26%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "ATUAL",
+            "value": "65,27"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2022",
+            "value": "56,67"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2021",
+            "value": "57,21"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2020",
+            "value": "316,57"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RDOR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "REDE D OR S\u00c3O LUIZ S.A.",
+            "year": "2018",
+            "value": "-"
+      }
+]

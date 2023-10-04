@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D.Y",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "37,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "26,63"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "35,62"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/L",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,70"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "3,15"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/VP",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "10,00"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "8,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "17,65"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "12,57"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "10,60"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "20,61"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "8,11"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "6,44"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "18,24"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "10,20"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "8,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "21,30"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "4,28"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "4,23"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "4,29"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "VPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "1,26"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "0,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "0,38"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LPA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,56"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "5,04"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/SR",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "5,77"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "3,85"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "3,68"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-2,20"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "37,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "26,63"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "35,62"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,70"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "3,15"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "10,00"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "8,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "17,65"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "12,57"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "10,60"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "20,61"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "37,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "26,63"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "35,62"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. EBIT",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,70"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "3,15"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROE",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "37,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "26,63"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "35,62"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROA",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "-1,27"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "ROIC",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,70"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "3,15"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "ATUAL",
+            "value": "37,16"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2022",
+            "value": "26,63"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2021",
+            "value": "35,62"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MATD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HOSPITAL MATER DEI SA",
+            "year": "2018",
+            "value": "-"
+      }
+]

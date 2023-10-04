@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,47%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D.Y",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "77,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "56,90"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "19,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/L",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "3,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,04"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/VP",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "11,59"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "10,58"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,75"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "28,20"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "21,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "18,09"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/EBIT",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "7,84"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "7,61"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "72,94"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "63,04"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "58,59"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "55,57"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "53,78"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "52,06"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "VPA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "48,71"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,57"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "1,27"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "1,99"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "0,39"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "0,41"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "14,27"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "7,27"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "5,14"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "3,78"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "3,27"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "4,36"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LPA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "4,41"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "3,82"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "2,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,11"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/SR",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "32,10"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "29,15"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "30,69"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-1,94"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-1,57"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-2,57"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,47%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "77,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "56,90"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "19,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "3,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,04"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "11,59"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "10,58"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,75"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,47%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "77,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "56,90"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "19,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. EBIT",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "3,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,04"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,47%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROE",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "77,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "56,90"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "19,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROA",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "ROIC",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "3,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,04"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "1,47%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "ATUAL",
+            "value": "77,70"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2022",
+            "value": "56,90"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2021",
+            "value": "19,89"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CPLE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "COPEL",
+            "year": "2014",
+            "value": "-"
+      }
+]

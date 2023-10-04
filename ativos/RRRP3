@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D.Y",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "18,53"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "51,26"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-7.510,49"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/L",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,96"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "3,78"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/VP",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "14,33"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "8,15"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "42,76"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "29,10"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "10,45"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-23,21"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "13,93"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "12,77"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "40,94"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "28,28"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "16,38"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-23,64"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "17,89"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "21,09"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "20,28"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "9,84"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "VPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,05"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,96"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,89"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-2,37"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LPA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "4,38"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "4,45"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "9,34"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "19,94"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/SR",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "30,95"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "11,29"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "3,17"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "6,20"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-1,30"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-1,20"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-2,48"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-3,05"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "18,53"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "51,26"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-7.510,49"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,96"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "3,78"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "14,33"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "8,15"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "42,76"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "29,10"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "10,45"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-23,21"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "18,53"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "51,26"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-7.510,49"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. EBIT",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,96"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "3,78"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROE",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "18,53"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "51,26"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-7.510,49"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROA",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "ROIC",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "1,96"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "3,78"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "ATUAL",
+            "value": "18,53"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2022",
+            "value": "51,26"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2021",
+            "value": "-7.510,49"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RRRP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "3R PETROLEUM \u00d3LEO E G\u00c1S S.A",
+            "year": "2017",
+            "value": "-"
+      }
+]

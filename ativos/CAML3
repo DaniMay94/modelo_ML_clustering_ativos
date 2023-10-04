@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "3,94%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,27%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,99%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D.Y",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,43"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/L",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "1,82"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "1,38"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/VP",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "5,58"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "7,03"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "10,69"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,21"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "6,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "6,97"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,57"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,39"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "9,15"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "3,48"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "5,52"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,52"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "8,35"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "5,97"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "2,99"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,35"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "6,61"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "6,58"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "12,39"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,57"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/EBIT",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "8,57"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,36"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "7,76"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "6,08"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "5,18"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "5,10"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "VPA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "0,52"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "0,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "0,71"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "0,67"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,29"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "1,25"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "0,58"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "0,88"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LPA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,25"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,29"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "0,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "0,55"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "0,68"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "0,61"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/SR",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "1,00"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "1,26"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "2,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "2,37"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "1,56"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "-1,94"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "-1,78"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "-1,87"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "3,94%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,27%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,99%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,43"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "1,82"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "1,38"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "5,58"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "7,16"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "7,03"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "10,69"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,21"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "6,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "6,97"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,57"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,39"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "9,15"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "3,94%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,27%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,99%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,43"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. EBIT",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "1,82"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "1,38"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "3,94%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,27%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,99%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROE",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,43"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROA",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "ROIC",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "0,99"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "1,47"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "1,82"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "1,38"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "3,94%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "4,41%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "2,17%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "5,27%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "1,99%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "ATUAL",
+            "value": "5,23"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2022",
+            "value": "8,43"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2021",
+            "value": "8,81"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2020",
+            "value": "8,85"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2019",
+            "value": "15,42"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2018",
+            "value": "7,98"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CAML3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CAMIL",
+            "year": "2014",
+            "value": "-"
+      }
+]

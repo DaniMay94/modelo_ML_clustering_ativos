@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "5,87%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "4,66%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,29%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "3,75%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,97%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D.Y",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "20,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "17,97"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "10,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "19,24"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/L",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/VP",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "3,91"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "3,03"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "4,90"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "12,58"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "9,57"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "8,48"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "14,54"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "8,89"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "3,35"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "3,01"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "4,25"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "10,78"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "9,50"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "8,48"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "12,60"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "9,32"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "10,42"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "10,49"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "9,58"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "8,99"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "VPA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "0,62"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "0,64"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "0,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "0,69"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "0,69"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "1,22"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "0,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,38"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LPA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "1,56"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "1,39"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "1,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "2,05"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "2,20"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/SR",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-10,09"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-10,90"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "16,81"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-0,65"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "5,87%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "4,66%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,29%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "3,75%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,97%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "20,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "17,97"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "10,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "19,24"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "3,91"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "3,03"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "4,90"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "12,58"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "9,57"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "8,48"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "14,54"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "8,89"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "5,87%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "4,66%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,29%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "3,75%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,97%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "20,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "17,97"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "10,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "19,24"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "5,87%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "4,66%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,29%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "3,75%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,97%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROE",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "20,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "17,97"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "10,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "19,24"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROA",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "-0,46"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "ROIC",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "1,18"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "1,53"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,74"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "5,87%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "4,66%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "3,29%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "3,75%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "1,97%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "ATUAL",
+            "value": "20,85"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2022",
+            "value": "17,97"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2021",
+            "value": "10,76"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2020",
+            "value": "19,24"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2019",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TIMS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TIM",
+            "year": "2014",
+            "value": "-"
+      }
+]

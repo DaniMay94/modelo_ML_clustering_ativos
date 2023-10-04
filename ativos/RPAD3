@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D.Y",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "9,11"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "27,08"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,09"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,66"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,80"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/L",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,07"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,53"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/VP",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "8,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "28,64"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "14,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,90"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "8,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "28,64"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "14,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,71"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,28"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,10"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "10,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "29,12"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,10"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "9,70"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "10,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "29,12"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,10"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,85"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,81"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,84"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,41"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "12,75"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "12,60"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "12,27"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "12,14"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "11,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "11,33"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "10,84"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "10,43"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "10,05"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "VPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "9,18"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,49"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,22"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,78"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,40"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,48"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,51"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,51"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "0,60"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LPA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,39"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "5.281,73"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "1.847,89"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "629,89"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "632,37"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "1.035,01"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/SR",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "775,94"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "9,78"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "10,45"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "8,64"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "40,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-240,43"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "28,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "12,43"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "54,86"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-170,84"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "9,11"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "27,08"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,09"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,66"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,80"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,07"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,53"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "8,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "28,64"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "14,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,90"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "8,79"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "28,64"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "14,56"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "14,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "5,49"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,71"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,28"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,10"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "9,11"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "27,08"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,09"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,66"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,80"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,07"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,53"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROE",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "9,11"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "27,08"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,09"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,66"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,80"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROA",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,37"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,04"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,07"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "ROIC",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,53"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "0,52"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,21"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "0,23"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "0,02%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2022",
+            "value": "9,11"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2021",
+            "value": "27,08"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2020",
+            "value": "15,09"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2019",
+            "value": "12,66"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2018",
+            "value": "4,74"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2017",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2015",
+            "value": "3,80"
+      },
+      {
+            "ativo": "RPAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ALFA HOLDINGS",
+            "year": "2014",
+            "value": "5,37"
+      }
+]

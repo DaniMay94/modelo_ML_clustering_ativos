@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D.Y",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,47"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,19"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/L",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,31"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "1,66"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,48"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "2,85"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/VP",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,15"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,82"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,27"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,32"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,99"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,35"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,82"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "7,95"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,53"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,99"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "6,85"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,02"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "5,57"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "VPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,84"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "1,95"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "1,34"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,45"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "1,09"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LPA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,69"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "1,78"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/SR",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "2,18"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "-2,35"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-8,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,47"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,19"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,31"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "1,66"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,48"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "2,85"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,15"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,82"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,27"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "6,32"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "12,99"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,47"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,19"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,31"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. EBIT",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "1,66"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,48"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "2,85"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROE",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,47"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,19"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROA",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,31"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "0,22"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "ROIC",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "1,66"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,48"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "2,85"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "0,73%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "ATUAL",
+            "value": "8,47"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2022",
+            "value": "7,19"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2021",
+            "value": "14,54"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SOJA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BOA SAFRA SEMENTES S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

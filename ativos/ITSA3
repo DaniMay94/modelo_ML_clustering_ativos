@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,90%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "4,24%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "5,23%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "8,48%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,15%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "3,62%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D.Y",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "14,71"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "11,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,53"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,72"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,36"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/L",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,49"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "0,66"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-11,91"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "0,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "0,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "1,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "1,06"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/VP",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,45"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,45"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,04"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "12,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,15"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,86"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,74"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,37"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "13,17"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,82"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "9,50"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,93"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,24"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,16"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,26"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "5,94"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "12,43"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,54"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "13,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,75"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,01"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,24"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,12"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,59"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "7,50"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "7,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "6,82"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "6,57"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,38"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "6,90"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,42"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "6,64"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "VPA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "6,42"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "0,89"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "0,96"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "1,43"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "1,75"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,50"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,23"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,01"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "0,87"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,22"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "1,41"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "1,38"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "0,84"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "1,23"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,26"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,11"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LPA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,29"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "11,94"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "10,17"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "10,05"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "17,65"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "23,60"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "18,49"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "15,93"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "12,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "9,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/SR",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "11,80"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "27,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "19,93"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "20,82"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "24,17"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "31,06"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "25,20"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "31,70"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "19,65"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "16,21"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "25,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "-1,02"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "-1,61"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "-1,93"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-1,14"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "-1,38"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,90%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "4,24%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "5,23%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "8,48%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,15%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "3,62%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "14,71"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "11,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,53"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,72"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,36"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,49"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "0,66"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-11,91"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "0,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "0,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "1,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "1,06"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,45"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,45"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,04"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "12,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,15"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,86"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "5,74"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,37"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "13,17"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "10,82"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "9,50"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,93"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,24"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,90%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "4,24%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "5,23%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "8,48%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,15%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "3,62%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "14,71"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "11,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,53"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,72"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,36"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,49"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "0,66"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-11,91"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "0,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "0,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "1,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "1,06"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,90%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "4,24%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "5,23%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "8,48%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,15%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "3,62%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROE",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "14,71"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "11,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,53"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,72"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,36"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROA",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,49"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "-1,08"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "0,66"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "-11,91"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "-0,98"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "0,44"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "ROIC",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "0,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "1,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "1,19"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "2,14"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "1,25"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "1,06"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,51"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "6,39%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,90%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "4,24%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "5,23%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "8,48%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "7,15%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "3,62%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "6,26%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "7,58%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "1,83%"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "ATUAL",
+            "value": "7,55"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2022",
+            "value": "6,31"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2021",
+            "value": "6,73"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2020",
+            "value": "14,71"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2019",
+            "value": "11,46"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2018",
+            "value": "10,53"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2017",
+            "value": "9,72"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2016",
+            "value": "7,27"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2015",
+            "value": "5,36"
+      },
+      {
+            "ativo": "ITSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ITAUSA",
+            "year": "2014",
+            "value": "7,49"
+      }
+]

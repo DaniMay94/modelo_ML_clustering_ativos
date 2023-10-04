@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "4,61%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,35%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D.Y",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "8,42"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "26,27"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/L",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,55"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "2,48"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/VP",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "5,64"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "6,96"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "16,11"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "5,89"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "7,72"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "16,33"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "13,96"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "13,00"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "7,53"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "VPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "0,98"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "1,47"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "3,24"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "3,94"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "0,71"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LPA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "2,25"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "3,26"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "4,47"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/SR",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "-30,66"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "13,10"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-21,95"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "-2,18"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "4,61%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,35%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "8,42"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "26,27"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,55"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "2,48"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "5,64"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "6,96"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "16,11"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "4,61%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,35%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "8,42"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "26,27"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,55"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "2,48"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "4,61%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,35%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROE",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "8,42"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "26,27"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROA",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "0,02"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "ROIC",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "1,65"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,55"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "2,48"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "4,61%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "2,35%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "ATUAL",
+            "value": "7,08"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2022",
+            "value": "8,42"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2021",
+            "value": "26,27"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RECV3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETROREC\u00d4NCAVO S.A.",
+            "year": "2018",
+            "value": "-"
+      }
+]

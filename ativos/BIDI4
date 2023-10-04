@@ -1,0 +1,1892 @@
+[
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D.Y",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-234,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-338,55"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-3.494,54"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "20,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/L",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "2,93"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "7,62"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,72"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/VP",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-155,95"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-792,22"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "17,89"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-91,21"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-113,80"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-282,42"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "37,08"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-156,23"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-794,23"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "18,05"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-89,72"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-113,99"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-283,14"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "37,42"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "3,25"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "4,32"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "21,68"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "VPA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "0,23"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,67"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "1,27"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-0,03"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,78"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LPA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "12,22"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "12,44"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "27,02"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,88"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/SR",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-13,69"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-2,39"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-234,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-338,55"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-3.494,54"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "20,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "2,93"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "7,62"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,72"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-155,95"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-792,22"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "17,89"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-91,21"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-113,80"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-282,42"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "37,08"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-234,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-338,55"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-3.494,54"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "20,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "2,93"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "7,62"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,72"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROE",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-234,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-338,55"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-3.494,54"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "20,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROA",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "ROIC",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "2,93"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "7,62"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "0,72"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "0,27%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "1,84%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "ATUAL",
+            "value": "-234,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2021",
+            "value": "-338,55"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2020",
+            "value": "-3.494,54"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2019",
+            "value": "20,18"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BIDI4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO INTER",
+            "year": "2015",
+            "value": "-"
+      }
+]

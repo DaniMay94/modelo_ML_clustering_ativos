@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,06%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,08%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,15%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "3,67%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D.Y",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,75%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "35,04"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "34,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "47,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "56,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "50,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "75,52"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "53,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "26,08"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/L",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "21,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "-1,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "1,20"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "4,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "4,18"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "6,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "4,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "3,49"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "3,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,26"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/VP",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "5,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "18,35"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "18,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "22,82"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "26,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "22,39"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "17,43"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "17,78"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "12,85"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "12,81"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "24,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "25,07"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "30,47"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "39,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "29,53"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "35,83"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "36,46"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "20,82"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "16,09"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "19,30"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "19,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "24,80"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "27,80"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "24,92"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "17,33"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "16,81"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "11,58"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "13,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "25,42"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "26,59"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "33,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "42,18"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "32,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "35,63"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "34,48"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "18,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/EBIT",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "16,48"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "6,98"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "6,98"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "6,86"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "4,51"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "14,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "7,77"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "7,62"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "7,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "VPA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "6,83"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,61"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,78"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "3,23"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "3,02"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,99"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "1,63"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,67"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "0,83"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "0,81"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "0,51"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "0,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "0,56"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "0,92"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LPA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "1,61"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "4,64"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "4,49"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "5,94"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "6,39"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "4,69"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,94"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "2,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "1,82"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/SR",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "3,23"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "6,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "5,89"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "8,16"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "20,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "8,23"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "14,48"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "11,81"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "12,16"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "7,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "-4,11"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "-3,89"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "-3,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "-7,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "-6,98"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "-3,28"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "-3,40"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "-2,67"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "-5,79"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,06%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,08%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,15%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "3,67%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,75%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "35,04"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "34,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "47,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "56,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "50,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "75,52"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "53,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "26,08"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "21,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "-1,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "1,20"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "4,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "4,18"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "6,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "4,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "3,49"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "3,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,26"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "5,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "18,35"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "18,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "22,82"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "26,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "22,39"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "17,43"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "17,78"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "12,85"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "12,81"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "24,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "25,07"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "30,47"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "39,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "29,53"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "35,83"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "36,46"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "20,82"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "16,09"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,06%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,08%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,15%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "3,67%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,75%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "35,04"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "34,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "47,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "56,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "50,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "75,52"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "53,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "26,08"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "21,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "-1,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. EBIT",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "1,20"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "4,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "4,18"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "6,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "4,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "3,49"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "3,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,26"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "5,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,06%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,08%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,15%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "3,67%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROE",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,75%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "35,04"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "34,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "47,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "56,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "50,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "75,52"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "53,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "26,08"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROA",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "21,76"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "0,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "-2,10"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "-1,36"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "-1,19"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "ROIC",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "1,20"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "4,17"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "4,18"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "6,37"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "4,32"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "3,49"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "3,93"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,26"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "5,12"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "1,06%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "1,12%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "1,08%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "0,65%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "1,15%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "1,18%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "3,84%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "3,67%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "2,75%"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "ATUAL",
+            "value": "35,04"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2022",
+            "value": "34,22"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2021",
+            "value": "47,97"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2020",
+            "value": "56,27"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2019",
+            "value": "50,96"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2018",
+            "value": "75,52"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2017",
+            "value": "53,25"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2016",
+            "value": "26,08"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TOTS3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TOTVS",
+            "year": "2014",
+            "value": "21,76"
+      }
+]

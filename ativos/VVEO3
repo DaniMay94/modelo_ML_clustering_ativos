@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D.Y",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D.Y",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,69%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D.Y",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,32%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D.Y",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/L",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "30,22"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/L",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "17,77"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/L",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "13,66"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/L",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/VP",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "2,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/VP",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,02"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/VP",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "2,51"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/VP",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "11,11"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "9,01"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "15,12"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "11,55"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "10,81"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "6,69"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "9,14"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "11,06"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "8,99"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "10,97"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "VPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "8,10"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "VPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "7,97"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "VPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "7,52"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "VPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "0,67"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "0,48"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "0,78"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "0,91"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,38"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LPA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/SR",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "0,63"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/SR",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "0,53"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/SR",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "0,87"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/SR",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "2,48"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "1,91"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "2,19"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "-1,55"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "-1,18"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "-2,34"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,69%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,32%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "30,22"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "17,77"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "13,66"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "2,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,02"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "2,51"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "11,11"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "8,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "9,01"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "15,12"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "11,55"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "10,81"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,69%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,32%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "30,22"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "17,77"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "13,66"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. EBIT",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "2,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,02"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "2,51"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,69%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,32%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROE",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "30,22"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "17,77"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "13,66"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROA",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROIC",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,54"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROIC",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROIC",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "ROIC",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "2,60"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,02"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "2,51"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "2,69%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "1,32%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "ATUAL",
+            "value": "30,22"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2022",
+            "value": "17,77"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2021",
+            "value": "13,66"
+      },
+      {
+            "ativo": "VVEO3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CM HOSPITALAR S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

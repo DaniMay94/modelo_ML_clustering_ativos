@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D.Y",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D.Y",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,70%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D.Y",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D.Y",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/L",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "20,88"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/L",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "60,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/L",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/L",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PEG RATIO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/VP",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/VP",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,13"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/VP",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/VP",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,07"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,03"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,68"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,86"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "7,56"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "EV/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,32"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "2,65"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "4,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,59"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "3,19"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "5,61"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "VPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "8,45"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "VPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "8,69"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "VPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "8,54"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "VPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,17"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "0,27"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,26"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,16"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "0,69"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LPA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/SR",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,08"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/SR",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/SR",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/SR",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "1,06"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,66"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "3,35"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-0,53"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-0,99"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,70%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "20,88"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "60,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,13"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,07"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,03"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "5,93"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "3,68"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "4,86"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "7,56"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,70%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. BRUTA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "20,88"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "60,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBITDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. EBIT",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,13"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,70%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROE",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "20,88"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "60,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROA",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROIC",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "-0,42"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROIC",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROIC",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "ROIC",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,13"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "1,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "0,74%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "1,70%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "ATUAL",
+            "value": "20,88"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2022",
+            "value": "60,25"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2021",
+            "value": "15,40"
+      },
+      {
+            "ativo": "AGXY3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AGROGALAXY PARTICIPA\u00c7\u00d5ES S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

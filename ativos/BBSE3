@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,34%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "5,83%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "4,80%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "4,20%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "11,23%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "5,77%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "5,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D.Y",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "11,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "10,55"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "11,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "14,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "14,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "11,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/L",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "18,61"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "15,96"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-3,06"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "0,53"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "6,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "8,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,27"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "14,37"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "6,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "6,83"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,42"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/VP",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "8,12"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "8,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "9,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "8,41"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "12,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "12,50"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "12,14"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "12,38"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "9,74"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "9,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "8,41"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "12,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "12,50"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "12,14"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "12,38"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "9,74"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "5,02"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "4,01"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "3,64"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "3,19"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "2,62"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "3,42"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "4,45"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "4,14"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "3,79"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "VPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,96"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "4,34"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "4,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "3,12"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "5,44"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "5,05"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "4,03"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "4,27"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "4,51"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "4,23"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "6,19"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "3,35"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "3,02"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "1,97"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "1,93"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "3,33"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "2,02"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "2,01"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "2,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LPA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "1,73"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/SR",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "34,04"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "94,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "36,84"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "77,41"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "144,30"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "35,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "33,18"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "423,46"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-434,34"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "41,98"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "-5,95"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "-7,22"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-5,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-8,14"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-12,18"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-8,51"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "-6,83"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-6,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-5,46"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-8,67"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,34%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "5,83%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "4,80%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "4,20%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "11,23%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "5,77%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "5,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "11,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "10,55"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "11,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "14,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "14,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "11,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "18,61"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "15,96"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-3,06"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "0,53"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "6,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "8,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,27"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "14,37"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "6,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "6,83"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,42"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "8,12"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "8,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "9,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "8,41"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "12,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "8,77"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "12,50"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "12,14"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "12,38"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "9,74"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "15,54"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,34%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "5,83%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "4,80%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "4,20%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "11,23%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "5,77%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "5,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "11,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "10,55"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "11,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "14,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "14,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "11,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "18,61"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "15,96"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-3,06"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "0,53"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. EBIT",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "6,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "8,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,27"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "14,37"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "6,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "6,83"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,42"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "8,12"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,34%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "5,83%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "4,80%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "4,20%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "11,23%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "5,77%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "5,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROE",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "11,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "10,55"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "11,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "14,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "14,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "11,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROA",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "18,61"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "0,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "-1,24"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "15,96"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "-3,06"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "0,53"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "ROIC",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "6,21"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "8,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "5,70"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,27"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "14,37"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "8,08"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "6,40"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "6,83"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,42"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "8,12"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,34%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "5,83%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "4,80%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "9,40%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "4,20%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "11,23%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "5,77%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "5,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "6,91%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "3,73%"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "ATUAL",
+            "value": "9,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2022",
+            "value": "11,15"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2021",
+            "value": "10,55"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2020",
+            "value": "15,39"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2019",
+            "value": "11,32"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2018",
+            "value": "15,59"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2017",
+            "value": "14,07"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2016",
+            "value": "14,10"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2015",
+            "value": "11,57"
+      },
+      {
+            "ativo": "BBSE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BB SEGURIDADE",
+            "year": "2014",
+            "value": "18,61"
+      }
+]

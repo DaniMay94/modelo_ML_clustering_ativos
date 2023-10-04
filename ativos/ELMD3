@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "71,99"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "44,49"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-121,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/L",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,61"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "7,77"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "17,45"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "15,88"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "14,56"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "155,79"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "6,93"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "5,69"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "17,10"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "12,70"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "10,65"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "152,69"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "5,55"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "5,67"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "5,52"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "VPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,98"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "0,85"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "0,20"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LPA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,31"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "1,79"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "3,35"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-8,24"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-9,93"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "3,52"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-1,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-1,57"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "71,99"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "44,49"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-121,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,61"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "8,67"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "7,77"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "17,45"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "15,88"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "14,56"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "155,79"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "71,99"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "44,49"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-121,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,61"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROE",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "71,99"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "44,49"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-121,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROA",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "2,61"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "1,80"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "ATUAL",
+            "value": "71,99"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2022",
+            "value": "44,49"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2021",
+            "value": "-121,22"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "ELMD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROMIDIA S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

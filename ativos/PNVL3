@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,19%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,14%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "0,07%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,41%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D.Y",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "23,63"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "17,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "25,22"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "58,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "34,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "18,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "30,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "57,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "29,25"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/L",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "19,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "4,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,03"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "0,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "2,40"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "3,34"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "-3,53"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "1,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "3,04"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "7,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "3,85"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/VP",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "3,15"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "8,23"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "16,68"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "14,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "10,54"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "16,10"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "26,11"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "13,17"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "11,52"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "18,62"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "37,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "25,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "13,20"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "20,21"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "31,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "16,00"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "13,67"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "5,88"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "4,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "7,72"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "15,73"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "12,37"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "10,11"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "15,46"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "27,26"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "12,95"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "10,84"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "13,31"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "11,11"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "19,73"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "35,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "22,21"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "12,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "19,42"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "33,30"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "15,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/EBIT",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "12,86"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "7,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "7,37"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "6,96"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "6,67"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "116,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "101,84"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "93,60"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "83,71"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "75,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "VPA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "68,18"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "0,70"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "0,56"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "0,84"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "1,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "1,82"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,41"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,92"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "3,72"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "1,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "1,36"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "0,56"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "0,53"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,37"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "17,00"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "16,46"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "13,12"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "11,64"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "9,92"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LPA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "10,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "0,48"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "0,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "0,62"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "1,17"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,98"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "0,58"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "0,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "1,43"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,67"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/SR",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,52"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "3,56"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,77"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "3,45"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "4,73"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "7,60"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "5,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "6,05"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "13,87"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "5,90"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "4,47"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "-1,30"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-2,03"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "-4,04"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "-4,37"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "-5,17"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "-7,44"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "-13,23"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "-6,02"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "-4,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,19%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,14%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "0,07%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,41%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "23,63"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "17,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "25,22"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "58,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "34,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "18,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "30,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "57,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "29,25"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "19,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "4,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,03"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "0,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "2,40"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "3,34"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "-3,53"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "1,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "3,04"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "7,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "3,85"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "3,15"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "8,23"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "16,68"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "14,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "10,54"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "16,10"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "26,11"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "13,17"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "11,52"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "18,62"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "37,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "25,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "13,20"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "20,21"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "31,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "16,00"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "13,67"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,19%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,14%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "0,07%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,41%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "23,63"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "17,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "25,22"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "58,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "34,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "18,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "30,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "57,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "29,25"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "19,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "4,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,03"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "0,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "2,40"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "3,34"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "-3,53"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. EBIT",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "1,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "3,04"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "7,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "3,85"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "3,15"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,19%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,14%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "0,07%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,41%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROE",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "23,63"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "17,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "25,22"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "58,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "34,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "18,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "30,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "57,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "29,25"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROA",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "19,89"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "4,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,03"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "0,74"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "2,40"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "3,34"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "-3,53"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "ROIC",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,76"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "1,38"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "3,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "5,07"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "3,04"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "4,27"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "7,99"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "3,85"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "3,15"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "2,19%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "1,31%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "0,62%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "1,05%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "1,14%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "0,07%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "0,41%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "0,57%"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "ATUAL",
+            "value": "23,63"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2022",
+            "value": "17,66"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2021",
+            "value": "25,22"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2020",
+            "value": "58,81"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2019",
+            "value": "34,65"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2018",
+            "value": "18,83"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2017",
+            "value": "30,50"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2016",
+            "value": "57,49"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2015",
+            "value": "29,25"
+      },
+      {
+            "ativo": "PNVL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DIMED",
+            "year": "2014",
+            "value": "19,89"
+      }
+]

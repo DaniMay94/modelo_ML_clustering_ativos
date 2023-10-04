@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D.Y",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "26,43"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "11,76"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "11,56"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "26,49"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "21,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/L",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PEG RATIO",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "2,69"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "1,97"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "2,70"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "2,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "2,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/VP",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "5,05"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "4,68"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "6,02"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "7,85"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "7,10"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "6,40"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "8,06"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "16,12"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "12,03"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "EV/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,05"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "0,81"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "3,46"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,48"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "1,11"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,04"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "7,10"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "4,97"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "3,47"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "3,44"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "4,32"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "15,64"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "11,12"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "VPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "0,13"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "0,20"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,29"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "0,58"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "1,01"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "1,34"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "1,25"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LPA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "0,29"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "0,69"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,75"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,60"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/SR",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "0,91"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "1,22"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "1,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "26,43"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "11,76"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "11,56"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "26,49"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "21,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "2,69"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "1,97"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "2,70"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "2,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "2,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "5,05"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "4,68"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "6,02"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "7,85"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "7,10"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "6,40"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "8,06"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "16,12"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "12,03"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. BRUTA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "26,43"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "11,76"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "11,56"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "26,49"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "21,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBITDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. EBIT",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "2,69"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "1,97"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "2,70"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "2,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "2,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROE",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "26,43"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "11,76"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "11,56"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "26,49"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "21,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROA",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "ROIC",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "2,69"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "1,97"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "2,70"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "2,27"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "2,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "1,68%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "9,67%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "3,83%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "0,69%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "0,58%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "ATUAL",
+            "value": "26,43"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2022",
+            "value": "11,76"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2021",
+            "value": "11,56"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2020",
+            "value": "26,49"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2019",
+            "value": "21,41"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "SIMH3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "SIMPAR S.A.",
+            "year": "2014",
+            "value": "-"
+      }
+]

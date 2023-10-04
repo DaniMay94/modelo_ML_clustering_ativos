@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D.Y",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,75%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-10,69"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-24,12"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "37,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-24,48"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-25,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/L",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "52,66"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "1,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "1,91"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "1,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "1,54"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/VP",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "2,33"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-9,17"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-9,72"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "30,56"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-14,58"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "18,90"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "4,02"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "7,63"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "8,96"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "5,37"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "8,62"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-6,49"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-200,86"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-9,23"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "52,36"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "6,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "18,11"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "173,04"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "20,45"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "17,05"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-1,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-2,52"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "13,84"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-9,62"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "14,62"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "2,53"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "5,57"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "6,73"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "3,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "6,98"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-1,26"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-90,97"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-6,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "40,49"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "3,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "13,22"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "130,02"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "12,72"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "1,07"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "1,51"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "3,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "3,79"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "6,96"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "4,77"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "4,70"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "4,96"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "6,03"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "VPA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "6,23"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,10"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,14"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,29"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "0,53"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "0,67"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "0,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,52"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "0,46"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,32"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,90"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-1,51"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-0,55"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "0,14"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-0,30"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LPA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,39"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "0,94"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "0,38"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,51"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "0,43"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,28"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/SR",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-21,44"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "3,27"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "2,86"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "5,50"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "3,27"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "1,74"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "2,58"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "1,41"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,87"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "2,56"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-1,13"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-1,65"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-0,90"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-1,50"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-1,15"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "-2,72"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,75%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-10,69"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-24,12"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "37,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-24,48"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-25,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "52,66"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "1,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "1,91"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "1,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "1,54"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "2,33"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-9,17"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-9,72"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "30,56"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-14,58"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "18,90"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "4,02"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "7,63"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "8,96"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "5,37"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "8,62"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-6,49"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-6,84"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-200,86"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-9,23"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "52,36"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "6,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "18,11"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "173,04"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "20,45"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "17,05"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,75%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-10,69"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-24,12"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "37,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-24,48"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-25,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "52,66"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. EBIT",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "1,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "1,91"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "1,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "1,54"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "2,33"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROE",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,75%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-10,69"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-24,12"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "37,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-24,48"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-25,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROA",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "52,66"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "0,78"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-0,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,15"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "ROIC",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "-1,31"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "1,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "1,91"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "1,09"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "1,54"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "1,20"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "0,80"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "2,33"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "1,35%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "0,75%"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2022",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2021",
+            "value": "-10,69"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2019",
+            "value": "-24,12"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2018",
+            "value": "37,34"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2017",
+            "value": "-24,48"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2016",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2015",
+            "value": "-25,16"
+      },
+      {
+            "ativo": "AMAR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "LOJAS MARISA",
+            "year": "2014",
+            "value": "52,66"
+      }
+]

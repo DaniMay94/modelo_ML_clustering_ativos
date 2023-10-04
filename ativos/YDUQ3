@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,55%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "1,07%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "6,98%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,12%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "2,36%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D.Y",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "455,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-53,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "40,18"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "103,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "22,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "11,71"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "24,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "13,61"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/L",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-4,93"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "0,23"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "1,60"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "0,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "2,14"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "1,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "3,17"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "4,73"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,91"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "3,76"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "2,06"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/VP",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "7,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "5,58"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "8,20"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "14,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "12,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "7,81"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "14,20"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "7,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "14,98"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "15,25"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "11,98"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "18,38"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "37,59"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "17,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "9,78"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "19,28"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "12,26"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,19"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,48"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "4,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "2,37"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "5,19"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "11,36"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "11,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "7,81"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "14,14"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "7,70"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "6,99"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "15,25"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "9,37"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "5,09"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "11,63"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "28,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "16,31"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "9,78"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "19,20"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "10,92"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "9,43"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/EBIT",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,84"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "9,53"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "10,49"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "10,37"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "10,04"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "8,15"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "8,74"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "7,68"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "8,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "VPA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "8,05"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "0,69"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,35"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "0,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,10"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "2,66"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "1,84"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "2,59"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "1,21"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,01"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,02"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "0,05"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "0,51"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "2,09"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "1,34"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "1,16"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,39"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LPA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "1,22"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "1,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,69"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "1,45"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "2,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "4,12"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,09"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "3,09"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "1,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,51"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/SR",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "6,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "3,17"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "5,74"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "7,05"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "18,33"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "28,88"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "12,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "9,70"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "4,88"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "6,58"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "-3,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "-2,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "-4,43"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "-1,86"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "-1,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "-3,48"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,55%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "1,07%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "6,98%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,12%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "2,36%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "455,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-53,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "40,18"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "103,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "22,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "11,71"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "24,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "13,61"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-4,93"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "0,23"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "1,60"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "0,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "2,14"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "1,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "3,17"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "4,73"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,91"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "3,76"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "2,06"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "7,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "5,58"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "8,20"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "14,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "12,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "7,81"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "14,20"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "7,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "14,98"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "15,25"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "11,98"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "18,38"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "37,59"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "17,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "9,78"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "19,28"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "12,26"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,19"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,48"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,55%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "1,07%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "6,98%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,12%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "2,36%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "455,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-53,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "40,18"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "103,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "22,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "11,71"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "24,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "13,61"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-4,93"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "0,23"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "1,60"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "0,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. EBIT",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "2,14"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "1,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "3,17"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "4,73"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,91"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "3,76"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "2,06"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,55%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "1,07%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "6,98%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,12%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "2,36%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROE",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "455,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-53,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "40,18"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "103,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "22,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "11,71"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "24,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "13,61"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROA",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,55"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-4,93"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "0,39"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "0,23"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "1,60"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "-0,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "0,47"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "ROIC",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,41"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "2,14"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "1,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "3,17"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "4,73"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "2,91"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "3,76"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "2,06"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "1,65"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "2,96"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "1,24%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "1,55%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "1,07%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "6,98%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "0,86%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "8,12%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "2,36%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "0,83%"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "ATUAL",
+            "value": "455,83"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2022",
+            "value": "-53,97"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2021",
+            "value": "40,18"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2020",
+            "value": "103,64"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2019",
+            "value": "22,72"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2018",
+            "value": "11,71"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2017",
+            "value": "24,57"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2016",
+            "value": "13,61"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2015",
+            "value": "10,03"
+      },
+      {
+            "ativo": "YDUQ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "YDUQS",
+            "year": "2014",
+            "value": "19,55"
+      }
+]

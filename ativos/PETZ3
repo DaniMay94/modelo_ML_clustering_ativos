@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,32%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,63%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D.Y",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "62,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "57,12"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "94,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "121,97"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/L",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "-2,22"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PEG RATIO",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "1,69"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "1,57"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "13,83"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/VP",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "10,94"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "10,71"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "38,45"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "21,80"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "20,77"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "41,06"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "57,46"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "EV/EBIT",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "11,16"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "10,99"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "28,73"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "38,40"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBITDA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "22,24"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "21,30"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "43,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "57,38"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/EBIT",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "4,00"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "3,99"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "4,04"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "1,38"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "VPA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,83"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,79"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "2,07"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "3,76"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,16"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LPA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "1,05"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "1,02"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "3,40"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "4,96"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/SR",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "5,85"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "8,21"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "10,74"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "30,70"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "-1,22"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "-1,13"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "-3,42"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "-7,07"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,32%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,63%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "62,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "57,12"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "94,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "121,97"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "-2,22"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "1,69"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "1,57"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "13,83"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "10,94"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "10,71"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "26,86"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "38,45"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "21,80"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "20,77"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "41,06"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "57,46"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,32%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,63%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. BRUTA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "62,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "57,12"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "94,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "121,97"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBITDA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "-2,22"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. EBIT",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "1,69"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "1,57"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "13,83"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,32%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,63%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROE",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "62,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "57,12"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "94,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "121,97"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROA",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "-2,22"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "-1,75"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "ROIC",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "1,69"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "1,57"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "4,05"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "13,83"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "0,32%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "0,63%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "0,26%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "0,17%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "ATUAL",
+            "value": "62,17"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2022",
+            "value": "57,12"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2021",
+            "value": "94,91"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2020",
+            "value": "121,97"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "PETZ3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "PETZ",
+            "year": "2017",
+            "value": "-"
+      }
+]

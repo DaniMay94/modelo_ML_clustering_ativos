@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,10%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D.Y",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "65,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "67,01"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "218,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "120,05"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "52,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "100,26"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-66,59"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/L",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,41"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "2,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "2,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "2,38"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "4,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "3,30"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "2,24"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "2,10"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/VP",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "10,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "8,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "13,33"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "12,55"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "13,17"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "16,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "14,45"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "29,39"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "24,54"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "23,87"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "21,11"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "18,98"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "40,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-516,54"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "8,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "6,90"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "9,83"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "9,37"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "10,63"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "13,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "11,36"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "21,67"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "18,31"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "19,25"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "15,14"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "12,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "14,55"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-235,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/EBIT",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "8,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "8,19"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "7,98"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "8,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "5,35"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "5,15"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "5,79"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "7,92"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "2,97"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "VPA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "3,02"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "0,68"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "0,78"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "1,24"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "0,98"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "0,66"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,18"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,35"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "0,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "0,16"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "0,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "0,17"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-0,19"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-1,71"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LPA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-2,96"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "4,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "3,51"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "4,43"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "5,12"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "5,74"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "4,02"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "2,92"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,97"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "1,03"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/SR",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "11,33"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "8,49"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "4,15"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "5,86"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "21,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "16,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "19,41"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,83"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-2,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "-1,17"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "-0,95"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-0,92"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-1,02"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-1,46"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-1,15"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-0,80"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-0,31"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,10%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "65,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "67,01"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "218,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "120,05"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "52,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "100,26"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-66,59"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,41"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "2,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "2,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "2,38"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "4,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "3,30"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "2,24"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "2,10"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "10,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "8,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "13,33"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "12,55"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "13,17"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "16,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "14,45"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "29,39"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "24,54"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "23,87"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "21,11"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "18,98"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "40,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-516,54"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,10%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "65,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "67,01"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "218,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "120,05"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "52,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "100,26"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-66,59"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,41"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. EBIT",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "2,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "2,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "2,38"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "4,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "3,30"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "2,24"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "2,10"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,10%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROE",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "65,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "67,01"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "218,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "120,05"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "52,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "100,26"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-66,59"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROA",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,28"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-0,50"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "0,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,41"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "0,09"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "ROIC",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "2,81"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "2,27"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "2,23"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "2,38"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "4,88"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "3,30"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "2,24"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "0,77"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "2,10"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "0,10%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "ATUAL",
+            "value": "65,56"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2022",
+            "value": "67,01"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2021",
+            "value": "218,75"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2020",
+            "value": "120,05"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2019",
+            "value": "52,29"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2018",
+            "value": "100,26"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2017",
+            "value": "-66,59"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2016",
+            "value": "-3,94"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2015",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "RAIL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "RUMO",
+            "year": "2014",
+            "value": "-"
+      }
+]

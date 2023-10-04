@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,90%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,08%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "7,13%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "3,41%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,16%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,89%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,23%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "5,42%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D.Y",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "4,98%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "8,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "10,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "8,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/L",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "8,85"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "3,83"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "1,35"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,28"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,71"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/VP",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,40"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "4,79"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "6,74"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "6,88"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,49"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "7,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "6,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "6,26"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "5,45"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "4,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "7,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "6,28"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,95"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "5,10"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "3,70"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "6,66"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,70"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "9,45"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "4,65"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "10,32"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "7,70"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "6,89"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "5,80"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "4,21"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "7,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "23,35"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "23,26"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "22,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "20,40"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "19,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "17,79"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "17,19"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "15,75"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "15,17"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "VPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "13,86"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "0,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "0,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,12"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,09"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "2,24"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "2,06"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "2,65"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "1,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "3,10"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "2,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "2,68"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "1,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "2,15"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LPA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "1,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,55"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,93"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "1,10"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "1,26"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "1,16"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,44"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/SR",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,74"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,51"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "4,50"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "3,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "2,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "2,06"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "0,93"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,57"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,95"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-2,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-0,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "-3,57"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "-0,27"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,90%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,08%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "7,13%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "3,41%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,16%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,89%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,23%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "5,42%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "4,98%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "8,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "10,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "8,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "8,85"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "3,83"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "1,35"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,28"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,71"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,40"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "4,79"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "3,58"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "2,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "6,74"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "6,88"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,49"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "2,98"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "7,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "6,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "6,26"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "5,45"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "4,07"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "2,91"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "7,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,90%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,08%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "7,13%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "3,41%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,16%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,89%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,23%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "5,42%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "4,98%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "8,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "10,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "8,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "8,85"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "3,83"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "1,35"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,28"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,71"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,90%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,08%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "7,13%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "3,41%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,16%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,89%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,23%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "5,42%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROE",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "4,98%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "8,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "10,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "8,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROA",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "8,85"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "3,83"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "-0,38"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "-0,37"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "ROIC",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "0,78"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "1,31"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "1,35"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,28"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "0,71"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "4,90%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "5,08%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "7,13%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "3,41%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "5,16%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "5,89%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "1,23%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "5,42%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "4,98%"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "ATUAL",
+            "value": "8,13"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2022",
+            "value": "8,54"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2021",
+            "value": "6,34"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2020",
+            "value": "13,05"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2019",
+            "value": "8,02"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2018",
+            "value": "10,81"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2017",
+            "value": "8,22"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2016",
+            "value": "6,29"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRSR5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO BANRISUL",
+            "year": "2014",
+            "value": "8,85"
+      }
+]

@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D.Y",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,03"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,38"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "5,81"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/L",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "0,48"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/VP",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "5,45"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "5,43"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "4,70"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "5,87"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "5,92"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "2,04"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "1,90"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "2,88"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "2,20"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "2,07"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "2,93"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "18,59"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "18,69"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "18,35"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "VPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,13"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,11"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,65"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,61"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "1,51"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LPA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "3,75"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "3,30"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "10,33"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/SR",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,56"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "2,76"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-0,28"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,03"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,38"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "5,81"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "0,48"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "5,45"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "5,43"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "4,70"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "5,87"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "5,92"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "4,79"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,03"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,38"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "5,81"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. EBIT",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "0,48"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROE",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,03"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,38"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "5,81"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROA",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "ROIC",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "0,28"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "0,24"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "0,48"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "ATUAL",
+            "value": "8,03"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2022",
+            "value": "7,38"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2021",
+            "value": "5,81"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HBRE3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HBR REALTY EMPREENDIMENTOS IMOBILIARIOS",
+            "year": "2017",
+            "value": "-"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D.Y",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "131,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/L",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-2,18"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PEG RATIO",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "4,20"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/VP",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "27,96"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "40,71"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "EV/EBIT",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "21,75"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBITDA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "31,67"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/EBIT",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "1,99"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "1,91"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "1,76"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "1,76"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "1,74"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "1,83"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "1,87"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "1,79"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "VPA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "1,79"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "1,80"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,06"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "0,15"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "0,15"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "0,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "0,04"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "0,02"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LPA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "0,10"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "5,37"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/SR",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-34,46"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-2,05"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "131,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-2,18"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "4,20"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "27,96"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "40,71"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. BRUTA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "131,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBITDA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-2,18"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. EBIT",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "4,20"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROE",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "131,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROA",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "-2,18"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "ROIC",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "4,20"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "0,29%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "ATUAL",
+            "value": "131,17"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "CASN4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CASAN",
+            "year": "2014",
+            "value": "-"
+      }
+]

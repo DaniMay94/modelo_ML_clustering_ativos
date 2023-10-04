@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D.Y",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D.Y",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D.Y",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D.Y",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/L",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/L",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-7,56"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/L",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "1.402,37"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/L",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/VP",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/VP",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/VP",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/VP",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-2,68"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-4,85"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-51,24"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-4,47"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-6,85"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-62,82"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "VPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "1,78"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "VPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,90"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "VPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "VPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "0,74"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,60"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-0,41"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-0,29"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LPA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/SR",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "5,92"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/SR",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "7,54"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/SR",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "18,39"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/SR",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "3,15"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "3,89"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "5,30"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-1,13"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-1,66"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-5,62"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-7,56"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "1.402,37"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-2,68"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-4,85"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-51,24"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-7,56"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "1.402,37"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. EBIT",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROE",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-7,56"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "1.402,37"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROA",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROIC",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROIC",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,00"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROIC",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "ROIC",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "0,84"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "1,17"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "2,75"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "0,01%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "ATUAL",
+            "value": "-3,65"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2022",
+            "value": "-7,56"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2021",
+            "value": "1.402,37"
+      },
+      {
+            "ativo": "TRAD3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TC TRADERS CLUB S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

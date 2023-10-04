@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,60%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "0,37%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "12,79%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,87%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D.Y",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "0,55%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "31,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "30,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "39,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "20,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-370,95"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "50,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "15,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "18,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "108,34"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/L",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-205,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PEG RATIO",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "1,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,76"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "3,74"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "4,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "4,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "5,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "3,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "3,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "3,97"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/VP",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "4,29"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "32,04"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "38,22"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "19,66"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-138,73"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "61,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "11,79"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "20,63"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-337,24"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-67,92"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "34,72"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "32,04"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "38,22"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "19,66"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-138,37"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "61,28"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "20,65"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-331,50"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "EV/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-67,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "34,72"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "41,92"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "21,84"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-153,89"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "72,62"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "13,98"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "22,57"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-383,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-74,93"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "36,49"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "34,72"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "41,92"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "21,84"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-153,49"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "72,86"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "13,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "22,59"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-377,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-74,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "19,49"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "18,70"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "18,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "17,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "14,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "15,93"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "17,09"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "16,03"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "12,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "VPA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "11,98"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,46"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "3,15"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "3,46"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "3,74"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "3,81"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "2,87"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "2,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "2,89"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "3,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "3,94"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "2,30"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "1,87"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "3,85"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "1,12"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "3,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "3,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "0,45"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LPA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/SR",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "19,46"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "19,45"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "17,32"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "13,43"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "12,63"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "7,18"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "7,14"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "12,92"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "9,20"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "10,35"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "-4,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "-4,40"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-5,04"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-6,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-6,25"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-5,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "-4,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "-4,01"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-5,96"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-6,44"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,60%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "0,37%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "12,79%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,87%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "0,55%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "31,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "30,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "39,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "20,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-370,95"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "50,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "15,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "18,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "108,34"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-205,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "1,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,76"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "3,74"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "4,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "4,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "5,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "3,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "3,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "3,97"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "4,29"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "32,04"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "38,22"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "19,66"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-138,73"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "61,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "11,79"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "20,63"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-337,24"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-67,92"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "34,72"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "32,04"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "38,22"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "19,66"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-138,37"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "61,28"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "11,80"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "20,65"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-331,50"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-67,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,60%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "0,37%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "12,79%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,87%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. BRUTA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "0,55%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "31,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "30,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "39,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "20,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-370,95"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "50,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "15,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "18,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "108,34"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBITDA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-205,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. EBIT",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "1,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,76"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "3,74"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "4,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "4,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "5,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "3,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "3,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "3,97"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "4,29"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,60%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "0,37%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "12,79%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,87%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROE",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "0,55%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "31,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "30,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "39,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "20,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-370,95"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "50,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "15,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "18,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "108,34"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROA",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-205,41"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "5,99"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,03"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-0,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "ROIC",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "1,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,76"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "3,74"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "4,08"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "4,56"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "5,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "3,52"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "3,10"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "3,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "3,97"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "4,29"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "3,24%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "2,60%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "2,74%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "0,37%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "12,79%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "1,40%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "0,87%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "0,55%"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "ATUAL",
+            "value": "31,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2022",
+            "value": "30,33"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2021",
+            "value": "39,39"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2020",
+            "value": "20,54"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2019",
+            "value": "-370,95"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2018",
+            "value": "50,00"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2017",
+            "value": "15,88"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2016",
+            "value": "18,02"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2015",
+            "value": "108,34"
+      },
+      {
+            "ativo": "LIPR3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "ELETROPAR",
+            "year": "2014",
+            "value": "-205,41"
+      }
+]

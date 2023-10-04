@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D.Y",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-49,97"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-48,50"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/L",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,49"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PEG RATIO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/VP",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "32,11"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "35,29"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "EV/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "0,49"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "6,75"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "6,56"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "0,60"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,94"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,93"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-2,45"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-1,79"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-0,14"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "3,25"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-7,71"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-5,62"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "VPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,53"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "0,35"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "0,58"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "0,18"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-16,36"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-5,79"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-6,25"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LPA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,55"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "0,43"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "0,51"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/SR",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "1,78"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "1,73"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "6,48"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-1,29"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-1,25"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-0,69"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-1,05"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-49,97"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-48,50"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,49"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "32,11"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "35,29"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. BRUTA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-49,97"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-48,50"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBITDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,49"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. EBIT",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROE",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-49,97"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-48,50"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROA",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "0,49"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "ROIC",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,22"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "ATUAL",
+            "value": "-49,97"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2022",
+            "value": "-48,50"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2021",
+            "value": "1,42"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2020",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "DMMO11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "DOMMO ENERGIA",
+            "year": "2014",
+            "value": "-"
+      }
+]

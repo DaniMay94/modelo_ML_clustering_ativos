@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D.Y",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/L",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PEG RATIO",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,36"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,00"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/VP",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,99"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBITDA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "5,98"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "EV/EBIT",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,81"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "0,92"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "1,20"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBITDA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,97"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "1,41"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/EBIT",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,88"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "0,83"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "1,08"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "1,53"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-1,35"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "0,31"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "2,17"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-2,16"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "VPA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "3,22"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "0,11"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "0,15"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "1,08"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "1,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "0,99"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "1,27"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "0,04"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-5,66"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-1,22"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "0,81"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-4,50"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LPA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-2,81"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "0,08"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "0,13"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/SR",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,44"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "0,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "0,52"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-0,26"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-0,35"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-0,45"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,36"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,00"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,99"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "5,98"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. BRUTA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBITDA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. EBIT",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,36"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,00"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROE",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROA",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "ROIC",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "4,12"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,36"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,00"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "ATUAL",
+            "value": "3,34"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2020",
+            "value": "3,62"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BEEF11",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "MINERVA",
+            "year": "2014",
+            "value": "-"
+      }
+]

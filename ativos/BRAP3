@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "12,44%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "11,63%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "47,03%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "5,99%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "1,74%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,80%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "21,16%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D.Y",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "13,21%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-30,53"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,71"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/L",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "40,68"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "1,34"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,14"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "1,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,98"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/VP",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,32"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "3,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "14,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-31,25"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,50"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "5,97"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "96,30"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,41"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,76"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,07"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,64"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-29,62"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,26"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,31"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "5,62"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "71,68"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "18,91"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "19,02"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "19,09"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "32,34"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "27,47"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "28,62"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "25,19"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "22,63"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "22,65"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "VPA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "25,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "1,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "1,25"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "1,76"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "1,22"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "0,96"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,76"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,43"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,39"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "9,09"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "9,48"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "20,55"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "4,22"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-1,16"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "3,42"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "6,66"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "1,80"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-7,41"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LPA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/SR",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "41,85"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "152,69"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "34,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "52,41"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "51,26"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "95,40"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-12,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "4,27"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "4,52"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-15,52"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-1,16"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-1,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-1,18"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-1,83"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-1,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-0,91"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-0,52"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,17"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-0,43"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "12,44%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "11,63%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "47,03%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "5,99%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "1,74%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,80%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "21,16%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "13,21%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-30,53"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,71"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "40,68"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "1,34"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,14"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "1,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,98"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,32"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "3,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "14,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-31,25"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,50"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,67"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "5,97"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-1,07"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "96,30"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "12,44%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "11,63%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "47,03%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "5,99%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "1,74%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,80%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "21,16%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "13,21%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-30,53"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,71"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "40,68"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. EBIT",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "1,34"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,14"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "1,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,98"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "12,44%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "11,63%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "47,03%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "5,99%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "1,74%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,80%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "21,16%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROE",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "13,21%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-30,53"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,71"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROA",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "40,68"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "-0,05"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "-0,18"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,01"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,00"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "ROIC",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "1,13"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "1,34"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,14"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "1,77"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "1,29"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "1,02"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "0,98"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "0,20"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "0,46"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "12,44%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "11,63%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "47,03%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "3,18%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "3,58%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "5,99%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "1,74%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "0,80%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "21,16%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "13,21%"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "ATUAL",
+            "value": "2,36"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2022",
+            "value": "2,70"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2021",
+            "value": "1,06"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2020",
+            "value": "13,58"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2019",
+            "value": "-30,53"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2018",
+            "value": "8,57"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2017",
+            "value": "3,71"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2016",
+            "value": "6,99"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2015",
+            "value": "-0,60"
+      },
+      {
+            "ativo": "BRAP3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BRADESPAR",
+            "year": "2014",
+            "value": "40,68"
+      }
+]

@@ -1,0 +1,1262 @@
+[
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "4,44%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D.Y",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,78"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "31,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "25,54"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/L",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/VP",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,26"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-31,96"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "16,37"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "13,60"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,70"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,83"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,81"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "VPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "0,29"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "0,20"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "0,42"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-0,10"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "0,07"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "0,16"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LPA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,63"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,14"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "3,24"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/SR",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-0,32"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-0,24"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-0,61"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "4,44%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,78"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "31,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "25,54"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,26"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "11,91"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "4,44%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,78"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "31,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "25,54"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. EBIT",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "4,44%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROE",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,78"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "31,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "25,54"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROA",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "0,19"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "ROIC",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "1,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "1,21"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "2,27"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "2,13%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "4,44%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "1,72%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "ATUAL",
+            "value": "-29,78"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2022",
+            "value": "31,82"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2021",
+            "value": "25,54"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "MODL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "BANCO MODAL S.A",
+            "year": "2018",
+            "value": "-"
+      }
+]

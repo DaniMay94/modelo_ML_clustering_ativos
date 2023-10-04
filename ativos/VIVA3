@@ -1,0 +1,1052 @@
+[
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D.Y",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D.Y",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,24%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D.Y",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D.Y",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,36%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D.Y",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/L",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "19,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/L",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,68"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/L",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/L",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "47,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/L",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "23,63"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "5,08"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/VP",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "4,05"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/VP",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "3,20"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/VP",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/VP",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "5,94"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/VP",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "11,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "13,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "10,62"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "15,91"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "25,87"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "17,66"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "13,84"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "19,79"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "33,21"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "21,53"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "13,72"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "10,81"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "16,39"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "26,42"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBIT",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "18,03"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBIT",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,08"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBIT",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,39"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBIT",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "33,93"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/EBIT",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "21,60"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "VPA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "7,16"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "VPA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "7,02"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "VPA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "5,90"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "VPA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "4,96"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "VPA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "2,56"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "2,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "1,81"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "2,34"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "3,25"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "5,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LPA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,50"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LPA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "1,53"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LPA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,26"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LPA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,62"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LPA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "1,23"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/SR",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "3,61"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/SR",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "2,87"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/SR",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "4,10"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/SR",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "6,64"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/SR",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "15,48"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "6,63"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "5,12"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "6,61"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "8,35"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "17,39"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "-5,71"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "-4,52"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "-6,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "-9,69"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "17,39"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,24%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,36%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "19,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,68"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "47,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "23,63"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "5,08"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "4,05"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "3,20"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "5,94"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "11,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "13,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "10,62"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "15,91"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "25,87"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "17,66"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "13,84"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "19,79"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "33,21"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "21,53"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,24%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,36%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "19,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,68"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "47,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "23,63"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBIT",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "5,08"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBIT",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBIT",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBIT",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. EBIT",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "4,05"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "3,20"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "5,94"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "11,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROE",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROE",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,24%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROE",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROE",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,36%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROE",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROA",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "19,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROA",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,68"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROA",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROA",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "47,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROA",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "23,63"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROIC",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "5,08"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROIC",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,70"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROIC",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROIC",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "ROIC",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "4,05"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "3,20"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "5,94"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "11,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "1,25%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "0,24%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "1,29%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "0,36%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "ATUAL",
+            "value": "19,38"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2022",
+            "value": "14,68"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2021",
+            "value": "20,13"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2020",
+            "value": "47,44"
+      },
+      {
+            "ativo": "VIVA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "VIVARA",
+            "year": "2019",
+            "value": "23,63"
+      }
+]

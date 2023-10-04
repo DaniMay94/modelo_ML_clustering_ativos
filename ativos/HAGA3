@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D.Y",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "6,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "7,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "22,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "9,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/L",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "3,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "0,30"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,05"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/VP",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "3,53"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "3,81"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "9,54"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "4,85"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-55,36"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "12,80"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "6,98"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "7,87"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "9,55"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "9,09"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "5,22"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "13,24"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "4,93"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-64,09"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "7,97"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "2,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-4,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-4,74"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-5,20"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-5,88"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-6,35"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-6,46"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-6,97"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-6,85"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-7,13"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "VPA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-7,09"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "0,65"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "0,71"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "1,37"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "0,66"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "1,01"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "0,58"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "1,00"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "0,55"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,37"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "0,51"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "0,47"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "0,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "0,47"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "0,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "0,50"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-0,12"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "0,27"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "0,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LPA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,42"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,30"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "1,50"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "1,98"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "1,32"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "2,41"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "1,48"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "2,44"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "0,96"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/SR",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,49"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,62"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "2,03"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "4,02"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "1,85"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "2,60"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "1,49"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "2,63"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "1,80"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "1,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-4,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-4,60"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-7,76"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-3,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-5,16"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-2,97"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-2,43"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-1,42"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "6,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "7,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "22,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "9,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "3,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "0,30"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,05"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,09"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "1,31"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "3,53"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "3,81"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "9,54"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "4,85"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-55,36"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "12,80"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "6,98"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "6,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "7,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "22,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "9,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "3,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "0,30"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. EBIT",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,05"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROE",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "6,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "7,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "22,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "9,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROA",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "3,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "1,39"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,01"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "0,30"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "ROIC",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "0,05"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-0,68"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-1,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-0,56"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-0,44"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-0,72"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-0,34"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-0,21"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "ATUAL",
+            "value": "6,26"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2022",
+            "value": "7,64"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2021",
+            "value": "10,29"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2020",
+            "value": "7,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2019",
+            "value": "22,67"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2018",
+            "value": "5,69"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2017",
+            "value": "-42,33"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2015",
+            "value": "9,04"
+      },
+      {
+            "ativo": "HAGA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "HAGA S/A",
+            "year": "2014",
+            "value": "3,56"
+      }
+]

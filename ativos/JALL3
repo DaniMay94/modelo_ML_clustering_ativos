@@ -1,0 +1,1472 @@
+[
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "2,33%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D.Y",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,29"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "11,72"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "7,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/L",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PEG RATIO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,18"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,49"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/VP",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,42"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "6,50"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "21,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-77,60"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "5,03"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "EV/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "2,96"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "4,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "11,98"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-51,59"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "4,09"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "7,21"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "5,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "4,51"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "VPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "0,43"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "0,48"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "0,82"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,61"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "0,65"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "1,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LPA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,38"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,35"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/SR",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,84"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,68"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,80"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-0,66"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-0,87"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "2,33%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,29"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "11,72"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "7,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,18"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,49"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,42"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "6,50"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "21,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-77,60"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "5,03"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "2,33%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. BRUTA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,29"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "11,72"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "7,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBITDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. EBIT",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,18"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,49"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "2,33%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROE",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,29"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "11,72"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "7,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROA",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "0,12"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "-0,88"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "ROIC",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "1,18"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "1,49"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,32"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "2,33%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "2,81%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "ATUAL",
+            "value": "5,29"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2022",
+            "value": "11,72"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2021",
+            "value": "7,93"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "JALL3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "JALLES MACHADO S.A.",
+            "year": "2017",
+            "value": "-"
+      }
+]

@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "2,41%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "10,96%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "9,43%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D.Y",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "9,79"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "21,86"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "63,77"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "3,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "3,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/L",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PEG RATIO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "2,69"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/VP",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "-11,00"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-10,95"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "38,34"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-52,96"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "-14,19"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "35,90"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-16,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-58,40"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "EV/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "11,81"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "18,80"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "218,36"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "15,24"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "19,35"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "240,78"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "11,61"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "22,40"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "17,76"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "17,51"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "16,97"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "16,76"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "16,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "15,55"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "14,81"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "14,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "13,57"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "VPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "12,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,30"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,96"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,06"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "1,15"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "1,14"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,68"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,72"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "0,70"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,83"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "0,87"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LPA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "0,56"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "224,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "35,04"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "111,23"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "6,88"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "6,03"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/SR",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "1,35"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,69"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "2,60"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,29"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,32"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "-0,64"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-0,75"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-2,49"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-0,13"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "2,41%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "10,96%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "9,43%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "9,79"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "21,86"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "63,77"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "3,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "3,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "2,69"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "-11,00"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-10,95"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "38,34"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-15,71"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-52,96"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "-14,19"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-13,82"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "35,90"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-16,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-58,40"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "2,41%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "10,96%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "9,43%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. BRUTA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "9,79"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "21,86"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "63,77"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "3,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "3,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBITDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. EBIT",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "2,69"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "2,41%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "10,96%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "9,43%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROE",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "9,79"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "21,86"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "63,77"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "3,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "3,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROA",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,03"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,94"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "-0,63"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "ROIC",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "0,64"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "0,73"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "2,69"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "0,16"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "0,18"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "2,82%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "2,41%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "0,64%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "10,96%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "9,43%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "ATUAL",
+            "value": "9,79"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2020",
+            "value": "21,86"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2019",
+            "value": "63,77"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2018",
+            "value": "3,37"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2016",
+            "value": "3,01"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "BRGE5",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CONS\u00d3RCIO ALFA DE ADMINISTRA\u00c7\u00c3O",
+            "year": "2014",
+            "value": "-"
+      }
+]

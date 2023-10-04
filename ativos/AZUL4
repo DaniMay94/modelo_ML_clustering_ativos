@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D.Y",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-19,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-7,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-30,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "107,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/L",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PEG RATIO",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-1,68"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-3,50"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-20,80"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-75,93"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/VP",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "7,49"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "18,92"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "43,44"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "8,72"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "55,42"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBITDA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "16,42"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "18,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "552,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-12,62"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-18,07"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "89,69"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "EV/EBIT",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "3,95"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "19,23"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "121,71"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "29,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "53,04"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBITDA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "12,56"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "9,74"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "561,31"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-35,36"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-61,24"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "85,84"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/EBIT",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-15,60"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-15,03"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-14,52"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-11,24"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-2,80"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-0,47"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "VPA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "1,26"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,74"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "1,66"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "3,13"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "3,81"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "2,82"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-3,26"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-0,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-3,34"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-8,61"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-1,91"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "0,34"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LPA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "1,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,87"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "3,08"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "8,61"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "6,40"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "4,93"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/SR",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,84"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-1,37"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-5,25"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-10,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-26,88"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-26,71"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,63"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-1,01"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-2,42"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,77"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-4,86"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-3,63"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-19,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-7,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-30,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "107,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-1,68"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-3,50"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-20,80"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-75,93"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "7,49"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "18,92"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "43,44"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "8,72"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "55,42"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "16,42"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "18,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "552,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-12,62"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-18,07"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "89,69"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. BRUTA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-19,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-7,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-30,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "107,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBITDA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. EBIT",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-1,68"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-3,50"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-20,80"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-75,93"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROE",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-19,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-7,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-30,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "107,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROA",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "0,01"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "0,23"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "ROIC",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-1,11"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-0,73"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-1,68"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-3,50"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-20,80"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-75,93"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-%"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "ATUAL",
+            "value": "-5,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2022",
+            "value": "-19,27"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2021",
+            "value": "-7,30"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2020",
+            "value": "-4,57"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2019",
+            "value": "-30,46"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2018",
+            "value": "107,32"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "AZUL4",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "AZUL",
+            "year": "2014",
+            "value": "-"
+      }
+]

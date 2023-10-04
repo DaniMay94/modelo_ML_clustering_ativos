@@ -1,0 +1,842 @@
+[
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D.Y",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D.Y",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D.Y",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D.Y",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/L",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-68,10"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/L",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-28,55"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/L",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-22,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/L",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PEG RATIO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/VP",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/VP",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/VP",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/VP",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-11,08"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-7,49"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-13,61"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "EV/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-18,76"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-12,41"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-21,91"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "VPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "3,88"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "VPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "3,97"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "VPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "4,14"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "VPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,15"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "1,16"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "1,71"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-0,08"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-0,20"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LPA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/SR",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,96"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/SR",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "2,08"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/SR",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "3,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/SR",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "2,14"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "2,01"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "2,28"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-3,81"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-4,12"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-16,50"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-68,10"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-28,55"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-22,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-11,08"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-7,49"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-13,61"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. BRUTA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-68,10"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-28,55"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-22,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBITDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. EBIT",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROE",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-68,10"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-28,55"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-22,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROA",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROIC",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "0,77"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROIC",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "0,57"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROIC",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "ROIC",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "1,42"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "2,18"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "ATUAL",
+            "value": "-68,10"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2022",
+            "value": "-28,55"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2021",
+            "value": "-22,70"
+      },
+      {
+            "ativo": "CLSA3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "CLEAR SALE S.A.",
+            "year": "2020",
+            "value": "-"
+      }
+]

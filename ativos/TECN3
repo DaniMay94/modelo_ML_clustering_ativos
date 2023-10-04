@@ -1,0 +1,2102 @@
+[
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,29%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D.Y",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "4,75%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "6,49"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-23,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-145,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "12,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/L",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "13,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "1,34"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PEG RATIO",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,43"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,55"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/VP",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "2,63"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "111,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "4,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-17,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,56"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-76,52"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-27,86"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "42,85"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "13,64"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "EV/EBIT",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "2,42"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "3,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "69,38"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,47"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "4,53"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "2,84"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "3,60"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-10,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,23"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-66,55"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-21,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "33,07"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/EBIT",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "9,23"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "4,95"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "4,90"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "4,19"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "4,03"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "4,39"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "5,93"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "5,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "5,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "5,89"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "VPA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "5,92"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,25"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,17"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,24"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,39"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,38"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,37"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,76"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,68"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,54"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,36"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-0,36"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-1,56"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,18"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,15"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-0,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LPA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,72"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,45"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,58"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,42"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,89"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,63"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,78"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,72"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/SR",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,46"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,48"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,59"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,37"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "1,23"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,76"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "1,19"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "1,08"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/CAP. GIRO",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,75"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "-1,13"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "-0,70"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-0,81"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-0,40"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-1,00"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-0,48"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,74"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-0,79"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "P/ATIVO CIRC. LIQ.",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "-1,77"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,29%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/PL",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "4,75%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "6,49"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-23,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-145,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "12,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBITDA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "13,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "1,34"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "D\u00cdV. L\u00cdQUIDA/EBIT",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,43"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,55"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PL/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "2,63"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "3,67"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "111,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,83"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "PASSIVOS/ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "4,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "4,31"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-17,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,56"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-76,52"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-27,86"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "42,85"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "13,64"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "LIQ. CORRENTE",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "11,37"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,29%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. BRUTA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "4,75%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "6,49"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-23,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-145,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "12,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBITDA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "13,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "1,34"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. EBIT",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,43"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,55"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "M. L\u00cdQUIDA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,29%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROE",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "4,75%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "6,49"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-23,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-145,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "12,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROA",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "13,02"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,07"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,09"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-0,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-0,04"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "1,34"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "-0,25"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "ROIC",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "0,28"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "0,73"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "0,43"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "0,55"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "0,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "0,82"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "0,41"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "0,60"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "0,61"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "GIRO ATIVOS",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "1,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "2,28%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,82%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "2,70%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "8,29%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR RECEITAS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "4,75%"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "ATUAL",
+            "value": "5,32"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2022",
+            "value": "3,96"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2021",
+            "value": "6,49"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2020",
+            "value": "-3,62"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2019",
+            "value": "-2,30"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2018",
+            "value": "13,44"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2017",
+            "value": "-23,06"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2016",
+            "value": "-145,98"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2015",
+            "value": "12,91"
+      },
+      {
+            "ativo": "TECN3",
+            "indicator_name": "CAGR LUCROS 5 ANOS",
+            "nome": "TECHNOS",
+            "year": "2014",
+            "value": "13,02"
+      }
+]
